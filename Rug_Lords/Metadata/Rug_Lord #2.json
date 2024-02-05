@@ -1,9 +1,9 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #2",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
@@ -19,23 +19,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Green Keffiyeh"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Round Shades"
         },
         {
             "trait_type": "1/1",

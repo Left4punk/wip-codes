@@ -1,9 +1,9 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #35",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Green Sweater"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Fisherman Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Gold Shades"
         },
         {
             "trait_type": "1/1",

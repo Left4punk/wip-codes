@@ -1,41 +1,41 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #23",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Gold Glasses"
         },
         {
             "trait_type": "1/1",

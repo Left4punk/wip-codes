@@ -2,6 +2,7 @@ from os import listdir
 from os.path import isfile, join
 import json
 import pandas as pd
+import sys
 import random
 from PIL import Image
 from random import randint
@@ -19,24 +20,29 @@ def Get_Layers ():
     Accesories = [f for f in listdir(f"{input_path}/6 - Accesories") if isfile(join(f"{input_path}/6 - Accesories", f))]
     Head = [f for f in listdir(f"{input_path}/7 - Head") if isfile(join(f"{input_path}/7 - Head", f))]
     Facewear = [f for f in listdir(f"{input_path}/8 - Facewear") if isfile(join(f"{input_path}/8 - Facewear", f))]
+    WholeHead = [f for f in listdir(f"{input_path}/9 - Whole Head") if isfile(join(f"{input_path}/9 - Whole Head", f))]
 
-    return  BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear
+
+    return  BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear, WholeHead
+
 
 def Get_Rarities ():
     
     BackGrounds_Rarity = [10,10,10,10,10,10,10,10]
     Base_Rarity = [33,33,33]
     Eyes_Rarity = [10,10,10,10,10,10,10,10]
-    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     Mouth_Rarity=[10,10,10,10,10,10]
     FacialHair_Rarity=[10,10,10,10,10,10,10,10]
-    Accesories_Rarity = [10,10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Facewear_Rarity = [10,10,10,10,10,10,10,10,10,10]
+    Accesories_Rarity = [10,10,10,10,10,10]
+    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Facewear_Rarity = [10,10,10,10,10,10,10,10,10,10,10]
+    WholeHead_Rarity = [10,10,50,10,10]
     
-    return BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity
+    
+    return BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity, WholeHead_Rarity
 
-def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Eyes,Eyes_Rarity,Torso,Torso_Rarity,Mouth,Mouth_Rarity,FacialHair,FacialHair_Rarity,Accesories,Accesories_Rarity,Head,Head_Rarity,Facewear,Facewear_Rarity):
+def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Eyes,Eyes_Rarity,Torso,Torso_Rarity,Mouth,Mouth_Rarity,FacialHair,FacialHair_Rarity,Accesories,Accesories_Rarity,Head,Head_Rarity,Facewear,Facewear_Rarity,WholeHead, WholeHead_Rarity):
   
 
     NFT_BackGrounds = random.choices(BackGrounds,weights=(BackGrounds_Rarity))[0]
@@ -48,14 +54,30 @@ def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Eyes,E
     NFT_Accesories = random.choices(Accesories,weights=(Accesories_Rarity))[0]
     NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
     NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]
+    NFT_WholeHead = random.choices(WholeHead,weights=(WholeHead_Rarity))[0]  
     
-    
-    return NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear
+    return NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead
 
+def Get_NFT_Hands(Base):
+
+    Base = Base.split('.')[0]
+
+    Hand_Path = f"{input_path}/10 - Hand/{Base}/"
+    Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
     
-def control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear):
+    if (Base == 'Tanned'):
+        Hand_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     
-    ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Eyes + "&" + NFT_Torso + "&" + NFT_Mouth + "&" + NFT_FacialHair + "&" + NFT_Accesories + "&" + NFT_Head + "&" + NFT_Facewear
+    else:
+        Hand_Rarity = [100]
+
+    NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
+    
+    return NFT_Hand
+    
+def control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand):
+    
+    ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Eyes + "&" + NFT_Torso + "&" + NFT_Mouth + "&" + NFT_FacialHair + "&" + NFT_Accesories + "&" + NFT_Head + "&" + NFT_Facewear + "&" + NFT_WholeHead + "&" + NFT_Hand
     
     if (ADN_NFT in ADN_list):
         control = True
@@ -67,8 +89,27 @@ def control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mou
     return ADN_list, control
 
 
-def get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear):
+def Eyes_Conflicts (NFT_Eyes,excluded_traits):
     
+    if (NFT_Eyes == 'Blue Laser Eyes.png'):
+
+        
+        conflict_hairs = ['Emamah.png','Orange Keffiyeh.png','Messy Hair.png','Dreadlocks.png','Brown Quiff.png','Small Dreadlocks.png','Crazy Hair.png']
+         
+        #for elem in excluded_traits:
+        #    if elem in available_heads:
+        #        remove = available_heads.index(elem)
+        #        available_heads.pop(remove)
+        #        available_rarity.pop(remove)
+                # print (elem)
+        NFT_Facewear = 'none.png'
+        NFT_Wholehead = 'none.png'
+        #NFT_Head = random.choices(available_heads,weights=(available_rarity))[0] #'Non La.png'
+
+
+def get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand):
+    
+    Base = NFT_Base.split('.')[0]
     Image_BackGrounds = f'{input_path}/0 - Background/'+NFT_BackGrounds
     Image_Base = f'{input_path}/1 - Base/'+NFT_Base
     Image_Eyes = f'{input_path}/2 - Eyes/'+NFT_Eyes
@@ -78,10 +119,12 @@ def get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_F
     Image_Accesories = f'{input_path}/6 - Accesories/'+NFT_Accesories
     Image_Head = f'{input_path}/7 - Head/'+NFT_Head
     Image_Facewear = f'{input_path}/8 - Facewear/'+NFT_Facewear
-    
-    return Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear
+    Image_WholeHead = f'{input_path}/9 - Whole Head/'+NFT_WholeHead
+    Image_Hand = f'{input_path}/10 - Hand/{Base}/'+NFT_Hand    
 
-def get_NFT_main (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear):
+    return Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear, Image_WholeHead, Image_Hand
+
+def get_NFT_main (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear, Image_WholeHead, Image_Hand):
     
    
     BackGround_Image = Image.open(Image_BackGrounds).convert("RGBA")
@@ -116,7 +159,15 @@ def get_NFT_main (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_
     
     Facewear_Image = Image.open(Image_Facewear).convert("RGBA")
     
-    final = Image.alpha_composite(int7, Facewear_Image)
+    int8 = Image.alpha_composite(int7, Facewear_Image)
+    
+    WholeHead_Image = Image.open(Image_WholeHead).convert("RGBA")
+
+    int9 = Image.alpha_composite(int8, WholeHead_Image)
+
+    Hand_Image = Image.open(Image_Hand).convert("RGBA")
+
+    final = Image.alpha_composite(int9, Hand_Image)
 
     return final
 
@@ -132,13 +183,12 @@ if __name__ == '__main__':
     
     input_path = base_dir/'Traits'
     output_path = base_dir/'Generations'
-    json_out = base_dir/'Metadata'
+    json_out_path = base_dir/'Metadata'
     
     output_path.mkdir(parents=True, exist_ok=True)
-    json_out.mkdir(parents=True, exist_ok=True)
+    json_out_path.mkdir(parents=True, exist_ok=True)
     
-    BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear  = Get_Layers ()
-    BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity  = Get_Rarities()
+    
 
 
     ## control
@@ -149,36 +199,42 @@ if __name__ == '__main__':
 
     while (i<1001):
         
-        NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear = NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Eyes,Eyes_Rarity,Torso,Torso_Rarity,Mouth,Mouth_Rarity,FacialHair,FacialHair_Rarity,Accesories,Accesories_Rarity,Head,Head_Rarity,Facewear,Facewear_Rarity)
+        ## getting rarities per run ##
+        BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear, WholeHead = Get_Layers ()
+        BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity, WholeHead_Rarity = Get_Rarities()
+        ## getting rarities per run ##
 
-        print (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear)
-    #conflicts
+        
+        ##get first layers
+        NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead= NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Eyes,
+                                                                                                                                                                          Eyes_Rarity,Torso,Torso_Rarity,Mouth,Mouth_Rarity,FacialHair,
+                                                                                                                                                                          FacialHair_Rarity,Accesories,Accesories_Rarity,Head,Head_Rarity,Facewear,Facewear_Rarity,
+                                                                                                                                                                          WholeHead, WholeHead_Rarity)
+        print(NFT_Base)
 
-    ## control
+        NFT_Hand = Get_NFT_Hands(NFT_Base)
+        ##get first layers
+        
+        #conflicts
+
+        ## control
     
-        ADN_List, control = control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear)
+        ADN_List, control = control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand)
         if control: continue
     
-    ## control
+        ## control
     
-    ##import images
-
-        #print (NFT_Head)
-        Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear = get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear)
-
+    
+        ##import final images
+        Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear, Image_WholeHead, Image_Hand = get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand)
+        ##import final images
     
         ##image generation
         
-        final = get_NFT_main (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear) 
+        final = get_NFT_main (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear, Image_WholeHead, Image_Hand)
 
         final.save (f'{output_path}/Rug_Lord #{i}.png')
 
-        #print (f'Rug_Lord #{i}')
-        
-        
-        # df = pd.concat([append_df,df])
-
-        
         metadata = {
             'name': f'Rug_Lord #{i}',
             'attributes': [
@@ -225,8 +281,7 @@ if __name__ == '__main__':
             }
         
 
-        json_out = open(rf'{json_out}\Rug_Lord #{i}.json','w')
-        json.dump(metadata, json_out, indent=4)
-        json_out.close()
-       
+        with open(rf'{json_out_path}/Rug_Lord #{i}.json', 'w') as json_print:  # Nota el uso de 'with', que es una buena práctica para manejar archivos
+            json.dump(metadata, json_print, indent=4)
+        print (rf"Rug Lord #{i}")
         i+=1

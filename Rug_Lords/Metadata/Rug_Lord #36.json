@@ -1,5 +1,5 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #36",
     "attributes": [
         {
             "trait_type": "Background",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "1/1",

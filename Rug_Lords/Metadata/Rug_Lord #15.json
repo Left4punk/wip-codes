@@ -1,21 +1,21 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #15",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Long Windswept Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Round Shades"
         },
         {
             "trait_type": "1/1",

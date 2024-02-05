@@ -1,41 +1,41 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #9",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "BTC Bandana"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "Red"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Long Windswept Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Shades"
         },
         {
             "trait_type": "1/1",

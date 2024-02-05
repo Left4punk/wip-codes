@@ -1,41 +1,41 @@
 {
-    "name": "Rug_Lord #1",
+    "name": "Rug_Lord #13",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Black Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "1/1",
