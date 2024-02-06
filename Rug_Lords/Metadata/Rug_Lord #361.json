@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Grey Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Scanner"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "Dune"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Red Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

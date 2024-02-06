@@ -7,31 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Sweater"
+            "value": "Farvahar Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Pharaoh_s Headdress"
+            "value": "none"
         },
         {
             "trait_type": "Facewear",

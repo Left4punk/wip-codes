@@ -143,7 +143,7 @@ def Eyes_Conflicts (NFT_Eyes,
 
     elif (NFT_Eyes == 'Neutral.png'):
 
-        conflict_heads = ['Jafar''s Hat.png','Green Keffiyeh.png','Red Turban.png']
+        conflict_heads = ['Jafar_s Hat.png','Green Keffiyeh.png','Red Turban.png']
 
         for elem in conflict_heads:
 
@@ -202,11 +202,11 @@ def Eyes_Conflicts (NFT_Eyes,
     return NFT_Head, NFT_Facewear, NFT_WholeHead
 
 def Bandana_Conflicts (NFT_Mouth, 
-                       NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair,FacialHair_Rarity):
+                       NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair,FacialHair_Rarity,NFT_WholeHead):
 
     if (NFT_Mouth == 'BTC Bandana.png' or NFT_Mouth == 'Cigar.png' or NFT_Mouth == 'Pipe.png'):
         
-        conflict_heads = ['Grey Keffiyeh.png','Brown Bedouin.png','Bedouin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Jafar''s Hat.png','Green Keffiyeh.png','Wavy Black Hair.png','Red Keffiyeh.png']
+        conflict_heads = ['Grey Keffiyeh.png','Brown Bedouin.png','Bedouin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Jafar_s Hat.png','Green Keffiyeh.png','Wavy Black Hair.png','Red Keffiyeh.png']
 
         for elem in conflict_heads:
 
@@ -217,7 +217,9 @@ def Bandana_Conflicts (NFT_Mouth,
                 Head_Rarity.pop(remove_elem)
 
         NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
-        NFT_FacialHair = NFT_FacialHair
+        NFT_FacialHair = 'none.png'
+        NFT_WholeHead = 'none.png'
+
         
         
     elif (NFT_Mouth == 'Smile.png'):
@@ -234,6 +236,7 @@ def Bandana_Conflicts (NFT_Mouth,
                 
         NFT_Head = NFT_Head
         NFT_FacialHair = random.choices(FacialHair,weights=(FacialHair_Rarity))[0]
+        NFT_WholeHead = NFT_WholeHead
     
     elif (NFT_Mouth == 'Smirk.png'):
 
@@ -249,19 +252,20 @@ def Bandana_Conflicts (NFT_Mouth,
                 
         NFT_Head = NFT_Head
         NFT_FacialHair = random.choices(FacialHair,weights=(FacialHair_Rarity))[0]
-    
+        NFT_WholeHead = NFT_WholeHead
     else:
         NFT_Head = NFT_Head
         NFT_FacialHair = NFT_FacialHair
+        NFT_WholeHead = NFT_WholeHead
     
-    return NFT_Head, NFT_FacialHair
+    return NFT_Head, NFT_FacialHair,NFT_WholeHead
 
 def FacialHair_Conflicts (NFT_FacialHair, 
                           NFT_Head, NFT_WholeHead, Head, Head_Rarity):
 
     if (NFT_FacialHair == 'Black.png' or NFT_FacialHair == 'Grey.png' or NFT_FacialHair == 'Neck.png' or NFT_FacialHair == 'Red.png' or NFT_FacialHair == 'Thin.png'):
  
-        conflict_heads = ['Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Jafar''s Hat.png','Wavy Black Hair.png']
+        conflict_heads = ['Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Jafar_s Hat.png','Wavy Black Hair.png']
 
         for elem in conflict_heads:
 
@@ -276,7 +280,7 @@ def FacialHair_Conflicts (NFT_FacialHair,
 
     elif (NFT_FacialHair == 'Bushy.png'):
 
-        conflict_heads = ['Grey Keffiyeh.png','Brown Boudin.png','Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Green Keffiyeh.png','Red Keffiyeh.png','Jafar''s Hat.png','Wavy Black Hair.png']
+        conflict_heads = ['Grey Keffiyeh.png','Brown Boudin.png','Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Green Keffiyeh.png','Red Keffiyeh.png','Jafar_s Hat.png','Wavy Black Hair.png']
 
         for elem in conflict_heads:
 
@@ -313,7 +317,7 @@ def Accesories_Conflicts (NFT_Accesories,
         NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
     elif (NFT_Accesories == 'Gold Statement.png'):
         
-        conflict_heads = ['Short Slick.png', 'Messy Hair.png','Emamah.png','Hemlet.png','Orange Keffiyeh.png','Dreadlock Headband.png','Long Windswept Hair.png','Jafar''s Hat.png','Wavy Black Hair.png']
+        conflict_heads = ['Short Slick.png', 'Messy Hair.png','Emamah.png','Hemlet.png','Orange Keffiyeh.png','Dreadlock Headband.png','Long Windswept Hair.png','Jafar_s Hat.png','Wavy Black Hair.png']
 
         for elem in conflict_heads:
 
@@ -341,7 +345,7 @@ def Hand_Conflicts (NFT_Hand,
     if (NFT_Hand == 'Bundle.png'):
 
         conflict_mouth = ['BTC Bandana.png','Pipe.png']
-        conflict_heads = ['Grey Keffiyeh.png','Brown Bedouin.png','Bedouin.png','Orange Keffiyeh.png','Green Keffiyeh.png','Red Keffiyeh.png','Pharaoh''s Headdress.png','Black Turban.png']
+        conflict_heads = ['Grey Keffiyeh.png','Brown Bedouin.png','Bedouin.png','Orange Keffiyeh.png','Green Keffiyeh.png','Red Keffiyeh.png','Pharaoh_s Headdress.png','Black Turban.png']
 
         for elem in conflict_mouth:
 
@@ -421,8 +425,8 @@ def Hand_Conflicts (NFT_Hand,
     elif (NFT_Hand == 'Rug.png'):
         
         conflict_mouth = ['BTC Bandana.png','Pipe.png','Cigar.png']
-        conflict_heads = ['Grey Keffiyeh.png', 'Fisherman Hat.png', 'Cowboy Hat.png', 'Panama Hat.png', 'Small Dreadlocks.png', 'Messy Hair.png', 'Long Windswept Hair.png', 'Jafar''s Hat.png', 'Wavy Black Hair.png', 
-                          'Boat Cap.png', 'Helmet.png', 'Red Turban.png', 'Emamah.png', 'Brown Bedouin.png', 'Bedouin.png', 'Orange Keffiyeh.png', 'Green Keffiyeh.png', 'Red Keffiyeh.png', 'Pharaoh''s Headdress.png', 'Black Turban.png']
+        conflict_heads = ['Grey Keffiyeh.png', 'Fisherman Hat.png', 'Cowboy Hat.png', 'Panama Hat.png', 'Small Dreadlocks.png', 'Messy Hair.png', 'Long Windswept Hair.png', 'Jafar_s Hat.png', 'Wavy Black Hair.png', 
+                          'Boat Cap.png', 'Helmet.png', 'Red Turban.png', 'Emamah.png', 'Brown Bedouin.png', 'Bedouin.png', 'Orange Keffiyeh.png', 'Green Keffiyeh.png', 'Red Keffiyeh.png', 'Pharaoh_s Headdress.png', 'Black Turban.png']
         
         for elem in conflict_mouth:
 
@@ -458,10 +462,10 @@ def Facewear_Conflicts (NFT_Facewear,
         NFT_Facewear == 'Gold Shades.png' or NFT_Facewear == 'Reading Glasses.png' or
         NFT_Facewear == 'Round Shades.png' or NFT_Facewear == 'Shades.png' or NFT_Facewear == 'Sunglasses.png'):
         
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh''s Headdress.png', 'Red Keffiyeh.png', 'Emamah.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar''s Hat.png', 'Long Windswept Hair.png', 
+        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Red Keffiyeh.png', 'Emamah.png', 'Turban.png',
+            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
             'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
-            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh''s Headdress.png', 'Black Turban.png']
+            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh_s Headdress.png', 'Black Turban.png']
 
         for elem in conflict_heads:
             
@@ -476,9 +480,9 @@ def Facewear_Conflicts (NFT_Facewear,
 
     elif (NFT_Facewear == 'Scanner.png'):
     
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh''s Headdress.png', 'Boat Cap.png',
+        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Boat Cap.png',
             'Crazy Hair.png', 'Panama Hat.png','Ahinese Hat.png', 'Red Keffiyeh.png', 'Emamah.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar''s Hat.png', 'Long Windswept Hair.png', 
+            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
             'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
             'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png']
         
@@ -495,7 +499,7 @@ def Facewear_Conflicts (NFT_Facewear,
 
     elif (NFT_Facewear == 'Monocle.png'):
         
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Green Keffiyeh.png', 'Jafar''s Hat.png', 'Orange Keffiyeh.png', 'Grey Keffiyeh.png', 'Prince Turban.png']
+        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Orange Keffiyeh.png', 'Grey Keffiyeh.png', 'Prince Turban.png']
         
         for elem in conflict_heads:
             
@@ -510,10 +514,10 @@ def Facewear_Conflicts (NFT_Facewear,
 
     elif (NFT_Facewear == '3D Glasses.png'):
         
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh''s Headdress.png', 'Red Keffiyeh.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar''s Hat.png', 'Long Windswept Hair.png', 
+        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Red Keffiyeh.png', 'Turban.png',
+            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
             'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
-            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh''s Headdress.png', 'Black Turban.png']
+            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh_s Headdress.png', 'Black Turban.png']
         
         for elem in conflict_heads:
             
@@ -694,11 +698,12 @@ if __name__ == '__main__':
 
         #conflicts
         NFT_Head, NFT_Facewear, NFT_WholeHead = Eyes_Conflicts (NFT_Eyes, NFT_Head, NFT_Facewear, NFT_WholeHead, Facewear,Facewear_Rarity, Head, Head_Rarity)
-        NFT_Head, NFT_FacialHair = Bandana_Conflicts (NFT_Mouth, NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair, FacialHair_Rarity)
-        NFT_Head, NFT_WholeHead = FacialHair_Conflicts (NFT_FacialHair, NFT_Head, NFT_WholeHead, Head, Head_Rarity)
+        NFT_Head, NFT_FacialHair, NFT_WholeHead = Bandana_Conflicts (NFT_Mouth, NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair,FacialHair_Rarity,NFT_WholeHead)
         NFT_Head = Accesories_Conflicts (NFT_Accesories, NFT_Head, Head, Head_Rarity)
         NFT_Mouth, NFT_Head, NFT_FacialHair, NFT_WholeHead, NFT_Facewear = Hand_Conflicts (NFT_Hand,NFT_Mouth, Mouth, Mouth_Rarity,NFT_FacialHair, NFT_Head, Head, Head_Rarity,NFT_WholeHead, NFT_Facewear)
         NFT_Head, NFT_WholeHead = Facewear_Conflicts (NFT_Facewear,NFT_Head, Head, Head_Rarity,NFT_WholeHead)
+        NFT_Head, NFT_WholeHead = FacialHair_Conflicts (NFT_FacialHair, NFT_Head, NFT_WholeHead, Head, Head_Rarity)
+        NFT_Head, NFT_FacialHair, NFT_WholeHead = Bandana_Conflicts (NFT_Mouth, NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair,FacialHair_Rarity,NFT_WholeHead)
         ## control
     
         ADN_List, control = control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand)

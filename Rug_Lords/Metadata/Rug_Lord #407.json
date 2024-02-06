@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Side Eye"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Blue Kaftan"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "BTC Bandana"
-        },
-        {
-            "trait_type": "Facial Hair",
             "value": "Black"
         },
         {
+            "trait_type": "Eyes",
+            "value": "Green Laser Eyes"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Grey Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",

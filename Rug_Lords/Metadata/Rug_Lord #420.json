@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Sand"
         },
         {
             "trait_type": "Base",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Prince Turban"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",

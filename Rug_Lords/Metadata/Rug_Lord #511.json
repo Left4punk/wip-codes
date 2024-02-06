@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Scarab Necklace"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Brown Mishlah"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Shades"
         },
         {
             "trait_type": "1/1",

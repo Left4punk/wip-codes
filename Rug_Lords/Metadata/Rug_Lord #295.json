@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -15,19 +15,19 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Shemagh"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Monocle"
         },
         {
             "trait_type": "1/1",

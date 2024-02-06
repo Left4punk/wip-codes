@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Shemagh"
+            "value": "Grey Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Orange Beanie"
+            "value": "none"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "1/1",

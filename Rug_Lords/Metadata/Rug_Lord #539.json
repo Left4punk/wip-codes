@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jubba"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "Gold Statement"
-        },
-        {
-            "trait_type": "Head",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Drop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "White Bordir"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "1/1",

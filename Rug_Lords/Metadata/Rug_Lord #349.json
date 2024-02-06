@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
             "trait_type": "Head",
-            "value": "Jafar_s Hat"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Kaftan"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Round Shades"
         },
         {
             "trait_type": "1/1",
