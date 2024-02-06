@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #423",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Violet"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Black Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange Beanie"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gold Glasses"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

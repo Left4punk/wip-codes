@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #549",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Shemagh"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Coin Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turban"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

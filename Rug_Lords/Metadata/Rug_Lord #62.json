@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #62",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Night Sky"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Blue T Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Coin Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Orange Beanie"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Monocle"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

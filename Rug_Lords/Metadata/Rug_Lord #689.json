@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #689",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser Eyes"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Green Sweater"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ahinese Hat"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

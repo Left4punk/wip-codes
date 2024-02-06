@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #555",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Gold Bisht"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "none"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Prince Turban"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

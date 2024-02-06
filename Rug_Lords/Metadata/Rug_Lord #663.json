@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #663",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "White Pattern Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Short"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #864",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rug Bazar"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Dune"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Drop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brown Quiff"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #256",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Evening Sky"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Brown Aba"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Drop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Helmet"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gold Glasses"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

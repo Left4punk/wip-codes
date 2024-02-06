@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Brown Mishlah"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Blue Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Bedouin"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

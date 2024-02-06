@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Worried"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Lavish Robe"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Smirk"
-        },
-        {
-            "trait_type": "Facial Hair",
             "value": "Black"
         },
         {
+            "trait_type": "Eyes",
+            "value": "Green Laser Eyes"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Waistcoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Black Turban"
+            "value": "Jafar_s Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

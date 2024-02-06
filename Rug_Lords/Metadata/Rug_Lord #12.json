@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Embroided Thobe"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "Gold Drop"
-        },
-        {
-            "trait_type": "Head",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

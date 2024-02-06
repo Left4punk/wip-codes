@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #807",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Violet"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Purple Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Drop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fez"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Black Glasses"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

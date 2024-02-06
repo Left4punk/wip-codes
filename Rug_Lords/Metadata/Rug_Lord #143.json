@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #143",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rug Bazar"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smug"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Ankh Necklace"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Bushy"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Boat Cap"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gold Glasses"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #444",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rug Bazar"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser Eyes"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "White Thobe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Drop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

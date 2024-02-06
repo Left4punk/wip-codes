@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #84",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rug Bazar"
+        },
+        {
+            "trait_type": "Base",
+            "value": "White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "White Jubba"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tattoo"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
