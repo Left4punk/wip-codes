@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Scarab Necklace"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Smirk"
-        },
-        {
-            "trait_type": "Facial Hair",
             "value": "Black"
         },
         {
+            "trait_type": "Eyes",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Orange Aba"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Grey"
+        },
+        {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Grey Keffiyeh"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Round Shades"
         },
         {
             "trait_type": "1/1",

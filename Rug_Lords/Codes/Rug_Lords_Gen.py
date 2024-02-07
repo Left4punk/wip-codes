@@ -8,8 +8,14 @@ from PIL import Image
 from random import randint
 from pathlib import Path
 
+def Get_One_on_Ones ():
+
+    NFTs = [f for f in listdir(f"{input_path}/- 1 of 1") if isfile(join(f"{input_path}/- 1 of 1", f))]
+
+    return NFTs
 
 def Get_Layers ():
+    
     
     BackGrounds = [f for f in listdir(f"{input_path}/0 - Background") if isfile(join(f"{input_path}/0 - Background", f))]
     Base = [f for f in listdir(f"{input_path}/1 - Base") if isfile(join(f"{input_path}/1 - Base", f))]
@@ -21,7 +27,6 @@ def Get_Layers ():
     Head = [f for f in listdir(f"{input_path}/7 - Head") if isfile(join(f"{input_path}/7 - Head", f))]
     Facewear = [f for f in listdir(f"{input_path}/8 - Facewear") if isfile(join(f"{input_path}/8 - Facewear", f))]
     WholeHead = [f for f in listdir(f"{input_path}/9 - Whole Head") if isfile(join(f"{input_path}/9 - Whole Head", f))]
-
 
     return  BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear, WholeHead
 
@@ -656,6 +661,15 @@ def get_NFT_Hand (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_
 
     return final
 
+def  get_One_on_One (NFTs, position_list):
+        
+    NFT_Name = NFTs[0]
+    One_On_One_NFT_Image = rf'{input_path}/- 1 of 1/'+NFT_Name
+    NFT_One_On_One = Image.open(One_On_One_NFT_Image).convert("RGBA")
+    NFT_One_On_One.save (f'{output_path}/Rug_Lord #{i}.png')
+    position_list.pop(0)
+    NFTs.pop(0)
+
 if __name__ == '__main__':
 
 
@@ -676,10 +690,29 @@ if __name__ == '__main__':
     ADN_list = []
     ## control
     
+    ## adding 1on1s
+    NFTs = Get_One_on_Ones()
+    random.shuffle(NFTs)
+    number_of_ones = 10
+    collection_number = 51  
+    position_list = random.sample(range(1, collection_number), number_of_ones)
+    position_list.sort()
+    
+    print (position_list)
+    ## adding 1on1s
+    
     i = 1
-
-    while (i<1001):
+    while (i<collection_number):
         
+        if (len(position_list)!=0 and i == position_list[0]):
+            
+            get_One_on_One (NFTs, position_list)
+
+            print (rf"Rug Lord #{i}")
+            i+=1
+            continue
+
+            
         ## getting layers & rarities per run ##
         BackGrounds, Base, Eyes, Torso, Mouth, FacialHair, Accesories, Head, Facewear, WholeHead = Get_Layers ()
         BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity, WholeHead_Rarity = Get_Rarities()
