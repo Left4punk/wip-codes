@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Hoodie"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,23 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Prince Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "none"
         },
         {
             "trait_type": "1/1",

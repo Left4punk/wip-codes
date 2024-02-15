@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Mishlah"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
@@ -27,14 +27,22 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Orange Beanie"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

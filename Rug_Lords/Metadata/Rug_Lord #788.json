@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Kaftan"
+            "value": "Black Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -27,14 +27,22 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Fisherman Hat"
         },
         {
             "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

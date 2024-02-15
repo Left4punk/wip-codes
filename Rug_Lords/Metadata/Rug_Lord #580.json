@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Orange Aba"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,18 +23,26 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

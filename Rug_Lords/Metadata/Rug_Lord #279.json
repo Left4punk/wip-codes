@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,14 +27,22 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
-        },
-        {
-            "trait_type": "Head",
             "value": "none"
         },
         {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
             "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

@@ -11,31 +11,39 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Dune"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Whole Head",
             "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

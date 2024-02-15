@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Orange Aba"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Gold Shades"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "none"
         },
         {
             "trait_type": "1/1",

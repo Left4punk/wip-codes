@@ -7,15 +7,15 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Dune"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
             "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "none"
         },
         {
             "trait_type": "1/1",

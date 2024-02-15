@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish Robe"
+            "value": "Gold Bisht"
         },
         {
             "trait_type": "Mouth",
@@ -31,10 +31,18 @@
         },
         {
             "trait_type": "Head",
-            "value": "Panama Hat"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
+            "value": "Round Shades"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

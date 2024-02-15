@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
@@ -19,23 +19,31 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Red"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Red Turban"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
+            "value": "Monocle"
+        },
+        {
+            "trait_type": "Whole Head",
             "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
+            "value": "3D Glasses"
+        },
+        {
+            "trait_type": "Whole Head",
             "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

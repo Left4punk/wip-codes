@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jacket"
+            "value": "Brown Mishlah"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,27 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Wavy Black Hair"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "Black Glasses"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

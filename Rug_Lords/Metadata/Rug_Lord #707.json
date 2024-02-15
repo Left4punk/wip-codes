@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Brown Mishlah"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
+            "value": "Black Glasses"
+        },
+        {
+            "trait_type": "Whole Head",
             "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

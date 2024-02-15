@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "Grey Jubba"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "none"
         },
         {
             "trait_type": "1/1",

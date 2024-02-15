@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -23,18 +23,26 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "Red"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "none"
         },
         {
             "trait_type": "Head",
-            "value": "Bedouin"
+            "value": "Green Keffiyeh"
         },
         {
             "trait_type": "Facewear",
+            "value": "none"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
             "value": "none"
         },
         {

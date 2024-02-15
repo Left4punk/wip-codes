@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Violet"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,35 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "Gold Statement"
-        },
-        {
-            "trait_type": "Head",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Coin Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fez"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

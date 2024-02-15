@@ -3,43 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "1/1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen Shirt"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "1/1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "1/1"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "1/1"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "Do Kwon"
         }
     ]
 }

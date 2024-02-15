@@ -3,43 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "1/1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Farvahar Necklace"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "1/1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "1/1"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "1/1"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "Alex Mashinky"
         }
     ]
 }

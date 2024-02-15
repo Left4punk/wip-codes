@@ -670,6 +670,61 @@ def  get_One_on_One (NFTs, position_list):
     position_list.pop(0)
     NFTs.pop(0)
 
+    metadata = {
+            'name': f'Rug_Lord #{i}',
+            'attributes': [
+                {
+                    'trait_type': 'Background',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Base',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Eyes',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Torso',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Mouth',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Facial Hair',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Accesories',
+                    'value': '1/1'
+                },
+                {
+                   'trait_type': 'Head',
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Facewear',  
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Whole Head',  
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': 'Hand',  
+                    'value': '1/1'
+                },
+                {
+                    'trait_type': '1/1',
+                    'value': NFT_Name.split('.')[0]
+                }]
+            }
+    with open(rf'{json_out_path}/Rug_Lord #{i}.json', 'w') as json_print:  # Nota el uso de 'with', que es una buena práctica para manejar archivos
+            json.dump(metadata, json_print, indent=4)
+
 if __name__ == '__main__':
 
 
@@ -694,7 +749,7 @@ if __name__ == '__main__':
     NFTs = Get_One_on_Ones()
     random.shuffle(NFTs)
     number_of_ones = 10
-    collection_number = 51  
+    collection_number = 1001 
     position_list = random.sample(range(1, collection_number), number_of_ones)
     position_list.sort()
     
@@ -804,6 +859,14 @@ if __name__ == '__main__':
                 {
                     'trait_type': 'Facewear',  
                     'value': NFT_Facewear.split('.')[0]
+                },
+                {
+                    'trait_type': 'Whole Head',  
+                    'value': NFT_WholeHead.split('.')[0]
+                },
+                {
+                    'trait_type': 'Hand',  
+                    'value': NFT_Hand.split('.')[0]
                 },
                 {
                     'trait_type': '1/1',
