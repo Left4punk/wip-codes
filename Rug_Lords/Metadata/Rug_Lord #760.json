@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jubba"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Bedouin"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

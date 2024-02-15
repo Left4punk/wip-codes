@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Thobe"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

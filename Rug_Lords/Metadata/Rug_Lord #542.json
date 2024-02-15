@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

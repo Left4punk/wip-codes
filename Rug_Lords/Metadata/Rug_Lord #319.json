@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Brown Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fisherman Hat"
+            "value": "Red Turban"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

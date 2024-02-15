@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "White Jacket"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Bedouin"
+            "value": "Dreadlocks Headband"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Sweater"
+            "value": "Grey Jubba"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish Robe"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Short Slick"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

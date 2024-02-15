@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish Robe"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Panama Hat"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Coin"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

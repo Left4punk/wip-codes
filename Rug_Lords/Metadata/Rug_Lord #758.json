@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Aba"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short Slick"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

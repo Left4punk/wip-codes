@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Red Robe"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Orange Beanie"
+            "value": "Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

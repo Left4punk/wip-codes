@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

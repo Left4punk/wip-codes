@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Kaftan"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Kaftan"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",

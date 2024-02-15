@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Wavy Black Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

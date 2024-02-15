@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Favahar Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Grey Keffiyeh"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

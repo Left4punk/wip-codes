@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

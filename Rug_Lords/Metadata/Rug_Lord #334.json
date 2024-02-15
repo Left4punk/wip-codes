@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Embroided Thobe"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fisherman Hat"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

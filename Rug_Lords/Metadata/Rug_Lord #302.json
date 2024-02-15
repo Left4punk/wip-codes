@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue T Shirt"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

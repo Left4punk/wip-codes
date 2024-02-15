@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

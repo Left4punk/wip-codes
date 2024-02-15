@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Scarab Necklace"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks Headband"
+            "value": "Blue Beanie"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

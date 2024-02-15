@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

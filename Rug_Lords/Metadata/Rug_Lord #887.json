@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Ankh Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

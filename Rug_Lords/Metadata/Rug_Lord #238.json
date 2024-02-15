@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Dune"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "White Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Light"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Bedouin"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",

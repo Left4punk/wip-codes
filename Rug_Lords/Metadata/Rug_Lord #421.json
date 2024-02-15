@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",

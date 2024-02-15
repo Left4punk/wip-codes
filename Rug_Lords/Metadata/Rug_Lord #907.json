@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Favahar Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

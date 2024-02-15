@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Small Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

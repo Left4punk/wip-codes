@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Embroided Thobe"
+            "value": "Grey Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

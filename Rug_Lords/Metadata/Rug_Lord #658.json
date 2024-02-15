@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,23 +11,23 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Jubba"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
@@ -35,15 +35,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Hand",
-            "value": "Coin"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

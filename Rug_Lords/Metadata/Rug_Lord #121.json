@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "White Pattern Shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Red"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Black Turban"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Eagle"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

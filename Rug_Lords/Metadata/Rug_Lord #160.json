@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Favahar Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Dreadlocks Headband"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

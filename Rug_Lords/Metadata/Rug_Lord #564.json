@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

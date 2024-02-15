@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Dune"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Red Turban"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

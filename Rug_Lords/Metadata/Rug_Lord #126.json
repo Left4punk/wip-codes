@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "none"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

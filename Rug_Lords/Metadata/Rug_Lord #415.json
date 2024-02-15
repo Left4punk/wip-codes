@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Purple Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Red"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short Slick"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Coin"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

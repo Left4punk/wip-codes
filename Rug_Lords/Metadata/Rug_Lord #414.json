@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "Green Sweater"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

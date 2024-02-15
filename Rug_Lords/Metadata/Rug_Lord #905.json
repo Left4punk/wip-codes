@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Jacket"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Red Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

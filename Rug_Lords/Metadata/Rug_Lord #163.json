@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Rug"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

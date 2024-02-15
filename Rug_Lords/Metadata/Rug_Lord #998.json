@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

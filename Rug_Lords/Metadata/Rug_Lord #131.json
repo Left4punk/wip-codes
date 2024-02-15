@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Jacket"
+            "value": "Black Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

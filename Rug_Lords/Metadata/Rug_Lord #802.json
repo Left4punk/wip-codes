@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Coin"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

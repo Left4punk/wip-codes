@@ -3,51 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "1/1"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
+            "value": "Grey Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "1/1"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "1/1"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
-            "value": "1/1"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "1/1"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",
-            "value": "Caroline Ellison"
+            "value": "None"
         }
     ]
 }

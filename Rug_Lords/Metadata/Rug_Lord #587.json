@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Jubba"
+            "value": "White Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

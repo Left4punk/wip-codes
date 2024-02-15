@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish Robe"
+            "value": "Blue Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

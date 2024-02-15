@@ -7,31 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Kaftan"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks Headband"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

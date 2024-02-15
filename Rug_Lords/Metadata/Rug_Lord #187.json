@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Red Turban"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

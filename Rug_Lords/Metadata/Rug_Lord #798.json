@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Embroided Thobe"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Red Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",

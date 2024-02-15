@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Eagle"
+            "value": "Coin"
         },
         {
             "trait_type": "1/1",

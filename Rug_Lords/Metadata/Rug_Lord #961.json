@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue T Shirt"
+            "value": "Brown Mishlah"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

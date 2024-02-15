@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short Slick"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

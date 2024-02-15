@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
@@ -19,23 +19,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

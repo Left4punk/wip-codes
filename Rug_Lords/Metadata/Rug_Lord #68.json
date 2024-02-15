@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Shemagh"
+            "value": "Gold Bisht"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

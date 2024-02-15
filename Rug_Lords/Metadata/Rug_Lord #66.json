@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jubba"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,23 +27,23 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "none"
+            "value": "Litham"
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

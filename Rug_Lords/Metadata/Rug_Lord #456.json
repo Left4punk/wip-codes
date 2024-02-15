@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "Purple Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

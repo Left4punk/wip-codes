@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Staff"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

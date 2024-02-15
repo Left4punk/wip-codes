@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

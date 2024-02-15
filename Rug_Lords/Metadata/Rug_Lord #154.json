@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "Brown Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Wavy Black Hair"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

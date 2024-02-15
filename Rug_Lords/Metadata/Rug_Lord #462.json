@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Farvahar Necklace"
+            "value": "White Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

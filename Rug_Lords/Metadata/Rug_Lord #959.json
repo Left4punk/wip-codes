@@ -7,19 +7,19 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Aba"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Messy Hair"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

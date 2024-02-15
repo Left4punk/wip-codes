@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Mishlah"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks Headband"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

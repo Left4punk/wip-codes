@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen Shirt"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Quiff"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

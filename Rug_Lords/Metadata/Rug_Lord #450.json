@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

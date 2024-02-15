@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Shemagh"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

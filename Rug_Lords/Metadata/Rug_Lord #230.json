@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "White Hoodie"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "Coin Earring"
-        },
-        {
-            "trait_type": "Head",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Silver Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "White Bordir"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Coin"
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

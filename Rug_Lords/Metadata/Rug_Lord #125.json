@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Mishlah"
+            "value": "Brown Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

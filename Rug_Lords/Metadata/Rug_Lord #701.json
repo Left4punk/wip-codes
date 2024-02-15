@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Brown Mishlah"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Messy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Candle"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

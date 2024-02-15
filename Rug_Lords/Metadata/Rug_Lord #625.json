@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

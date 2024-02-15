@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Jacket"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Small Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Egyptian Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

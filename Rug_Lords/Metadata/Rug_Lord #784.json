@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Ankh Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Pharaoh_s Headdress"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

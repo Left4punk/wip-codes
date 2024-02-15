@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Hoodie"
+            "value": "White Pattern Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Panama Hat"
+            "value": "Blue Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

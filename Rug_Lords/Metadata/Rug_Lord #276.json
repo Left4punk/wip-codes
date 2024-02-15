@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Mishlah"
+            "value": "Black Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

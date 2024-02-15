@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

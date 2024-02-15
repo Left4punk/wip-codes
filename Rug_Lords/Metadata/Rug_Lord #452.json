@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "White Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Panama Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

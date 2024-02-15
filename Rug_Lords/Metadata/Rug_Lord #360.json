@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Farvahar Necklace"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

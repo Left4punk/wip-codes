@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Prince Turban"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

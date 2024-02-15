@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "White Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

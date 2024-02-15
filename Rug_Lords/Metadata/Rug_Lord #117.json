@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Red"
+            "value": "Brown Mishlah"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

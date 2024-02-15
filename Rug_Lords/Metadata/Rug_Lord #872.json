@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

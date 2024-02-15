@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Red Robe"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Red Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

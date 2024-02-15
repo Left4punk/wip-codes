@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Light"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

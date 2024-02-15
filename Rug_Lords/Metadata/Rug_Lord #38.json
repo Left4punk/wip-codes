@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "White Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Red"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

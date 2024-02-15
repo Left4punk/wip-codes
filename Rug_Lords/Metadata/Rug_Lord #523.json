@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
@@ -19,23 +19,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Blue Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

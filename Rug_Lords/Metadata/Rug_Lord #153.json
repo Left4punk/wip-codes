@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Red"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Quiff"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Dune"
+            "value": "Black Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Egyptian Scepter"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

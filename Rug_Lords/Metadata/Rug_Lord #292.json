@@ -7,15 +7,15 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

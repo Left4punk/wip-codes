@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

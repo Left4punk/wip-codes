@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Scarab Necklace"
+            "value": "Dune"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jubba"
+            "value": "Gold Bisht"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Candle"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

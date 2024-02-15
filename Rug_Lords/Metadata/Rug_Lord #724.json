@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Jafar_s Hat"
+            "value": "Wavy Black Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

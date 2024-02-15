@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jubba"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Fisherman Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

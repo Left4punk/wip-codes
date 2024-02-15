@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "White Pattern Shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

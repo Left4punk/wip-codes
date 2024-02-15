@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

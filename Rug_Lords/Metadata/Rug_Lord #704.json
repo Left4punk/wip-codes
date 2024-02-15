@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue T Shirt"
+            "value": "White Pattern Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Coin"
         },
         {
             "trait_type": "1/1",

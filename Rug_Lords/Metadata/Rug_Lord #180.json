@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Black Turban"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

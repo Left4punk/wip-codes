@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Sweater"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

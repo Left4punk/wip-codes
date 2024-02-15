@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Aba"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

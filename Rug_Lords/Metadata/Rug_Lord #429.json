@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "none"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

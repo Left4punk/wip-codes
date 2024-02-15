@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Purple Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

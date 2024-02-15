@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Turban"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

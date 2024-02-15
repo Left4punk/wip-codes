@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "White Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Candle"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

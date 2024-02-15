@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Embroided Thobe"
+            "value": "Grey Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Orange Beanie"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Embroided Thobe"
+            "value": "Brown Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Small Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Candle"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

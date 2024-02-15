@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jacket"
+            "value": "Black Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Prince Turban"
+            "value": "Small Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

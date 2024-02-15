@@ -3,31 +3,31 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "White Jacket"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
@@ -35,15 +35,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "none"
+            "value": "Luxury White Keffiyeh"
         },
         {
             "trait_type": "Hand",
-            "value": "Lamp"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Orange Aba"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Black Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Panama Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

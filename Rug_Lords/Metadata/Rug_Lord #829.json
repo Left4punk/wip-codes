@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

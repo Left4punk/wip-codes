@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Sweater"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

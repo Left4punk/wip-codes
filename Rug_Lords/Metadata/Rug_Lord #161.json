@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Embroided Thobe"
+            "value": "Favahar Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -23,27 +23,27 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Blue Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

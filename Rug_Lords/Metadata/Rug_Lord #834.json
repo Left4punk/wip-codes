@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Aba"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks Headband"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",

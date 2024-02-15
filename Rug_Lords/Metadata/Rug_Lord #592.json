@@ -7,19 +7,19 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Blue T Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Eagle"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

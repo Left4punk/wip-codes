@@ -7,19 +7,19 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "none"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",

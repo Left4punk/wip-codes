@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "Grey Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pharaoh_s Headdress"
+            "value": "Prince Turban"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Staff"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

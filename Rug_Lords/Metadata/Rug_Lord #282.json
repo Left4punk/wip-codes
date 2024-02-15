@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "none"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

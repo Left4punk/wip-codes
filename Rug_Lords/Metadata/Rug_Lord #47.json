@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Scarab Necklace"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Brown Bedouin"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

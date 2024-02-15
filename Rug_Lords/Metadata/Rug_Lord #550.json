@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "Tea"
         },
         {
             "trait_type": "1/1",

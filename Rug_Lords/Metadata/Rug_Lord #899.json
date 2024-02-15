@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Aba"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",

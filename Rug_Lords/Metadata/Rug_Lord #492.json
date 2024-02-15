@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "none"
+            "value": "Orange Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

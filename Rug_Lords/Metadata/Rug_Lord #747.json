@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Panama Hat"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

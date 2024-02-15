@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Monocle"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

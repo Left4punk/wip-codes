@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy Hat"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

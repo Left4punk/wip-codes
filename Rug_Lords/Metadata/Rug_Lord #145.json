@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "White Pattern Shirt"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

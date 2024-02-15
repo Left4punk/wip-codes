@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Dune"
+            "value": "Favahar Necklace"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Panama Hat"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

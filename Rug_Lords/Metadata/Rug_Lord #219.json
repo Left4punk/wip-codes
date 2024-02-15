@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Orange Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

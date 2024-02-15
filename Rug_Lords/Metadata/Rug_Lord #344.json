@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Farvahar Necklace"
+            "value": "Brown Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

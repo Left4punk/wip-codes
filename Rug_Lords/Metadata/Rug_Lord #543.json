@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Quiff"
+            "value": "Small Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Bundle"
+            "value": "Cobra Scepter"
         },
         {
             "trait_type": "1/1",

@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Robe"
+            "value": "Red"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Quiff"
+            "value": "Short Slick"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Glasses"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

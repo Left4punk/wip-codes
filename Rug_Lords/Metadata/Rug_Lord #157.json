@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "White Hoodie"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Red Peci"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

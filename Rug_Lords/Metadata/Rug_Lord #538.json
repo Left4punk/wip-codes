@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Pharaoh_s Scepter"
         },
         {
             "trait_type": "1/1",

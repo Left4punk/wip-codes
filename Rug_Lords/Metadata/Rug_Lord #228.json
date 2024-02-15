@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Red Robe"
+            "value": "Orange Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Grey Keffiyeh"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

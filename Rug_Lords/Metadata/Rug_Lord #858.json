@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser Eyes"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Blue T Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,23 +27,23 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Wavy Black Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

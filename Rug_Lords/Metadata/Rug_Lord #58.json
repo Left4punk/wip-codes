@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "White Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Boat Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Staff"
         },
         {
             "trait_type": "1/1",

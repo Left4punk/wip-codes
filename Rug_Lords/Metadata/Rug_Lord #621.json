@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Sand"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Blue Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Coin"
         },
         {
             "trait_type": "1/1",

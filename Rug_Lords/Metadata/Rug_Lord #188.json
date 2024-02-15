@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Bedouin"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

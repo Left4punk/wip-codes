@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "Dune"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Quiff"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

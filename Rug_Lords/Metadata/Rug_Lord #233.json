@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen Shirt"
+            "value": "White Hoodie"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

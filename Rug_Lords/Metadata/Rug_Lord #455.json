@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Red"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

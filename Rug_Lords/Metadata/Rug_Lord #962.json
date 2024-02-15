@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Violet"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Orange Aba"
+            "value": "Gold Bisht"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Moustache"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Rug"
         },
         {
             "trait_type": "1/1",

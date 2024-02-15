@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Messy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Candle"
         },
         {
             "trait_type": "1/1",

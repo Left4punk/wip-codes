@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "none"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "Coin"
         },
         {
             "trait_type": "1/1",

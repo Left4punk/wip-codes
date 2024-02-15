@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,23 +11,23 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Smug"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",

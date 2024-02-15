@@ -7,35 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "White Hoodie"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Prince Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

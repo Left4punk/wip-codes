@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen Shirt"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "BTC Bandana"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "none"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Coin Earring"
+        },
+        {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading Glasses"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

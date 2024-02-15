@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Ankh Necklace"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smile"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Small Dreadlocks"
+            "value": "Orange Beanie"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D Glasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",
