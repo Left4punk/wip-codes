@@ -33,16 +33,16 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10,10]
+    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10]
     Base_Rarity = [33,33,33]
     Eyes_Rarity = [10,10,10,10,10,10,10,10]
     Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Mouth_Rarity=[10,10,10,10,10,10]
-    FacialHair_Rarity=[10,10,10,10,10,10,10,10]
+    Mouth_Rarity=[10,10,10,10]
+    FacialHair_Rarity=[10,10,10,10,10,10]
     Accesories_Rarity = [10,10,10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     Facewear_Rarity = [10,10,10,10,10,10,10]
-    WholeHead_Rarity = [10,10,50,10,10]
+    WholeHead_Rarity = [10,10,60,10]
     
     
     return BackGrounds_Rarity, Base_Rarity, Eyes_Rarity, Torso_Rarity, Mouth_Rarity, FacialHair_Rarity, Accesories_Rarity, Head_Rarity, Facewear_Rarity, WholeHead_Rarity
