@@ -1,0 +1,33 @@
+{
+    "name": "Cyberz #6",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sky Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "BASEBODY04"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CLOTH36"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "EYES09"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "hair46"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HAIR47"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "MOUTH11"
+        }
+    ]
+}
