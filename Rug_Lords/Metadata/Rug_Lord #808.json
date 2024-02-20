@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue T Shirt"
+            "value": "Grey Shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Moustache"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Ahinese Hat"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Scanner"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Shirt"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Cowboy"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

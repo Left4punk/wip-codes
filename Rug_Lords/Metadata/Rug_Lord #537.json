@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Sand"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue T Shirt"
+            "value": "Purple Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",

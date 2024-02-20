@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Evening Sky"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "White Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Boat Cap"
+            "value": "Short Slick"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

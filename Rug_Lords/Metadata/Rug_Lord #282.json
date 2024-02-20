@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Orange Aba"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Dreadlocks"
         },
         {
             "trait_type": "Facewear",
-            "value": "Black Glasses"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

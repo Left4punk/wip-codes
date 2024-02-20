@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Night Sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Embroided Thobe"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Grey Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Fisherman Hat"
         },
         {
             "trait_type": "Facewear",
@@ -39,11 +39,11 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury White Keffiyeh"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Tea"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

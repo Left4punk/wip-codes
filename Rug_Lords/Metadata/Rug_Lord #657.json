@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Egyptian Scepter"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

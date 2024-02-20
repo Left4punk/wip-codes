@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "Shemagh"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

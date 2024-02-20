@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Sand"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Jubba"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Orange Turban"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Round Shades"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Tea"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

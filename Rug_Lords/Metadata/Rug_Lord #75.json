@@ -7,19 +7,19 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "White Pattern Shirt"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

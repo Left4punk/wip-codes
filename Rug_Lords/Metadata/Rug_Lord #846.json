@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Sand"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Blue Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Embroided Thobe"
+            "value": "White Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "None"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
             "trait_type": "Head",
-            "value": "Orange Beanie"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

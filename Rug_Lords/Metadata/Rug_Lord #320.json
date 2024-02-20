@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Rug Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Green Laser Eyes"
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Blue Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Light"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Crazy Hair"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",

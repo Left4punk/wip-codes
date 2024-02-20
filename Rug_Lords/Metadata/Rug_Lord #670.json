@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
@@ -19,19 +19,19 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Fisherman Hat"
+            "value": "Orange Turban"
         },
         {
             "trait_type": "Facewear",
@@ -39,11 +39,11 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Red Litham"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

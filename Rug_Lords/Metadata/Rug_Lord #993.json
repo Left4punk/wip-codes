@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Shirt"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Cowboy"
         },
         {
             "trait_type": "Facewear",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Pharaoh_s Scepter"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

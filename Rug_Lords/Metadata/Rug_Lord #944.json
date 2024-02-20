@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser Eyes"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "None"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Red Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Gold Statement"
         },
         {
             "trait_type": "Head",
-            "value": "Red Peci"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
-        },
-        {
-            "trait_type": "Base",
-            "value": "White"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Neutral"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "White Thobe"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Smile"
-        },
-        {
-            "trait_type": "Facial Hair",
             "value": "Grey"
         },
         {
+            "trait_type": "Base",
+            "value": "Tanned"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser Eyes"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Green Sweater"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Black"
+        },
+        {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "none"
+            "value": "Eagle"
         },
         {
             "trait_type": "1/1",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Favahar Necklace"
+            "value": "Dune"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

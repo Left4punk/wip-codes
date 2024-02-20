@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
@@ -11,23 +11,23 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "White Thobe"
+            "value": "Green Sweater"
         },
         {
             "trait_type": "Mouth",
-            "value": "BTC Bandana"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "none"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "none"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

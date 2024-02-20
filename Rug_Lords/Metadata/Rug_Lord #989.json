@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Jacket"
+            "value": "Scarab Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

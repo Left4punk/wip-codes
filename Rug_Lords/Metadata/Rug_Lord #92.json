@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tanned"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "White Shirt"
+            "value": "Blue Kaftan"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Drop"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Blue Beanie"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
@@ -39,11 +39,11 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

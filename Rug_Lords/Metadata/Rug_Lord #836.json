@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Bisht"
+            "value": "Purple Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Prince Turban"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
@@ -39,11 +39,11 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury White Keffiyeh"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Lamp"
         },
         {
             "trait_type": "1/1",

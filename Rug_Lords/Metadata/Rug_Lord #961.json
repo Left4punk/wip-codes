@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Evening Sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "Brown Mishlah"
+            "value": "Green Sweater"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
-        },
-        {
-            "trait_type": "Accesories",
             "value": "None"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Statement"
+        },
+        {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Tea"
+            "value": "Bundle"
         },
         {
             "trait_type": "1/1",

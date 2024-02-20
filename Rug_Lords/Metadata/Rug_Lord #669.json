@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tanned"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple Shirt"
+            "value": "Linen Shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
-            "value": "Silver Earring"
+            "value": "Gold Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Bedouin"
+            "value": "Ahinese Hat"
         },
         {
             "trait_type": "Facewear",
@@ -39,11 +39,11 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Eagle"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

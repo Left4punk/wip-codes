@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Sand"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Black Jacket"
+            "value": "Green Jacket"
         },
         {
             "trait_type": "Mouth",
@@ -23,19 +23,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Brown Quiff"
         },
         {
             "trait_type": "Facewear",
-            "value": "Round Shades"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

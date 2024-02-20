@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen Shirt"
+            "value": "Ankh Necklace"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "Coin Earring"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Fez"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Black Glasses"
         },
         {
             "trait_type": "Whole Head",

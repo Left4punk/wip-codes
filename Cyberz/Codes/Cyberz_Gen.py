@@ -224,7 +224,7 @@ if __name__ == '__main__':
             }
         
 
-        with open(rf'{json_out_path}/Rug_Lord #{i}.json', 'w') as json_print: 
+        with open(rf'{json_out_path}/Cyberz #{i}.json', 'w') as json_print: 
             json.dump(metadata, json_print, indent=4)
         print (rf"Cyberz #{i}")
         i+=1

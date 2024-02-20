@@ -11,39 +11,39 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Annoyed"
+            "value": "Worried"
         },
         {
             "trait_type": "Torso",
-            "value": "White Hoodie"
+            "value": "Red Robe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Neck"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Gold Drop"
         },
         {
             "trait_type": "Head",
-            "value": "Dreadlocks"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Candle"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",

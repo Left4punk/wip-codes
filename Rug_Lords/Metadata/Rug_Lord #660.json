@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night Sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smug"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue Thobe"
+            "value": "Brown Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smile"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "none"
         },
         {
             "trait_type": "Accesories",
@@ -31,19 +31,19 @@
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury White Keffiyeh"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Cobra Scepter"
+            "value": "Coin"
         },
         {
             "trait_type": "1/1",

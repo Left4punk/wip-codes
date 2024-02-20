@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Bazar"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,31 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Embroided Thobe"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Red"
+            "value": "Black"
         },
         {
             "trait_type": "Accesories",
-            "value": "None"
+            "value": "Silver Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Crazy Hair"
         },
         {
             "trait_type": "Facewear",
-            "value": "Scanner"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Whole Head",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Hand",
-            "value": "Big Pipe"
+            "value": "Egyptian Scepter"
         },
         {
             "trait_type": "1/1",
