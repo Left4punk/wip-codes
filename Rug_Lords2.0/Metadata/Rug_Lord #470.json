@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #470",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Base",
+            "value": "White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Lavish"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Short Dreads"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Luxury Keffiyeh"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

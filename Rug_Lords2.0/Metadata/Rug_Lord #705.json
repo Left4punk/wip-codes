@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #705",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Base",
+            "value": "White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Purple T-shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision Pro"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Luxury Keffiyeh"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

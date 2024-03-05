@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #375",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Bushy"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision Pro"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Helmet"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

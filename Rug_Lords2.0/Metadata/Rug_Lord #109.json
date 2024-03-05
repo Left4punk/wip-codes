@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #109",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sus"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Aba"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision Pro"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Helmet"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

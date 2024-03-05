@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #554",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Grey T-shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Bushy"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "White Bordir"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Lithem"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #390",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Grey T-shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Egyptian Goatee"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Black Turban"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision Pro"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Luxury Keffiyeh"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

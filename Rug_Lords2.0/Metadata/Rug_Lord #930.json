@@ -1,0 +1,49 @@
+{
+    "name": "Rug_Lord #930",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "White T-shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision Pro"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "Luxury Keffiyeh"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Cyberz #48",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BACKGROUND03"
+        },
+        {
+            "trait_type": "Base",
+            "value": "BASEBODY01"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CLOTH26"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "EYES11"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "hair12"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HAIR45"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "MOUTH14"
+        }
+    ]
+}
