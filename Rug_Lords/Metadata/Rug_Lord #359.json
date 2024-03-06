@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Pyramids"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Worried"
+            "value": "Side Eye"
         },
         {
             "trait_type": "Torso",
-            "value": "White Hoodie"
+            "value": "Lavish Robe"
         },
         {
             "trait_type": "Mouth",
@@ -23,27 +23,27 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Neck"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "Gold Statement"
+            "value": "Coin Earring"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Bedouin"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D Glasses"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury White Keffiyeh"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "None"
+            "value": "Big Pipe"
         },
         {
             "trait_type": "1/1",

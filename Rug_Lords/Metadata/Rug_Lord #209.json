@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pyramids"
+            "value": "Sky"
         },
         {
             "trait_type": "Base",
@@ -11,39 +11,39 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Side Eye"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey Jubba"
+            "value": "White Jubba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Light"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "Silver Earring"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Ahinese Hat"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Accesories",
+            "value": "Gold Earring"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pablo"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Scanner"
+        },
+        {
             "trait_type": "Whole Head",
-            "value": "Luxury White Keffiyeh"
+            "value": "none"
         },
         {
             "trait_type": "Hand",
-            "value": "Eagle"
+            "value": "none"
         },
         {
             "trait_type": "1/1",

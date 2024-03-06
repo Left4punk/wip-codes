@@ -883,13 +883,13 @@ if __name__ == '__main__':
     i = 1
     while (i<collection_number):
         
-        if (len(position_list)!=0 and i == position_list[0]):
+        #if (len(position_list)!=0 and i == position_list[0]):
             
-            get_One_on_One (NFTs, position_list)
+            #get_One_on_One (NFTs, position_list)
 
-            print (rf"Rug Lord #{i}")
-            i+=1
-            continue
+            #print (rf"Rug Lord #{i}")
+            #i+=1
+            #continue
 
             
         ## getting layers & rarities per run ##

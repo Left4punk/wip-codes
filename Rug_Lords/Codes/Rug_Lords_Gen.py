@@ -33,14 +33,14 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10]
+    BackGrounds_Rarity = [10,10,10,10,10,10,10]
     Base_Rarity = [33,33,33]
     Eyes_Rarity = [10,10,10,10,10,10,10,10]
-    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     Mouth_Rarity=[10,10,10,10]
-    FacialHair_Rarity=[10,10,10,10,10,10]
+    FacialHair_Rarity=[10,10,10,10,10]
     Accesories_Rarity = [10,10,10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     Facewear_Rarity = [10,10,10,10,10,10,10]
     WholeHead_Rarity = [10,10,60,10]
     
@@ -871,6 +871,7 @@ if __name__ == '__main__':
         if (NFT_FacialHair == 'Bushy.png'):
 
             NFT_Hand = 'None.png'
+
         ##other controls
         ##import final images
         Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_Mouth, Image_FacialHair, Image_Accesories, Image_Head, Image_Facewear, Image_WholeHead, Image_Hand = get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand)
