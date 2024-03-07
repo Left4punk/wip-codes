@@ -10,7 +10,7 @@ from pathlib import Path
 
 def Get_One_on_Ones ():
 
-    NFTs = [f for f in listdir(f"{input_path}/- 1 of 1") if isfile(join(f"{input_path}/- 1 of 1", f))]
+    NFTs = [f for f in listdir(f"{input_path}/Honoraries") if isfile(join(f"{input_path}/Honoraries", f))]
 
     return NFTs
 
@@ -35,14 +35,14 @@ def Get_Rarities ():
     
     BackGrounds_Rarity = [10,10,10,10,10]
     Base_Rarity = [10,10,10,10,10]
-    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10]
+    Torso_Rarity=[10,10,10,10,10,10,40,10,10,10,10,10]
     Mouth_Rarity=[10,10,10,10,10]
     Eyes_Rarity = [10,10,10,10,10,10]
-    FacialHair_Rarity=[10,10,10,10,10,10,10]
-    Facewear_Rarity = [10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    WholeBody_Rarity = [10,10,10,10]
-    WholeHead_Rarity = [10,10,10,10]
+    FacialHair_Rarity=[10,10,10,10,10,10,50,10]
+    Facewear_Rarity = [10,10,50,10,10]
+    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,40,10,10,10,10,10,10,10]
+    WholeBody_Rarity = [10,60,10,10,10]
+    WholeHead_Rarity = [10,10,10,10,60]
     
     
     return BackGrounds_Rarity, Base_Rarity, Torso_Rarity, Mouth_Rarity, Eyes_Rarity, FacialHair_Rarity, Facewear_Rarity, Head_Rarity, WholeBody_Rarity, WholeHead_Rarity
@@ -279,58 +279,26 @@ def Bandana_Conflicts (NFT_Mouth,
     
     return NFT_Head, NFT_FacialHair,NFT_WholeHead, NFT_Facewear
 
-def FacialHair_Conflicts (NFT_FacialHair, 
-                          NFT_Head, NFT_WholeHead, Head, Head_Rarity,NFT_Facewear, Facewear, Facewear_Rarity,NFT_Hand):
+def FacialHair_Conflicts (NFT_Mouth, NFT_FacialHair, FacialHair, FacialHair_Rarity):
 
-    if (NFT_FacialHair == 'Black.png' or NFT_FacialHair == 'Grey.png' or NFT_FacialHair == 'Neck.png' or NFT_FacialHair == 'Red.png' or NFT_FacialHair == 'Thin.png'):
+    if (NFT_Mouth == 'Smirk.png'):
  
-        conflict_heads = ['Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Jafar_s Hat.png','Wavy Black Hair.png']
+        conflict_FacialHair = ['Goatee.png']
 
-        for elem in conflict_heads:
+        for elem in conflict_FacialHair:
 
-            if elem in Head:
+            if elem in FacialHair:
 
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
+                remove_elem = FacialHair.index(elem)
+                FacialHair.pop(remove_elem)
+                FacialHair_Rarity.pop(remove_elem)
 
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
-        NFT_WholeHead = 'none.png'
-        NFT_Facewear = NFT_Facewear
-        NFT_Hand = NFT_Hand
-
-    elif (NFT_FacialHair == 'Bushy.png'):
-
-        conflict_heads = ['Grey Keffiyeh.png','Brown Boudin.png','Boudin.png','Orange Keffiyeh.png','Long Windswept Hair.png','Green Keffiyeh.png','Red Keffiyeh.png','Jafar_s Hat.png','Wavy Black Hair.png']
-
-        conflict_facewear = ['3D Glasses.png']
-        for elem in conflict_heads:
-
-            if elem in Head:
-
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
-        for elem in conflict_facewear:
-
-            if elem in Facewear:
-
-                remove_elem = Facewear.index(elem)
-                Facewear.pop(remove_elem)
-                Facewear_Rarity.pop(remove_elem)
-
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
-        NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]
-        NFT_WholeHead = 'none.png'
-        NFT_Hand = 'none.png'
+        NFT_FacialHair = random.choices(FacialHair,weights=(FacialHair_Rarity))[0]
 
     else:
-        NFT_Head = NFT_Head
-        NFT_WholeHead = NFT_WholeHead
-        NFT_Facewear = NFT_Facewear
-        NFT_Hand = NFT_Hand
-    
-    return NFT_Head, NFT_WholeHead, NFT_Facewear, NFT_Hand
+
+        NFT_FacialHair = NFT_FacialHair
+    return NFT_FacialHair
     
 def Accesories_Conflicts (NFT_Accesories, 
                           NFT_Head, Head, Head_Rarity):
@@ -368,42 +336,27 @@ def Accesories_Conflicts (NFT_Accesories,
     
     return NFT_Head
 
-def WholeHead_Conflicts (NFT_WholeHead, 
-                          NFT_Torso, Torso, Torso_Rarity):
+def Head_Conflicts (NFT_Eyes, NFT_Head, Head, Head_Rarity):
 
-    if (NFT_WholeHead == 'Litham.png'):
+    if (NFT_Eyes == 'Bored.png'):
 
-        conflict_torso = ['White Thobe.png', 'White Hoodie.png','Shemagh.png','Orange Aba.png','Grey Jubba.png']
+        conflict_head = ['Black Turban.png', 'Fez.png']
 
-        for elem in conflict_torso:
+        for elem in conflict_head:
 
-            if elem in Torso:
+            if elem in Head:
 
-                remove_elem = Torso.index(elem)
-                Torso.pop(remove_elem)
-                Torso_Rarity.pop(remove_elem)
+                remove_elem = Head.index(elem)
+                Head.pop(remove_elem)
+                Head_Rarity.pop(remove_elem)
             
-        NFT_Torso = random.choices(Torso,weights=(Torso_Rarity))[0]
-
-    elif (NFT_WholeHead == 'Luxury White Keffiyeh.png'):
-        
-        conflict_torso = ['Shemagh.png']
-
-        for elem in conflict_torso:
-
-            if elem in Torso:
-
-                remove_elem = Torso.index(elem)
-                Torso.pop(remove_elem)
-                Torso_Rarity.pop(remove_elem)
-            
-        NFT_Torso = random.choices(Torso,weights=(Torso_Rarity))[0]
-
+        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
     else:
 
-        NFT_Torso = NFT_Torso
-    
-    return NFT_Torso
+        NFT_Head = NFT_Head
+
+    return NFT_Head
+
 
 def Hand_Conflicts (NFT_Hand, 
                     NFT_Mouth, Mouth, Mouth_Rarity, 
@@ -523,86 +476,41 @@ def Hand_Conflicts (NFT_Hand,
 
 
     
-def Facewear_Conflicts (NFT_Facewear, 
-                          NFT_Head, Head, Head_Rarity,
-                          NFT_WholeHead):
+def Facewear_Conflicts (NFT_Head,NFT_Facewear, Facewear, Facewear_Rarity):
 
-    if (NFT_Facewear == 'Black Glasses.png' or NFT_Facewear == 'Gold Glasses.png' or 
-        NFT_Facewear == 'Gold Shades.png' or NFT_Facewear == 'Reading Glasses.png' or
-        NFT_Facewear == 'Round Shades.png' or NFT_Facewear == 'Shades.png' or NFT_Facewear == 'Sunglasses.png'):
+    if (NFT_Head == 'Ice Cap.png' or NFT_Head == 'Tattoo.png'):
         
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Red Keffiyeh.png', 'Emamah.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
-            'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
-            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh_s Headdress.png', 'Black Turban.png']
+        conflict_facewear = ['Shades.png', 'Vision Pro.png']
 
-        for elem in conflict_heads:
+        for elem in conflict_facewear:
             
-            if elem in Head:
+            if elem in Facewear:
 
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
+                remove_elem = Facewear.index(elem)
+                Facewear.pop(remove_elem)
+                Facewear_Rarity.pop(remove_elem)
 
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]      
-        NFT_WholeHead = 'none.png'
-
-    elif (NFT_Facewear == 'Scanner.png'):
+        NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]      
     
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Boat Cap.png',
-            'Crazy Hair.png', 'Panama Hat.png','Ahinese Hat.png', 'Red Keffiyeh.png', 'Emamah.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
-            'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
-            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png']
+    elif (NFT_Head == 'Headband.png'):
         
-        for elem in conflict_heads:
+        conflict_facewear = ['Gold.png', 'Vision Pro.png']
+
+        for elem in conflict_facewear:
             
-            if elem in Head:
+            if elem in Facewear:
 
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
+                remove_elem = Facewear.index(elem)
+                Facewear.pop(remove_elem)
+                Facewear_Rarity.pop(remove_elem)
 
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]      
-        NFT_WholeHead = 'none.png'
+        NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]  
 
-    elif (NFT_Facewear == 'Monocle.png'):
-        
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Orange Keffiyeh.png', 'Grey Keffiyeh.png', 'Prince Turban.png']
-        
-        for elem in conflict_heads:
-            
-            if elem in Head:
-
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
-
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]      
-        NFT_WholeHead = 'none.png'
-
-    elif (NFT_Facewear == '3D Glasses.png'):
-        
-        conflict_heads = ['Black Turban.png', 'Red Turban.png', 'Pharaoh_s Headdress.png', 'Red Keffiyeh.png', 'Turban.png',
-            'Green Keffiyeh.png', 'Jafar_s Hat.png', 'Long Windswept Hair.png', 
-            'Dreadlocks Headband.png', 'Orange Keffiyeh.png', 'Bedouin.png', 'Brown Bedouin.png', 'Cowboy Hat.png',
-            'Fisherman Hat.png', 'Grey Keffiyeh.png', 'Prince Turban.png', 'Red Keffiyeh.png', 'Pharaoh_s Headdress.png', 'Black Turban.png']
-        
-        for elem in conflict_heads:
-            
-            if elem in Head:
-
-                remove_elem = Head.index(elem)
-                Head.pop(remove_elem)
-                Head_Rarity.pop(remove_elem)
-
-        NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]      
-        NFT_WholeHead = 'none.png'
     else:
-        NFT_Head = NFT_Head
-        NFT_WholeHead = NFT_WholeHead
 
-    return NFT_Head, NFT_WholeHead
+        NFT_Facewear = NFT_Facewear
+    
+    return NFT_Facewear
 ##
 ##def get_Images (NFT_BackGrounds, NFT_Base, NFT_Eyes, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Accesories, NFT_Head, NFT_Facewear, NFT_WholeHead, NFT_Hand):
     
@@ -788,7 +696,7 @@ def get_NFT_Hand (Image_BackGrounds, Image_Base, Image_Eyes, Image_Torso, Image_
 def  get_One_on_One (NFTs, position_list):
         
     NFT_Name = NFTs[0]
-    One_On_One_NFT_Image = rf'{input_path}/- 1 of 1/'+NFT_Name
+    One_On_One_NFT_Image = rf'{input_path}/Honoraries/'+NFT_Name
     NFT_One_On_One = Image.open(One_On_One_NFT_Image).convert("RGBA")
     NFT_One_On_One.save (f'{output_path}/Rug_Lord #{i}.png')
     position_list.pop(0)
@@ -870,9 +778,9 @@ if __name__ == '__main__':
     ## control
     
     ## adding 1on1s
-    #NFTs = Get_One_on_Ones()
-    #random.shuffle(NFTs)
-    number_of_ones = 0
+    NFTs = Get_One_on_Ones()
+    random.shuffle(NFTs)
+    number_of_ones = 9
     collection_number = 1001 
     position_list = random.sample(range(1, collection_number), number_of_ones)
     position_list.sort()
@@ -883,13 +791,13 @@ if __name__ == '__main__':
     i = 1
     while (i<collection_number):
         
-        #if (len(position_list)!=0 and i == position_list[0]):
+        if (len(position_list)!=0 and i == position_list[0]):
             
-            #get_One_on_One (NFTs, position_list)
+            get_One_on_One (NFTs, position_list)
 
-            #print (rf"Rug Lord #{i}")
-            #i+=1
-            #continue
+            print (rf"Rug Lord #{i}")
+            i+=1
+            continue
 
             
         ## getting layers & rarities per run ##
@@ -913,24 +821,48 @@ if __name__ == '__main__':
         #NFT_Head = Accesories_Conflicts (NFT_Accesories, NFT_Head, Head, Head_Rarity)
         #NFT_Mouth, NFT_Head, NFT_FacialHair, NFT_WholeHead, NFT_Facewear = Hand_Conflicts (NFT_Hand,NFT_Mouth, Mouth, Mouth_Rarity,NFT_FacialHair, NFT_Head, Head, Head_Rarity,NFT_WholeHead, NFT_Facewear)
         #NFT_Head, NFT_WholeHead = Facewear_Conflicts (NFT_Facewear,NFT_Head, Head, Head_Rarity,NFT_WholeHead)
-        #NFT_Head, NFT_WholeHead, NFT_Facewear, NFT_Hand  = FacialHair_Conflicts (NFT_FacialHair, NFT_Head, NFT_WholeHead, Head, Head_Rarity,NFT_Facewear, Facewear, Facewear_Rarity,NFT_Hand)
+        NFT_Facewear = Facewear_Conflicts (NFT_Head,NFT_Facewear, Facewear, Facewear_Rarity)
+        NFT_FacialHair  = FacialHair_Conflicts (NFT_Mouth, NFT_FacialHair, FacialHair, FacialHair_Rarity)
         #NFT_Head, NFT_FacialHair, NFT_WholeHead,NFT_Facewear = Bandana_Conflicts (NFT_Mouth, NFT_Head, NFT_FacialHair, Head, Head_Rarity, FacialHair,FacialHair_Rarity,NFT_WholeHead,NFT_Facewear)
-        #NFT_Torso = WholeHead_Conflicts (NFT_WholeHead, NFT_Torso, Torso, Torso_Rarity)
+        NFT_Head = Head_Conflicts (NFT_Eyes, NFT_Head, Head, Head_Rarity)
         ## control
     
         ADN_List, control = control_ADN(NFT_BackGrounds, NFT_Base, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_WholeHead)
         if control: continue
 
         ## control
-        ##other controls
+        ##full restrictive controls
 
-        #if (NFT_Head == 'Helmet.png' and NFT_Facewear == 'Scanner.png'):
+        if (NFT_Mouth == 'Pipe.png' or NFT_Mouth == 'Cigar.png' or NFT_Mouth == 'Cigarrette.png'):
+            
+            NFT_FacialHair = 'None.png'
+        
+        elif (NFT_Mouth == 'Smirk.png'):
 
-        #    continue
+            NFT_FacialHair = random.choices(['Black.png','Brown.png','Bushy.png','Grey.png','Grey.png','None.png','Stubble.png'],weights=(50,50,50,50,50,50,50))[0]
+        if (NFT_Eyes == 'Blue Laser.png' or NFT_Eyes == 'Green Laser.png'):
 
-        #if (NFT_FacialHair == 'Bushy.png'):
+            NFT_Facewear = 'None.png'
+            NFT_WholeHead = 'None.png'
+        
+        if (NFT_Head == 'Black Turban.png' or NFT_Head == 'Boudin.png' or NFT_Head == 'BTC.png' or NFT_Head == 'Crown.png' or NFT_Head == 'Emamah.png' or NFT_Head == 'Ghost.png' or
+            
+            NFT_Head == 'Helmet.png' or NFT_Head == 'Keffiyeh.png' or NFT_Head == 'Long.png' or NFT_Head == 'Mt Gox.png' or NFT_Head == 'Pablo.png' or NFT_Head == 'Short.png' or 
+            NFT_Head == 'Turban.png' or NFT_Head == 'White Bordir.png' or NFT_Head == 'Windswept'):
 
-        #    NFT_Hand = 'None.png'
+            NFT_Facewear = 'None.png'
+        
+        if (NFT_WholeBody != 'None.png'):
+            
+            NFT_Torso = 'None.png'
+            NFT_Head = 'None.png'
+            NFT_WholeHead = 'None.png'
+            NFT_Facewear = 'None.png'
+            NFT_Mouth = random.choices(['Smirk.png','Neutral.png'],weights=(50,50))[0]
+
+        if (NFT_WholeHead != 'None.png'):
+
+            NFT_Head = 'None.png'
 
         ##other controls
         ##import final images

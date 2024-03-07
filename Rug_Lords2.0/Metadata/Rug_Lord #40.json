@@ -3,43 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Short Dreads"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Balaclava"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

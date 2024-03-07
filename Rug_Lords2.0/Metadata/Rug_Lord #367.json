@@ -3,43 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Mt Gox"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

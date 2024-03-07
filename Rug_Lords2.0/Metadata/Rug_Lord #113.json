@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,19 +27,19 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
+            "value": "Cowboy"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Vision Pro"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Helmet"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

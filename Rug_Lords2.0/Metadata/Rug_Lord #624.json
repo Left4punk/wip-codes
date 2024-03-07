@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Cowboy"
         },
         {
             "trait_type": "Facewear",
@@ -39,7 +39,7 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Balaclava"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

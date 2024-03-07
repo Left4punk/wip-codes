@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Green Beanie"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -39,7 +39,7 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury Keffiyeh"
+            "value": "Lithem"
         },
         {
             "trait_type": "1/1",

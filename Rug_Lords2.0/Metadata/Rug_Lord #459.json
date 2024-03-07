@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -23,23 +23,23 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Cap"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Lithem"
+            "value": "Luxury Keffiyeh"
         },
         {
             "trait_type": "1/1",

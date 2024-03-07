@@ -3,47 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "1/1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Aba"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "1/1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Egyptian Goatee"
+            "value": "1/1"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "1/1"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "1/1"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Balaclava"
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "5"
         }
     ]
 }

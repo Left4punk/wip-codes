@@ -7,39 +7,39 @@
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Brown"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Headband"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

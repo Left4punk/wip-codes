@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -23,23 +23,23 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Emamah"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Gold"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Helmet"
+            "value": "None"
         },
         {
             "trait_type": "1/1",
