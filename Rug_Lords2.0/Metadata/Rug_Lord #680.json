@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "Windswept"
         },
         {
             "trait_type": "Facewear",

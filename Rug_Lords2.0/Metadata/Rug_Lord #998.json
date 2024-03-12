@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "BTC"
         },
         {
             "trait_type": "Facewear",

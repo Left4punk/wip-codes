@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Grey T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Luxury Keffiyeh"
         },
         {
             "trait_type": "1/1",

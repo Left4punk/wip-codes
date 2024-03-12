@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",

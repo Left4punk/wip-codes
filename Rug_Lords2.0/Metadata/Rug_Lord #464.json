@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Facewear",

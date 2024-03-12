@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "White T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",

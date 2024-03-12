@@ -7,23 +7,23 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",

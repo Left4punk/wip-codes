@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",

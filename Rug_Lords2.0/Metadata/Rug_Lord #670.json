@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "White T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",

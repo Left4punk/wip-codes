@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mt Gox"
         },
         {
             "trait_type": "Facewear",

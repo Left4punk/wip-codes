@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Emamah"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

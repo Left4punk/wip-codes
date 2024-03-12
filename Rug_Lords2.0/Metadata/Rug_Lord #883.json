@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Egyptian Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
+            "value": "Dreads"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D"
         },
         {
             "trait_type": "Whole Head",

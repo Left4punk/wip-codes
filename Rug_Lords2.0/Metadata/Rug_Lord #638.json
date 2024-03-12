@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Emamah"
         },
         {
             "trait_type": "Facewear",

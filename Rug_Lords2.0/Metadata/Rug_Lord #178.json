@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Dreads"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Vision Pro"
         },
         {
             "trait_type": "Whole Head",

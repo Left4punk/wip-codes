@@ -7,23 +7,23 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Aba"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

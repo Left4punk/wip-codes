@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",

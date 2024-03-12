@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Brown"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",

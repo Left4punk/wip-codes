@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "None"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Poncho"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",

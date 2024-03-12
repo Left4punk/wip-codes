@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Helmet"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

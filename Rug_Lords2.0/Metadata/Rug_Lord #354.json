@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Egyptian Goatee"
         },
         {
             "trait_type": "Accesories",
@@ -35,11 +35,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Gold"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Lithem"
         },
         {
             "trait_type": "1/1",

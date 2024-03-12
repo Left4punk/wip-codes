@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "Lavish"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "BTC"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Shades"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Balaclava"
         },
         {
             "trait_type": "1/1",

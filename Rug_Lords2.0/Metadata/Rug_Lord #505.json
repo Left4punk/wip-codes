@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",

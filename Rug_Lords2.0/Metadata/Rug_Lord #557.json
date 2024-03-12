@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "White T-shirt"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Ghost"
+            "value": "White Bordir"
         },
         {
             "trait_type": "Facewear",

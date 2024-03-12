@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "White T-shirt"
+            "value": "Lavish"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Crown"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Facewear",

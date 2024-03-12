@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Egyptian Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Green Beanie"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Tattoo"
+            "value": "Short"
         },
         {
             "trait_type": "Facewear",

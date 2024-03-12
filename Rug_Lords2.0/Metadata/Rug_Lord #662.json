@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -39,7 +39,7 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "Luxury Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

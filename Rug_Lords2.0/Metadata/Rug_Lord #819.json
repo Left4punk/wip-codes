@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Lavish"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "None"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Poncho"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Ghost"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D"
         },
         {
             "trait_type": "Whole Head",

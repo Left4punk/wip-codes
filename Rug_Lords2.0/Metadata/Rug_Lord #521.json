@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey T-shirt"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Black Turban"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

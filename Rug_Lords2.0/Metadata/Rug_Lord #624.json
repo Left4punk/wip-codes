@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy"
+            "value": "Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

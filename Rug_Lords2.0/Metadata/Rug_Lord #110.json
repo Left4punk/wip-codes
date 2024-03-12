@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey T-shirt"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Ice Cap"
+            "value": "Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D"
         },
         {
             "trait_type": "Whole Head",

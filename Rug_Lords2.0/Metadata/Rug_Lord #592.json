@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Jacket"
+            "value": "White T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Luxury Keffiyeh"
         },
         {
             "trait_type": "1/1",

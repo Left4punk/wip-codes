@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -35,11 +35,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Lithem"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

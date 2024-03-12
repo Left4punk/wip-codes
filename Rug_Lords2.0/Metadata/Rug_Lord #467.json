@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey T-shirt"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short Dreads"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

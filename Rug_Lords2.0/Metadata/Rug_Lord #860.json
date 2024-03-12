@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",

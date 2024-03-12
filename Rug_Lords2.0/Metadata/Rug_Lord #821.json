@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Coal"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
+            "value": "Ice Cap"
         },
         {
             "trait_type": "Facewear",

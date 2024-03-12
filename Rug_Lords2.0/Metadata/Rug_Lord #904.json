@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Windswept"
+            "value": "Green Beanie"
         },
         {
             "trait_type": "Facewear",

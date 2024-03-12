@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Gold"
         },
         {
             "trait_type": "Whole Head",

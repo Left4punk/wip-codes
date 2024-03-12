@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "White T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",

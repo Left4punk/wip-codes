@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Boudin"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

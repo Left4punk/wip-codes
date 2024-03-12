@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -39,7 +39,7 @@
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Helmet"
         },
         {
             "trait_type": "1/1",

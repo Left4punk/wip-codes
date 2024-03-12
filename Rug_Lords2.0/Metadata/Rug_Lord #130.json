@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Short Dreads"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "3D"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Lithem"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

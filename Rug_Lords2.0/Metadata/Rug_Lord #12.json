@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Green Beanie"
+            "value": "Windswept"
         },
         {
             "trait_type": "Facewear",

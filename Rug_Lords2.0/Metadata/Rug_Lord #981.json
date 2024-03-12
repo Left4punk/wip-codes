@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "Poncho"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "Cap"
         },
         {
             "trait_type": "Facewear",

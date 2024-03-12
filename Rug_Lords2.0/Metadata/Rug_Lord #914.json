@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Gold Aba"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Green Beanie"
+            "value": "Ice Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "Gold"
         },
         {
             "trait_type": "Whole Head",

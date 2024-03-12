@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Grey T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D"
         },
         {
             "trait_type": "Whole Head",

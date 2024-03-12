@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Bushy"
         },
         {
             "trait_type": "Accesories",

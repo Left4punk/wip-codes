@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Lavish"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",

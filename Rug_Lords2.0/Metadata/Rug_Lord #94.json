@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Lavish"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",

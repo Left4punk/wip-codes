@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Linen"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -35,11 +35,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Gold"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "Balaclava"
         },
         {
             "trait_type": "1/1",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Bored"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",

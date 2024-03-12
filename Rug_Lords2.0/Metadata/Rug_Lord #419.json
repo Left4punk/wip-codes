@@ -7,15 +7,15 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Helmet"
+            "value": "Headband"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Vision Pro"
         },
         {
             "trait_type": "Whole Head",

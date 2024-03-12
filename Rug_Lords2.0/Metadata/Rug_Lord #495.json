@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey T-shirt"
+            "value": "White T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Brown"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap"
+            "value": "Pablo"
         },
         {
             "trait_type": "Facewear",

@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Grey T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble"
+            "value": "Egyptian Goatee"
         },
         {
             "trait_type": "Accesories",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

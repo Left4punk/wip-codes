@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Smirk"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

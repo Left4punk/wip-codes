@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neutral"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Jacket"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mt Gox"
+            "value": "Cowboy"
         },
         {
             "trait_type": "Facewear",

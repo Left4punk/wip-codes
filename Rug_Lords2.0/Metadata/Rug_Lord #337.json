@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Grey"
         },
         {
             "trait_type": "Accesories",
@@ -35,11 +35,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Lithem"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

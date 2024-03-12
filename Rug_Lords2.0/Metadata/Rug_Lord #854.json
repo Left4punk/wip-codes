@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "OR Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Egyptian Goatee"
         },
         {
             "trait_type": "Accesories",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Boudin"
+            "value": "Crown"
         },
         {
             "trait_type": "Facewear",

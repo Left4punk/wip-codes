@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Blue Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mt Gox"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

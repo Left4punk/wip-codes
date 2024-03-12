@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bored"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold Aba"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
@@ -31,15 +31,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Ice Cap"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gold"
+            "value": "Vision Pro"
         },
         {
             "trait_type": "Whole Head",
-            "value": "Balaclava"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

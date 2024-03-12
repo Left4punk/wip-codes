@@ -33,12 +33,12 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10]
+    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10]
     Base_Rarity = [10,10,10,10,10]
-    Torso_Rarity=[10,10,10,10,10,10,40,10,10,10,10,10]
-    Mouth_Rarity=[10,10,10,10,10]
+    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10]
+    Mouth_Rarity=[10,10,50,10,10]
     Eyes_Rarity = [10,10,10,10,10,10]
-    FacialHair_Rarity=[10,10,10,10,10,10,50,10]
+    FacialHair_Rarity=[10,10,10,10,10,50,10]
     Facewear_Rarity = [10,10,50,10,10]
     Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,40,10,10,10,10,10,10,10]
     WholeBody_Rarity = [10,60,10,10,10]
@@ -836,33 +836,63 @@ if __name__ == '__main__':
         if (NFT_Mouth == 'Pipe.png' or NFT_Mouth == 'Cigar.png' or NFT_Mouth == 'Cigarrette.png'):
             
             NFT_FacialHair = 'None.png'
-        
+            NFT_WholeBody = 'None.png'
+            NFT_WholeHead = 'None.png'
+            conflict_head = ['Windswept.png', 'Long.png', 'Keffiyeh.png', 'Boudin.png']
+
+            for elem in conflict_head:
+
+                if elem in Head:
+
+                    remove_elem = Head.index(elem)
+                    Head.pop(remove_elem)
+                    Head_Rarity.pop(remove_elem)
+            
+            NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
+
+            #print('1')
         elif (NFT_Mouth == 'Smirk.png'):
 
-            NFT_FacialHair = random.choices(['Black.png','Brown.png','Bushy.png','Grey.png','Grey.png','None.png','Stubble.png'],weights=(50,50,50,50,50,50,50))[0]
+            NFT_FacialHair = random.choices(['Brown.png','Bushy.png','Grey.png','Grey.png','None.png','Stubble.png'],weights=(50,50,50,50,50,50))[0]
+            #print('2')
+
         if (NFT_Eyes == 'Blue Laser.png' or NFT_Eyes == 'Green Laser.png'):
 
             NFT_Facewear = 'None.png'
             NFT_WholeHead = 'None.png'
+            conflict_head = ['Mt Gox.png', 'Ghost.png', 'BTC.png', 'Black Turban.png']
+
+            for elem in conflict_head:
+
+                if elem in Head:
+
+                    remove_elem = Head.index(elem)
+                    Head.pop(remove_elem)
+                    Head_Rarity.pop(remove_elem)
+            
+            NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
+            #print('3')
         
         if (NFT_Head == 'Black Turban.png' or NFT_Head == 'Boudin.png' or NFT_Head == 'BTC.png' or NFT_Head == 'Crown.png' or NFT_Head == 'Emamah.png' or NFT_Head == 'Ghost.png' or
-            
             NFT_Head == 'Helmet.png' or NFT_Head == 'Keffiyeh.png' or NFT_Head == 'Long.png' or NFT_Head == 'Mt Gox.png' or NFT_Head == 'Pablo.png' or NFT_Head == 'Short.png' or 
             NFT_Head == 'Turban.png' or NFT_Head == 'White Bordir.png' or NFT_Head == 'Windswept'):
 
             NFT_Facewear = 'None.png'
+            #print('4')
         
         if (NFT_WholeBody != 'None.png'):
             
-            NFT_Torso = 'None.png'
+            #NFT_Torso = 'None.png'
             NFT_Head = 'None.png'
             NFT_WholeHead = 'None.png'
             NFT_Facewear = 'None.png'
             NFT_Mouth = random.choices(['Smirk.png','Neutral.png'],weights=(50,50))[0]
+            #print('5')
 
         if (NFT_WholeHead != 'None.png'):
 
             NFT_Head = 'None.png'
+            #print('6')
 
         ##other controls
         ##import final images

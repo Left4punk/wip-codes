@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Grey"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ice"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "Angry"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Waistcoat"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Windswept"
+            "value": "Keffiyeh"
         },
         {
             "trait_type": "Facewear",

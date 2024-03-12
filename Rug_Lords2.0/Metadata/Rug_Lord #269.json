@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Navy"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Sus"
         },
         {
             "trait_type": "Torso",
-            "value": "White T-shirt"
+            "value": "Purple T-shirt"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D"
+            "value": "Vision Pro"
         },
         {
             "trait_type": "Whole Head",

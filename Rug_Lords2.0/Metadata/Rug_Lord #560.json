@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Green"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Sus"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
@@ -19,11 +19,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Neutral"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "Stubble"
         },
         {
             "trait_type": "Accesories",
