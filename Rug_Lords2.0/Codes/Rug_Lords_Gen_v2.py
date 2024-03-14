@@ -883,6 +883,7 @@ if __name__ == '__main__':
         if (NFT_WholeHead != 'None.png'):
 
             NFT_Head = 'None.png'
+            NFT_Facewear = 'None.png'
             #print('6')
 
         ##other controls
