@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Green Laser"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facial Hair",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Shades"
+            "value": "None"
         },
         {
             "trait_type": "Whole Head",

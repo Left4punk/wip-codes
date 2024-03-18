@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Eyes",
-            "value": "Angry"
+            "value": "Neutral"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Poncho"
         },
         {
             "trait_type": "Mouth",

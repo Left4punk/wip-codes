@@ -507,6 +507,24 @@ def Facewear_Conflicts (NFT_Head,NFT_Facewear, Facewear, Facewear_Rarity):
                 Facewear_Rarity.pop(remove_elem)
 
         NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]  
+    
+    elif (NFT_Head == 'Fez.png'):
+        
+        conflict_facewear = ['Vision Pro.png']
+
+        for elem in conflict_facewear:
+            
+            if elem in Facewear:
+
+                remove_elem = Facewear.index(elem)
+                Facewear.pop(remove_elem)
+                Facewear_Rarity.pop(remove_elem)
+
+        NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]  
+
+    elif (NFT_Head == 'Windswept.png'):
+        
+        NFT_Facewear = 'None.png'
 
     else:
 
@@ -883,8 +901,13 @@ if __name__ == '__main__':
         if (NFT_WholeHead != 'None.png'):
 
             NFT_Head = 'None.png'
+            NFT_Mouth = 'Neutral.png'
             NFT_Facewear = 'None.png'
             #print('6')
+
+        if (NFT_Mouth == 'Pipe.png' or NFT_Mouth == 'Cigar.png' or NFT_Mouth == 'Cigarrette.png'):
+
+            NFT_FacialHair = 'None.png'
 
         ##other controls
         ##import final images

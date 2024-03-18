@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Mint"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "White T-shirt"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "Neutral"
         },
         {
+            "trait_type": "Torso",
+            "value": "Lavish"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
             "trait_type": "Facial Hair",
-            "value": "Brown"
+            "value": "Egyptian Goatee"
         },
         {
             "trait_type": "Accesories",

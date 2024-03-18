@@ -3,47 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "1/1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Green Laser"
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "1/1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Whole Head",
-            "value": "None"
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "3"
         }
     ]
 }
