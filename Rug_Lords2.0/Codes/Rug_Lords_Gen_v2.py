@@ -48,8 +48,8 @@ def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity, Torso
     NFT_BackGrounds = random.choices(BackGrounds,weights=(BackGrounds_Rarity))[0]
     NFT_Base = random.choices(Base,weights=(Base_Rarity))[0]
     NFT_Torso = random.choices(Torso,weights=(Torso_Rarity))[0]
-    NFT_Mouth = random.choices(Mouth,weights=(Mouth_Rarity))[0]
     NFT_FacialHair = random.choices(FacialHair,weights=(FacialHair_Rarity))[0]
+    NFT_Mouth = random.choices(Mouth,weights=(Mouth_Rarity))[0]
     NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]
     NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
     NFT_WholeBody = random.choices(WholeBody,weights=(WholeBody_Rarity))[0]
@@ -57,23 +57,31 @@ def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity, Torso
     
     return NFT_BackGrounds, NFT_Base, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody
 
-def Get_NFT_Hands(Base):
+def Get_NFT_Hands_Expression(Base):
 
     Base = Base.split('.')[0]
 
-    Hand_Path = f"{input_path}/10 - Hand/{Base}/"
+    Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    if (Base == 'Black' or Base == 'Tan' or Base == 'White'):
-        Hand_Rarity = [10,10,10,10,10,50,10,10,10,10,10,10]
-    else:
-        Hand_Rarity = [10,50,10,10,10,10,10,10]
+    Hand_Rarity = [10,50,10,10,10,10,10]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
+
+    Expression_Path = f"{input_path}/2 - Expression/{Base}/"
+    Expression = [f for f in listdir(Expression_Path) if isfile(join(Expression_Path, f))]
+    if (Base == 'Black' or Base == 'Tan' or Base == 'White'):
+        Expression_Rarity = [10,10,10,10,10]
+    elif (Base == 'Zombie' or Base == 'Ghost'):
+        Expression_Rarity = [10,10,10]
+    else:
+        Expression_Rarity = [10,10]
+
+    NFT_Expression = random.choices(Expression,weights=(Expression_Rarity))[0] 
     
-    return NFT_Hand
+    return NFT_Hand, NFT_Expression
     
-def control_ADN(NFT_BackGrounds, NFT_Base, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand):
+def control_ADN(NFT_BackGrounds, NFT_Base, NFT_Expression, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand):
     
-    ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Torso + "&" + NFT_Mouth + "&" + NFT_Eyes + "&" + NFT_FacialHair + "&" + NFT_Facewear + "&" + NFT_Head + "&" + NFT_WholeBody + "&" + NFT_Hand
+    ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Expression + "&" + NFT_Torso + "&" + NFT_Mouth + "&" + NFT_FacialHair + "&" + NFT_Facewear + "&" + NFT_Head + "&" + NFT_WholeBody + "&" + NFT_Hand
     
     if (ADN_NFT in ADN_list):
         control = True
@@ -189,14 +197,13 @@ def get_Images (NFT_BackGrounds, NFT_Base, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_F
 
     Image_BackGrounds = f'{input_path}/0 - Background/'+NFT_BackGrounds
     Image_Base = f'{input_path}/1 - Base/'+NFT_Base
-    Image_Torso = f'{input_path}/2 - Torso/'+NFT_Torso
+    Image_Torso = f'{input_path}/3 - Torso/'+NFT_Torso
     Image_Mouth = f'{input_path}/3 - Mouth/'+NFT_Mouth
-    Image_Eyes = f'{input_path}/4 - Eyes/'+NFT_Eyes
     Image_FacialHair = f'{input_path}/5 - Facial Hair/'+NFT_FacialHair
     Image_Facewear = f'{input_path}/6 - Facewear/'+NFT_Facewear
     Image_Head = f'{input_path}/7 - Head/'+NFT_Head
     Image_WholeBody = f'{input_path}/8 - Whole Body/'+NFT_WholeBody
-    Image_Hand = f'{input_path}/10 - Hand/{Base}/'+NFT_Hand    
+    Image_Hand = f'{input_path}/9 - Hand/{Base}/'+NFT_Hand    
 
     return Image_BackGrounds, Image_Base, Image_Torso, Image_Mouth, Image_Eyes, Image_FacialHair, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand
 
@@ -363,7 +370,7 @@ if __name__ == '__main__':
                                                                                                                                                               Mouth, Mouth_Rarity, Eyes, Eyes_Rarity, FacialHair, FacialHair_Rarity, Facewear, Facewear_Rarity,
                                                                                                                                                                       Head, Head_Rarity, WholeBody, WholeBody_Rarity)
 
-        NFT_Hand = Get_NFT_Hands(NFT_Base)
+        NFT_Hand, NFT_Expression = Get_NFT_Hands_Expression(NFT_Base)
         ##get first layers
         
         NFT_Head_Excluded = []
@@ -375,7 +382,7 @@ if __name__ == '__main__':
         NFT_Head = Head_Conflicts (NFT_Eyes, NFT_Head, Head, Head_Rarity)
         ## control
     
-        ADN_List, control = control_ADN(NFT_BackGrounds, NFT_Base, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand)
+        ADN_List, control = control_ADN(NFT_BackGrounds, NFT_Base, NFT_Expression, NFT_Torso, NFT_Mouth, NFT_Eyes, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand)
         if control: continue
 
         ## control
