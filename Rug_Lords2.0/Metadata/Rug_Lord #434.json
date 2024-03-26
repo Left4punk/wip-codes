@@ -3,38 +3,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
             "value": "Thobe white"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
+            "value": "Btc mask"
+        },
+        {
+            "trait_type": "Head",
             "value": "None"
         },
         {

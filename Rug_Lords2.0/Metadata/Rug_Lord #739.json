@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -15,31 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Duck tail black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb white"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

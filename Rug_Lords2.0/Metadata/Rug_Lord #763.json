@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
             "value": "Blue shirt with chain "
         },
         {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
             "trait_type": "Facial Hair",
             "value": "Duck tail black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Laser eyes cyan"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wizard hat 2"
         },
         {
             "trait_type": "Whole Body",

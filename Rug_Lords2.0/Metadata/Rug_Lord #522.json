@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Red turban"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Full beard black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision pro"
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

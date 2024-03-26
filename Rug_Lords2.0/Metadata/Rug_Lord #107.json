@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
             "value": "Lavish"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Full beard black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes cyan"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

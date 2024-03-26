@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Goatee"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Mullet brown"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Short hair brown"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Side part hair brown"
         },
         {
             "trait_type": "Whole Body",

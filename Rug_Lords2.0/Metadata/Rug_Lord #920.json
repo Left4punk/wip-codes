@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "OR poncho "
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
             "value": "Cigarette"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

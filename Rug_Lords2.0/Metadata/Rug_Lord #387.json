@@ -3,51 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Zombie"
         },
         {
-            "trait_type": "Eyes",
-            "value": "1/1"
+            "trait_type": "Expression",
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "Duck tail brown"
         },
         {
-            "trait_type": "Accesories",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Head",
-            "value": "1/1"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "Laser eyes cyan"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "1/1"
+            "trait_type": "Head",
+            "value": "Side part hair brown"
         },
         {
-            "trait_type": "Hand",
-            "value": "1/1"
+            "trait_type": "Whole Body",
+            "value": "None"
         },
         {
             "trait_type": "1/1",
-            "value": "5"
+            "value": "None"
         }
     ]
 }

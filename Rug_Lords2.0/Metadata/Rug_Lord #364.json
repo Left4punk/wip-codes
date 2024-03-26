@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -15,31 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Thawb black"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

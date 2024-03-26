@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Flow hair black"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

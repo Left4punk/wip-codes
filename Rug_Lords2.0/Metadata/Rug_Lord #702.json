@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,31 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Cap purple"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Body",
+            "trait_type": "Head",
             "value": "None"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "Blue cloak"
         },
         {
             "trait_type": "1/1",

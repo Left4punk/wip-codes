@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Golden aba"
+            "value": "OR poncho "
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
             "value": "Cigarette"
         },
         {
-            "trait_type": "Facial Hair",
+            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
             "trait_type": "Head",
-            "value": "Beanie orange"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

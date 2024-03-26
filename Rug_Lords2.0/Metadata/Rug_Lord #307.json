@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
@@ -11,35 +11,31 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Duck tail black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah beige"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Purple cloak"
         },
         {
             "trait_type": "1/1",

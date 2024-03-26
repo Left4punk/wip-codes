@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
@@ -11,35 +11,31 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Wizard robe 2"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Purple cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

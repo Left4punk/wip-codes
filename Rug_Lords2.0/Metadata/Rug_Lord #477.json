@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Black shirt with chain "
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "None"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "None"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

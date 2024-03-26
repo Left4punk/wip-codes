@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Mullet blue"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

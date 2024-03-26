@@ -3,43 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "Goatee"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "Vision pro"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb beige"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

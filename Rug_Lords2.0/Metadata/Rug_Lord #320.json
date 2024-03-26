@@ -3,43 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Vision pro"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb dark red"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

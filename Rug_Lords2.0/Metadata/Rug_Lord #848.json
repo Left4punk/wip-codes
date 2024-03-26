@@ -3,43 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Vest green"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Gox mask"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Btc mask"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Thawb black"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

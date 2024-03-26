@@ -15,31 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt black "
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
+            "trait_type": "Facewear",
             "value": "None"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah beige"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb beige"
         },
         {
             "trait_type": "1/1",

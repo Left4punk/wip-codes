@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
             "value": "Goatee"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Side part hair brown"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Taqiyah red"
         },
         {
             "trait_type": "Whole Body",

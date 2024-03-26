@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -18,24 +18,20 @@
             "value": "Btc shirt beige"
         },
         {
-            "trait_type": "Mouth",
-            "value": "None"
-        },
-        {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "None"
+            "trait_type": "Mouth",
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

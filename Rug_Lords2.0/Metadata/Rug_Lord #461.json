@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
             "value": "Blue shirt with chain "
         },
         {
-            "trait_type": "Mouth",
-            "value": "None"
-        },
-        {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Flow hair black"
+            "trait_type": "Mouth",
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

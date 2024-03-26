@@ -3,43 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Lavish"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gox mask"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Pac-Man mask"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Thawb black"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

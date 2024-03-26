@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
             "value": "Green Aba"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Pipe"
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
         },
         {
-            "trait_type": "Facial Hair",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

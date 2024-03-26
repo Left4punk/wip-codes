@@ -3,34 +3,26 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Duck tail black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -38,8 +30,12 @@
             "value": "None"
         },
         {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
             "trait_type": "Whole Body",
-            "value": "Purple cloak"
+            "value": "Blue cloak"
         },
         {
             "trait_type": "1/1",

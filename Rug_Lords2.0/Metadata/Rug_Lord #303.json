@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Wizard robe 2"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

@@ -3,34 +3,26 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -38,8 +30,12 @@
             "value": "Gox mask"
         },
         {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
             "trait_type": "Whole Body",
-            "value": "Thawb black"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

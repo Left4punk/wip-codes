@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Cap green"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

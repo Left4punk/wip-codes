@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Thobe black"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
             "value": "Cigar"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "None"
+            "value": "Wizard hat 2"
         },
         {
             "trait_type": "Whole Body",

@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Gold jacket"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
             "value": "Pipe"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Stubble black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy hat"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Vest beige"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
             "value": "Cigarette"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

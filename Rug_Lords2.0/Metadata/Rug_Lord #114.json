@@ -7,39 +7,35 @@
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
             "value": "Stubble black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Blue cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

@@ -3,22 +3,18 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -26,20 +22,20 @@
             "value": "Full beard brown"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Vision pro"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Thawb dark red"
+            "value": "Purple cloak"
         },
         {
             "trait_type": "1/1",

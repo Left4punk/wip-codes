@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Wizard hat 1"
+            "trait_type": "Mouth",
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision pro"
+            "value": "Gox mask"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

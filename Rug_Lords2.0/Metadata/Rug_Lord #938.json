@@ -3,34 +3,26 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -38,8 +30,12 @@
             "value": "Laser eyes green"
         },
         {
+            "trait_type": "Head",
+            "value": "Cowboy hat"
+        },
+        {
             "trait_type": "Whole Body",
-            "value": "Thawb navy"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

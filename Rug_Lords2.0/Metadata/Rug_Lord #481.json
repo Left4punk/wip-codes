@@ -3,22 +3,18 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -26,20 +22,20 @@
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Sunglasses"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Khaki cloak"
+            "value": "Thawb beige"
         },
         {
             "trait_type": "1/1",

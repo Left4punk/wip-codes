@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
             "value": "Beanie blue"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "None"
         },
         {
             "trait_type": "Whole Body",

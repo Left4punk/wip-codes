@@ -3,34 +3,26 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "Stubble black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -38,8 +30,12 @@
             "value": "None"
         },
         {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
             "trait_type": "Whole Body",
-            "value": "Blue cloak"
+            "value": "Thawb white"
         },
         {
             "trait_type": "1/1",

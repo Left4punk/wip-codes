@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt black "
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "Full beard black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
             "value": "None"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Gox mask"
         },
         {
             "trait_type": "Whole Body",

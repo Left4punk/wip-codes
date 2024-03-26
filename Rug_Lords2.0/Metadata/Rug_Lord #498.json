@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
@@ -15,10 +15,6 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
@@ -26,20 +22,20 @@
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
             "value": "None"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Sunglasses"
-        },
-        {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "Thawb dark red"
         },
         {
             "trait_type": "1/1",

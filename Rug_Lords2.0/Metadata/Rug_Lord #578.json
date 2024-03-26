@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
@@ -11,31 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Wizard hat 1"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Emamah"
         },
         {
             "trait_type": "Whole Body",

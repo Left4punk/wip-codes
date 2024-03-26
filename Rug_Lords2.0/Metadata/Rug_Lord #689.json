@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Stubble black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Taqiyah beige"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

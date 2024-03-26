@@ -7,35 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Cap green"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

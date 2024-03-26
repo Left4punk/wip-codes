@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
+            "value": "Full beard black"
+        },
+        {
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Laser eyes red"
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "Vision pro"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",

@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -15,26 +15,22 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Golden aba"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "None"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
             "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Red turban"
+            "trait_type": "Mouth",
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
+            "value": "Btc mask"
+        },
+        {
+            "trait_type": "Head",
             "value": "None"
         },
         {

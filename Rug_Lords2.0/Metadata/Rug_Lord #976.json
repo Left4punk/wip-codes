@@ -3,39 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Golden aba"
+            "value": "Wizard robe 1"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Facial Hair",
-            "value": "Duck tail black"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+            "trait_type": "Facewear",
+            "value": "Laser eyes cyan"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
-        },
-        {
-            "trait_type": "Facewear",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

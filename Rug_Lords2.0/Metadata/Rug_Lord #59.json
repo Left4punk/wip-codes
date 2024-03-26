@@ -3,51 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "1/1"
+            "trait_type": "Expression",
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Head",
-            "value": "1/1"
+            "trait_type": "Mouth",
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "Vision pro"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "1/1"
+            "trait_type": "Head",
+            "value": "Taqiyah beige"
         },
         {
-            "trait_type": "Hand",
-            "value": "1/1"
+            "trait_type": "Whole Body",
+            "value": "None"
         },
         {
             "trait_type": "1/1",
-            "value": "8"
+            "value": "None"
         }
     ]
 }
