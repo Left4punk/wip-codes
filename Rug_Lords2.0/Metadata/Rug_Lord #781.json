@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Coal"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sus"
+            "trait_type": "Expression",
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Grey T-shirt"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Mouth",
@@ -23,22 +23,22 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Pablo"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Facewear",
+            "value": "Gox mask"
+        },
+        {
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

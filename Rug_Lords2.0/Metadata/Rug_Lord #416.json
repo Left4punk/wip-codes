@@ -3,43 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Zombie"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sus"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Grey"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Keffiyeh"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "None"
+            "trait_type": "Whole Body",
+            "value": "Thawb navy"
         },
         {
             "trait_type": "1/1",

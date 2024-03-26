@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Zombie"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Neutral"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "White T-shirt"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "Grey"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "BTC"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Facial Hair",
+            "value": "Full beard black"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Turban"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

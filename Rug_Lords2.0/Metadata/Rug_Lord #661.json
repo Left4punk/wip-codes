@@ -3,31 +3,31 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mint"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
             "value": "Black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sus"
+            "trait_type": "Expression",
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Aba"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
@@ -38,8 +38,8 @@
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "None"
+            "trait_type": "Whole Body",
+            "value": "Khaki cloak"
         },
         {
             "trait_type": "1/1",

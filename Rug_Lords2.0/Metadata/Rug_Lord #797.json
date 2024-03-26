@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Bored"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "White T-shirt"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

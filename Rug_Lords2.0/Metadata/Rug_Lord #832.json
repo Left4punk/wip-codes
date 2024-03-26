@@ -3,43 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "White"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Bored"
-        },
-        {
-            "trait_type": "Torso",
-            "value": "Jacket"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "None"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
             "value": "Ghost"
         },
         {
-            "trait_type": "Facewear",
+            "trait_type": "Expression",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Mouth",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Facial Hair",
+            "value": "Stubble white"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
             "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Vision pro"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "Thawb green"
         },
         {
             "trait_type": "1/1",

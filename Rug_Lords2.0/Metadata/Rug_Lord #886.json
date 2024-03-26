@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
             "value": "White"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Sus"
+            "trait_type": "Expression",
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "Grey"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Windswept"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Facial Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Pac-Man mask"
+        },
+        {
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

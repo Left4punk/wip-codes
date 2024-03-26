@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Coal"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "trait_type": "Expression",
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Fez"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Taqiyah beige"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

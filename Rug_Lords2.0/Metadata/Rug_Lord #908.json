@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mint"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Cyborg"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Green Laser"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,18 +27,18 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Cap"
+            "value": "Dordir"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

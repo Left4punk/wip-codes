@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Bored"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facial Hair",
             "value": "None"
         },
         {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
+        },
+        {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
             "value": "White"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Angry"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Waistcoat"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Mouth",
@@ -23,22 +23,22 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy"
+            "value": "Short hair black"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

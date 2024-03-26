@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Cyborg"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Green Laser"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Linen"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Mouth",
@@ -23,22 +23,22 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "Wizard hat 1"
         },
         {
             "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

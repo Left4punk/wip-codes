@@ -3,51 +3,47 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Cyborg"
         },
         {
-            "trait_type": "Eyes",
-            "value": "1/1"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "None"
         },
         {
             "trait_type": "Accesories",
-            "value": "1/1"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "1/1"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "Btc mask"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Hand",
-            "value": "1/1"
+            "trait_type": "Whole Body",
+            "value": "None"
         },
         {
             "trait_type": "1/1",
-            "value": "4"
+            "value": "None"
         }
     ]
 }

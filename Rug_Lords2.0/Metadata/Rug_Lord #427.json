@@ -3,42 +3,42 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Coal"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Purple T-shirt"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "Egyptian Goatee"
-        },
-        {
-            "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Cowboy"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes cyan"
+        },
+        {
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {

@@ -3,31 +3,31 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mint"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Ice"
+            "value": "Ghost"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Green Laser"
+            "trait_type": "Expression",
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Bushy"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
@@ -35,11 +35,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Gox mask"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "None"
+            "trait_type": "Whole Body",
+            "value": "Blue cloak"
         },
         {
             "trait_type": "1/1",

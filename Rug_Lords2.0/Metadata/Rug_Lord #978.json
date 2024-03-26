@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mint"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
             "value": "Zombie"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Blue Laser"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "OR Poncho"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Mouth",
-            "value": "Neutral"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,18 +27,18 @@
         },
         {
             "trait_type": "Accesories",
-            "value": "C:\\Users\\pcostasv\\OneDrive - PUIG\\Escritorio\\Python\\General_Scripts\\Personal\\wip-codes\\Rug_Lords2"
+            "value": "C:\\Users\\Pol\\Desktop\\python_env\\wip-codes\\Rug_Lords2"
         },
         {
             "trait_type": "Head",
-            "value": "White Bordir"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Facewear",
             "value": "None"
         },
         {
-            "trait_type": "Whole Head",
+            "trait_type": "Whole Body",
             "value": "None"
         },
         {
