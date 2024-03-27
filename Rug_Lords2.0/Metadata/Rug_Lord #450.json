@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Khaki cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Lavish"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",

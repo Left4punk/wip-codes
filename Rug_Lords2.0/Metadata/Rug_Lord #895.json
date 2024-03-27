@@ -3,39 +3,39 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Lavish"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "3D glasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Blue cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

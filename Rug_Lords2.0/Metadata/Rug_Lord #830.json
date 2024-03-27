@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,27 +15,27 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb green"
         },
         {
             "trait_type": "1/1",

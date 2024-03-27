@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

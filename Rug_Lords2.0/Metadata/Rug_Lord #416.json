@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Laser eyes cyan"
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

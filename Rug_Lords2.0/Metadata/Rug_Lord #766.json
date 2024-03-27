@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

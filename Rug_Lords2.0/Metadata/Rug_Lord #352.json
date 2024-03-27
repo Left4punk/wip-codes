@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb beige"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

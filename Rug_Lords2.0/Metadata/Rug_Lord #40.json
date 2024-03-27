@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Laser eyes green"
+        },
+        {
             "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

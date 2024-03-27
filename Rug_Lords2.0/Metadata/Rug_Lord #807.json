@@ -7,31 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
             "trait_type": "Head",
-            "value": "Wizard hat 1"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

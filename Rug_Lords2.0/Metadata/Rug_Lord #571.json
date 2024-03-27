@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",

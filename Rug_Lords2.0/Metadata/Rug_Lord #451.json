@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Khaki cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

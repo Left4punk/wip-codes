@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah beige"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

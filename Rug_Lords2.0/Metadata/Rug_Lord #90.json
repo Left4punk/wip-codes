@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

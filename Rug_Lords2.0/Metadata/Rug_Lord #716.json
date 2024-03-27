@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Vision pro"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

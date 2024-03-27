@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "Vision pro"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

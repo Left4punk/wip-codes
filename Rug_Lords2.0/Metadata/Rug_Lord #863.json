@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Taqiyah red"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

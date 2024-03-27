@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Dordir"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

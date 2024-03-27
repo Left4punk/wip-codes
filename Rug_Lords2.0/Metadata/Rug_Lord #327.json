@@ -3,51 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Black"
         },
         {
-            "trait_type": "Eyes",
-            "value": "1/1"
+            "trait_type": "Expression",
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "Duck tail black"
         },
         {
-            "trait_type": "Accesories",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Head",
-            "value": "1/1"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "None"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "1/1"
+            "trait_type": "Head",
+            "value": "Wizard hat 1"
         },
         {
-            "trait_type": "Hand",
-            "value": "1/1"
+            "trait_type": "Whole Body",
+            "value": "None"
         },
         {
             "trait_type": "1/1",
-            "value": "1"
+            "value": "None"
         }
     ]
 }

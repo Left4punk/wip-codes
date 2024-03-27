@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "3D glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "Cap purple"
         },
         {
             "trait_type": "Whole Body",

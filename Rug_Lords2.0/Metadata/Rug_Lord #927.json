@@ -3,51 +3,43 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "1/1"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "1/1"
+            "value": "Cyborg"
         },
         {
-            "trait_type": "Eyes",
-            "value": "1/1"
+            "trait_type": "Expression",
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "1/1"
+            "value": "None"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "1/1"
+            "value": "None"
         },
         {
-            "trait_type": "Accesories",
-            "value": "1/1"
-        },
-        {
-            "trait_type": "Head",
-            "value": "1/1"
+            "trait_type": "Mouth",
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "1/1"
+            "value": "None"
         },
         {
-            "trait_type": "Whole Head",
-            "value": "1/1"
+            "trait_type": "Head",
+            "value": "None"
         },
         {
-            "trait_type": "Hand",
-            "value": "1/1"
+            "trait_type": "Whole Body",
+            "value": "Thawb white"
         },
         {
             "trait_type": "1/1",
-            "value": "4"
+            "value": "None"
         }
     ]
 }

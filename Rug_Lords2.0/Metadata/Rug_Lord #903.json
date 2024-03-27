@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -19,23 +19,23 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Khaki cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

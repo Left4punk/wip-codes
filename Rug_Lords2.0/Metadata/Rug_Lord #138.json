@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Lavish"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

@@ -3,43 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "1/1"
         },
         {
-            "trait_type": "Expression",
-            "value": "Wink"
+            "trait_type": "Eyes",
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "1/1"
         },
         {
-            "trait_type": "Facewear",
-            "value": "Btc mask"
+            "trait_type": "Facial Hair",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "1/1"
         },
         {
-            "trait_type": "Whole Body",
-            "value": "None"
+            "trait_type": "Facewear",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "6"
         }
     ]
 }

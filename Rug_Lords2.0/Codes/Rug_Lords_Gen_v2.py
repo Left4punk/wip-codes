@@ -182,7 +182,7 @@ def Facewear_Conflicts (NFT_Head, Head, Head_Rarity, NFT_Facewear, NFT_WholeBody
     
     elif NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 
-        conflict_head = ['Turban.png', 'Emamah.png', 'Grey & Red turban.png', 'White turban.png', 'Red turban.png']
+        conflict_head = ['Turban.png', 'Emamah.png', 'Grey & Red turban.png', 'White turban.png', 'Red turban.png','Long.png']
     
         for elem in conflict_head:
             
@@ -308,7 +308,7 @@ def get_NFT_hand (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, 
     
     Hand_Image = Image.open(Image_Hand).convert("RGBA")     
 
-    int8 = Image.alpha_composite(int4, Hand_Image)
+    int8 = Image.alpha_composite(int7, Hand_Image)
 
     Mouth_Image = Image.open(Image_Mouth).convert("RGBA")
 
@@ -498,24 +498,12 @@ if __name__ == '__main__':
             
             NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
 
-        if NFT_Head not in ['Fedora.png', 'Taqiyah beige', 'Taqiyah blue', 'Taqiyah dark green', 'Taqiyah red']:
+        if (NFT_Head not in ['Fedora.png', 'Taqiyah beige', 'Taqiyah blue', 'Taqiyah dark green', 'Taqiyah red'] and NFT_Facewear == 'Vision Pro.png'):
 
-            conflict_facewear = ['Vision Pro.png']
+            NFT_Facewear = 'None.png'
 
-            for elem in conflict_facewear:
-
-                if elem in Facewear:
-
-                    remove_elem = Facewear.index(elem)
-                    Facewear.pop(remove_elem)
-                    Facewear_Rarity.pop(remove_elem)
-            
-            NFT_Facewear = random.choices(Facewear,weights=(Facewear_Rarity))[0]
-
-        
-        NFT_FacialHair  = FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Head)
+        NFT_FacialHair = FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Head)
         NFT_Head, NFT_WholeBody = Facewear_Conflicts (NFT_Head, Head, Head_Rarity, NFT_Facewear, NFT_WholeBody)
-
 
         if (NFT_WholeBody != 'None.png'):
 
@@ -530,11 +518,12 @@ if __name__ == '__main__':
 
         if NFT_Mouth != 'None':
             
-            NFT_Hand = random.choices(['BTC Staff.png','OR Rune.png','None.png','Scepter.png','Spear.png','Staff.png','Sword.png'],weights=(10,10,50,10,10,10,10))[0]
+            NFT_Hand = random.choices(['OR Rune.png','None.png','Staff.png'],weights=(10,50,10))[0]
         
         if NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 
             NFT_Hand = random.choices(['OR Rune.png','None.png'],weights=(10,50))[0]
+            NFT_Mouth = 'None.png'
 
 
         ##other controls

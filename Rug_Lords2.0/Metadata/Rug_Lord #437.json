@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Dordir"
         },
         {
             "trait_type": "Whole Body",

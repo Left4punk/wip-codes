@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "3D glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

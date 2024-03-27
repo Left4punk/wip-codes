@@ -7,11 +7,11 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -19,19 +19,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Laser eyes red"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",
