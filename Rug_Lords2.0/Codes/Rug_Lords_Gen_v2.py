@@ -30,13 +30,13 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10]
+    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
     Base_Rarity = [10,10,10,10,10,10]
     Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,0,10,10,10,10,10,10,10,10,10,10]
     FacialHair_Rarity=[10,10,10,10,10,50,10,10]
     Mouth_Rarity=[10,10,50,10]
     Facewear_Rarity = [10,10,10,10,10,10,10,10,50,10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,30,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,30,10,10,10,10,10,10,10,10,10,10,10,10,10]
     WholeBody_Rarity = [10,10,50,10,10,10,10,10,10,10]
     
     
@@ -63,7 +63,7 @@ def Get_NFT_Hands_Expression(Base):
 
     Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    Hand_Rarity = [10,50,10,10,10,10,10]
+    Hand_Rarity = [10,50,10,10,10,10,10,10,10]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
 
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
@@ -335,6 +335,7 @@ if __name__ == '__main__':
     position_list = random.sample(range(1, collection_number), number_of_ones)
     position_list.sort()
     
+    print (input_path)
     ## adding 1on1s
     
     i = 1
@@ -429,6 +430,11 @@ if __name__ == '__main__':
             NFT_Head = 'None.png'
             NFT_Torso = 'None.png'
             NFT_Facewear = 'None.png'
+
+        if (NFT_Base in ['Cyborg.png','Ghost.png','Zombie.png'] or NFT_Facewear in ['Pac-Man mask.png','Btc mask.png','Gox mask.png']):
+
+            NFT_FacialHair = 'None.png'
+
 
         if NFT_Mouth != 'None':
 
