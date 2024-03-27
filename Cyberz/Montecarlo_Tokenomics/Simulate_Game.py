@@ -23,6 +23,27 @@ def roll_initial_bot_energy_res():
 
     return energy, resilience
 
+def generate_bot ():
+
+    ##rolling initial stats
+    health = 100
+    size, haste, crit = roll_initial_bot_stats ()
+
+    starting_energy, resilience = roll_initial_bot_energy_res()
+
+    resource_yield_increase = 0.01*size
+    energy = starting_energy + size
+    mission_success_boost = 0.005*haste
+    mission_crit_chance = 0.005*crit
+    print ("Initial Bot Stats")
+    print(f"{'Size':<10}{'Haste':<10}{'Crit':<10}{'Energy':<10}{'Resilience':<12}")
+    print(f"{size:<10}{haste:<10}{crit:<10}{energy :<10}{resilience:<12}")
+    print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
+    print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
+
+    return health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance
+
+
 def roll_mission_destruction (resilience):
 
     destruction_number = random.randint(1,100000)
@@ -158,25 +179,38 @@ def plastic_mission(hours, resilience,mission_success_boost):
     return mission_status, plastic_reward, xp_earned, bits_earned, energy_cost, junk_earned
 
 
-def generate_bot ():
+def run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance):
+    
+    ##mission types
+    missions = [data_vaults_mission, refinery_mission, plastic_mission]
 
-    ##rolling initial stats
-    health = 100
-    size, haste, crit = roll_initial_bot_stats ()
+    # mission selection
+    selected_mission = random.choice(missions)
+    selected_mission_name = selected_mission.__name__
+    # list resource name
+    resource_names = {
+        data_vaults_mission: 'Silicon',
+        refinery_mission: 'Metal',
+        plastic_mission: 'Plastic'
+    }
+    resource_name = resource_names[selected_mission]
 
-    starting_energy, resilience = roll_initial_bot_energy_res()
+    # run executed mission
+    mission_status, resource_reward, xp_earned, bits_earned, energy_cost, junk_earned = selected_mission(mission_time, resilience, mission_success_boost)
+     
 
-    resource_yield_increase = 0.01*size
-    energy = starting_energy + size
-    mission_success_boost = 0.005*haste
-    mission_crit_chance = 0.005*crit
-    print ("Initial Bot Stats")
-    print(f"{'Size':<10}{'Haste':<10}{'Crit':<10}{'Energy':<10}{'Resilience':<12}")
-    print(f"{size:<10}{haste:<10}{crit:<10}{energy :<10}{resilience:<12}")
-    print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
-    print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
+    # Final resource rewards
+    total_bits, total_material, crit_mission = mission_final_rewards(bits_earned, resource_reward, resource_yield_increase, mission_crit_chance)
+    
+    
+    # print rewards
+    print(f"Misión seleccionada: {resource_name}")
+    print(f"Estado de la misión: {'Éxito' if mission_status else 'Fallo'}")
+    print(f"Recompensa de {resource_name}: {total_material}")
+    print(f"XP ganada: {xp_earned}, Bits totales: {total_bits}, Costo de energía: {energy_cost}, Basura obtenida: {junk_earned}, Misión crítica: {crit_mission}")
 
-    return size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance
+    return selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission
+
 
 def mission_final_rewards (bits_earned, material_reward,resource_yield_increase,mission_crit_chance):
 
@@ -193,13 +227,37 @@ def mission_final_rewards (bits_earned, material_reward,resource_yield_increase,
 
 def main():
 
-    size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance = generate_bot()
+    health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance = generate_bot()
 
-    mission_status, material_reward, xp_earned, bits_earned, energy_cost, junk_earned = plastic_mission(8,resilience,mission_success_boost)
+    total_play_time = 0
+    total_xp = 0
+    total_junk = 0
+    total_bits = 0
+    total_plastic = 0
+    total_metal = 0
+    total_silicon = 0
 
-    total_bits, total_material, crit_mission = mission_final_rewards (bits_earned, material_reward,resource_yield_increase,mission_crit_chance)
+    # random hour generation for the mission
+    mission_time = random.choice([2, 4, 8])
 
-    print (mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission)
+    selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission = run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance)
+
+    total_play_time += mission_time
+    total_xp += xp_earned
+    total_junk += junk_earned
+    total_bits += final_bits
+    energy -= energy_cost
+    
+    if (resource_name == 'Plastic'):
+        total_plastic += total_material
+    
+    elif (resource_name == 'Metal'):
+        total_metal += total_material
+    
+    else: 
+        total_silicon += total_material
+
+    print (selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission)
 
 
 if __name__ == '__main__':
