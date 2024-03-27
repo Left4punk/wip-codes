@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Lavish"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

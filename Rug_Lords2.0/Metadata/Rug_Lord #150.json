@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "3D glasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

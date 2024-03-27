@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "3D glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

@@ -3,43 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "1/1"
         },
         {
-            "trait_type": "Expression",
-            "value": "Rest"
+            "trait_type": "Eyes",
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "1/1"
         },
         {
-            "trait_type": "Facewear",
-            "value": "None"
+            "trait_type": "Facial Hair",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "1/1"
         },
         {
-            "trait_type": "Whole Body",
-            "value": "None"
+            "trait_type": "Facewear",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "8"
         }
     ]
 }

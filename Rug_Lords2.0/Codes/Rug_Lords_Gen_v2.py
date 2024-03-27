@@ -30,14 +30,14 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Base_Rarity = [10,10,10,10,10,10]
-    Torso_Rarity=[10,10,10,10,10,10,10,10,10,10,10,0,10,10,10,10,10,10,10,10,10,10]
-    FacialHair_Rarity=[10,10,10,10,10,50,10,10]
-    Mouth_Rarity=[10,10,50,10]
-    Facewear_Rarity = [10,10,10,10,10,10,10,10,50,10,10,10,10]
-    Head_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,30,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    WholeBody_Rarity = [10,10,50,10,10,10,10,10,10,10]
+    BackGrounds_Rarity = [4,4,12,4,4,4,12,12,4,4,4,4,4,4,12,12]
+    Base_Rarity = [25,5,5,30,30,5]
+    Torso_Rarity=[4,4,6,6,6,6,4,3,3,6,4,5,4,4,4,6,6,6,6,6,3,3]
+    FacialHair_Rarity=[8,8,8,8,7,50,8,3]
+    Mouth_Rarity=[10,10,70,10]
+    Facewear_Rarity = [5,3,3,2,2,3,1,5,55,3,6,8,4]
+    Head_Rarity = [4,4,4,4,4,4,3,3,3,2,4,4,4,4,3,4,2,4,5,2,3,3,3,3,4,4,4,4,2,2,1,1]
+    WholeBody_Rarity = [1,1,85,1,2,2,2,2,2,2]
     
     
     return BackGrounds_Rarity, Base_Rarity, Torso_Rarity, FacialHair_Rarity, Mouth_Rarity, Facewear_Rarity, Head_Rarity, WholeBody_Rarity
@@ -78,7 +78,7 @@ def Get_NFT_Hands_Expression(Base):
 
     Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    Hand_Rarity = [10,50,10,10,10,10,10,10,10]
+    Hand_Rarity = [2,78,4,1,3,2,5,2,3]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
 
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
