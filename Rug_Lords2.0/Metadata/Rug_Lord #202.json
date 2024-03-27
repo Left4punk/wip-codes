@@ -3,43 +3,51 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "1/1"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "1/1"
         },
         {
-            "trait_type": "Expression",
-            "value": "Rest"
+            "trait_type": "Eyes",
+            "value": "1/1"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt black "
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "1/1"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "1/1"
         },
         {
-            "trait_type": "Facewear",
-            "value": "None"
+            "trait_type": "Facial Hair",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Accesories",
+            "value": "1/1"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair black"
+            "value": "1/1"
         },
         {
-            "trait_type": "Whole Body",
-            "value": "None"
+            "trait_type": "Facewear",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Whole Head",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Hand",
+            "value": "1/1"
         },
         {
             "trait_type": "1/1",
-            "value": "None"
+            "value": "3"
         }
     ]
 }

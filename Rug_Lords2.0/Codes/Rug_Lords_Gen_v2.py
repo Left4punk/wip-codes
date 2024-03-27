@@ -42,6 +42,21 @@ def Get_Rarities ():
     
     return BackGrounds_Rarity, Base_Rarity, Torso_Rarity, FacialHair_Rarity, Mouth_Rarity, Facewear_Rarity, Head_Rarity, WholeBody_Rarity
 
+
+def Get_Rugs ():
+    
+
+    special_black_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/Black") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/Black", f))]
+    special_black_cyborg_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/Cyborg") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/Cyborg", f))]
+    special_ghost_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/Ghost") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/Ghost", f))]
+    special_tan_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/Tan") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/Tan", f))]
+    special_white_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/White") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/White", f))]
+    special_zombie_hands = [f for f in listdir(f"{input_path}/9 - Hand/Special_Hands/Zombie") if isfile(join(f"{input_path}/9 - Hand/Special_Hands/Zombie", f))]
+
+    return  special_black_hands, special_black_cyborg_hands, special_ghost_hands, special_tan_hands, special_white_hands, special_zombie_hands
+
+
+
 def NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity, Torso, Torso_Rarity, Mouth, Mouth_Rarity, FacialHair, FacialHair_Rarity, Facewear, Facewear_Rarity, Head, Head_Rarity, WholeBody, WholeBody_Rarity):
   
 
@@ -80,6 +95,23 @@ def Get_NFT_Hands_Expression(Base):
     
     return NFT_Hand, NFT_Expression
     
+
+def get_special_hand(Base, Special_Hand):
+
+    Base = Base.split('.')[0]
+
+    NFT_Hand = Special_Hand[0]
+
+    Special_Hand.pop(0)
+
+    Image_Hand = f'{input_path}/9 - Hand/Special_Hands/{Base}/'+NFT_Hand
+
+    print (Image_Hand)
+
+    return Image_Hand
+
+
+
 def control_ADN(NFT_BackGrounds, NFT_Base, NFT_Expression, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand):
     
     ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Expression + "&" + NFT_Torso + "&" + NFT_Mouth + "&" + NFT_FacialHair + "&" + NFT_Facewear + "&" + NFT_Head + "&" + NFT_WholeBody + "&" + NFT_Hand
@@ -338,6 +370,19 @@ if __name__ == '__main__':
     print (input_path)
     ## adding 1on1s
     
+    special_Black_hands, special_Cyborg_hands, special_Ghost_hands, special_Tan_hands, special_White_hands, special_Zombie_hands = Get_Rugs ()
+
+    special_hands = {
+    'Black': special_Black_hands,
+    'Cyborg': special_Cyborg_hands,
+    'Ghost': special_Ghost_hands,
+    'Tan': special_Tan_hands,
+    'White': special_White_hands,
+    'Zombie': special_Zombie_hands,
+    }
+
+    #number_of_special_hands = len(special_Black_hands) + len(special_Cyborg_hands) + len(special_Ghost_hands) + len(special_Tan_hands) + len(special_White_hands) + len(special_Zombie_hands)
+    
     i = 1
     while (i<collection_number):
         
@@ -348,7 +393,8 @@ if __name__ == '__main__':
             print (rf"Rug Lord #{i}")
             i+=1
             continue
-
+        
+        special_hand_number = random.randint(1,12)
             
         ## getting layers & rarities per run ##
         BackGrounds, Base, Torso, FacialHair, Mouth, Facewear, Head, WholeBody = Get_Layers ()
@@ -356,12 +402,14 @@ if __name__ == '__main__':
         
         ## getting layers & rarities per run ##
 
+
         ##get first layers
         NFT_BackGrounds, NFT_Base, NFT_Torso,  NFT_FacialHair, NFT_Mouth, NFT_Facewear, NFT_Head, NFT_WholeBody = NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity, Torso, Torso_Rarity,
                                                                                                                                                               Mouth, Mouth_Rarity, FacialHair, FacialHair_Rarity, Facewear, Facewear_Rarity,
                                                                                                                                                                       Head, Head_Rarity, WholeBody, WholeBody_Rarity)
 
         NFT_Hand, NFT_Expression = Get_NFT_Hands_Expression(NFT_Base)
+
         ##get first layers
         
         NFT_Head_Excluded = []
@@ -422,7 +470,7 @@ if __name__ == '__main__':
 
         
         NFT_FacialHair  = FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Head)
-        sNFT_Head, NFT_WholeBody = Facewear_Conflicts (NFT_Head, Head, Head_Rarity, NFT_Facewear, NFT_WholeBody)
+        NFT_Head, NFT_WholeBody = Facewear_Conflicts (NFT_Head, Head, Head_Rarity, NFT_Facewear, NFT_WholeBody)
 
 
         if (NFT_WholeBody != 'None.png'):
@@ -437,10 +485,9 @@ if __name__ == '__main__':
 
 
         if NFT_Mouth != 'None':
-
-            conflict_hand = ['Tea.png']
             
-            NFT_Hand = random.choices(['BTC Staff.png','None.png','Scepter.png','Spear.png','Staff.png','Sword.png'],weights=(10,10,10,10,10,10))[0]
+            NFT_Hand = random.choices(['BTC Staff.png','None.png','Scepter.png','Spear.png','Staff.png','Sword.png'],weights=(10,50,10,10,10,10))[0]
+        
         ##other controls
         ##import final images
 
@@ -448,6 +495,16 @@ if __name__ == '__main__':
                                                                                                                                                                                        NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand)
         ##import final images
         ##image generation
+
+
+
+        Base = NFT_Base.split('.')[0]
+
+        if special_hand_number == 2 and Base in special_hands:
+            try:
+                Image_Hand = get_special_hand(Base, special_hands[Base])
+            except:
+                pass
 
         final = get_NFT_main (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, Image_FacialHair, Image_Mouth, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand)
 
