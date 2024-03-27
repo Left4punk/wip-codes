@@ -36,8 +36,10 @@ def mission_outcome(success_ratio):
     return True if random_chance < success_ratio else False
 
 
-def data_vaults_mission(hours, resilience):
+def data_vaults_mission(hours, resilience,mission_success_boost):
     
+    sucess_rate = 0.4 + mission_success_boost
+
     # Check Bot Destruction
     if roll_mission_destruction(resilience):
         return False
@@ -51,11 +53,11 @@ def data_vaults_mission(hours, resilience):
     failure_rewards = {
         'xp_hour': 12,
         'bits_hour': 15,
-        'junk_hour': 0,
+        'junk_hour': (0,0),
         'silicon_reward': 0,
     }
 
-    mission_status = mission_outcome(0.4)  # Sucess Chance
+    mission_status = mission_outcome(sucess_rate)  # Sucess Chance
 
     energy_cost_hour = 4
 
@@ -72,12 +74,15 @@ def data_vaults_mission(hours, resilience):
     junk_earned = random.randint(*rewards.get('junk_hour', (0, 0))) * hours if 'junk_hour' in rewards else 0
     energy_cost = energy_cost_hour * hours
 
-    return silicon_reward, xp_earned, bits_earned, energy_cost, junk_earned
+    return mission_status, silicon_reward, xp_earned, bits_earned, energy_cost, junk_earned
 
-def refinery_mission(hours, resilience):
+def refinery_mission(hours, resilience,mission_success_boost):
     
+    sucess_rate = 0.5 + mission_success_boost
+
     # Check Bot Destruction
     if roll_mission_destruction(resilience):
+        print ('hi')
         return False
 
     mission_rewards = {
@@ -89,11 +94,11 @@ def refinery_mission(hours, resilience):
     failure_rewards = {
         'xp_hour': 12,
         'bits_hour': 12,
-        'junk_hour': 0,
+        'junk_hour': (0,0),
         'metal_range': 0,
     }
 
-    mission_status = mission_outcome(0.5)  # Sucess Chance
+    mission_status = mission_outcome(sucess_rate)  # Sucess Chance
 
     energy_cost_hour = 3
 
@@ -110,15 +115,16 @@ def refinery_mission(hours, resilience):
     junk_earned = random.randint(*rewards.get('junk_hour', (0, 0))) * hours if 'junk_hour' in rewards else 0
     energy_cost = energy_cost_hour * hours
 
-    return metal_reward, xp_earned, bits_earned, energy_cost, junk_earned
+    return mission_status, metal_reward, xp_earned, bits_earned, energy_cost, junk_earned
 
 
-def plastic_mission(hours, resilience):
+def plastic_mission(hours, resilience,mission_success_boost):
     
     # Check Bot Destruction
     if roll_mission_destruction(resilience):
         return False
 
+    sucess_rate = 0.6+mission_success_boost
     mission_rewards = {
         2: {'plastic_range': (4, 5), 'xp_hour': 40, 'bits_hour': 30, 'junk_hour': (2, 4)},
         4: {'plastic_range': (5, 8), 'xp_hour': 40, 'bits_hour': 30, 'junk_hour': (2, 4)},
@@ -128,11 +134,11 @@ def plastic_mission(hours, resilience):
     failure_rewards = {
         'xp_hour': 12,
         'bits_hour': 9,
-        'junk_hour': 0,
+        'junk_hour': (0,0),
         'plastic_range': 0,
     }
 
-    mission_status = mission_outcome(0.4)  # Sucess Chance
+    mission_status = mission_outcome(sucess_rate)  # Sucess/Failure Mission
 
     energy_cost_hour = 2
 
@@ -149,7 +155,7 @@ def plastic_mission(hours, resilience):
     junk_earned = random.randint(*rewards.get('junk_hour', (0, 0))) * hours if 'junk_hour' in rewards else 0
     energy_cost = energy_cost_hour * hours
 
-    return plastic_reward, xp_earned, bits_earned, energy_cost, junk_earned
+    return mission_status, plastic_reward, xp_earned, bits_earned, energy_cost, junk_earned
 
 
 def generate_bot ():
@@ -170,15 +176,30 @@ def generate_bot ():
     print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
     print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
 
+    return size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance
 
-def mission_rewards ():
+def mission_final_rewards (bits_earned, material_reward,resource_yield_increase,mission_crit_chance):
 
-    return 1
+    total_bits = round(bits_earned * (1+resource_yield_increase),1)
+    
+    random_chance_mission = random.random()
+
+    crit_mission = 2 if random_chance_mission < mission_crit_chance else 1
+
+    total_material = material_reward * crit_mission
+
+    return total_bits, total_material, crit_mission
 
 
 def main():
 
-    generate_bot()
+    size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance = generate_bot()
+
+    mission_status, material_reward, xp_earned, bits_earned, energy_cost, junk_earned = plastic_mission(8,resilience,mission_success_boost)
+
+    total_bits, total_material, crit_mission = mission_final_rewards (bits_earned, material_reward,resource_yield_increase,mission_crit_chance)
+
+    print (mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission)
 
 
 if __name__ == '__main__':
