@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import pandas as pd
-
+import sys
 def roll_initial_bot_stats ():
 
     while True:
@@ -24,7 +24,7 @@ def roll_initial_bot_energy_res():
 
     return energy, resilience
 
-def generate_bot ():
+def generate_bot (bot_name):
 
     ##rolling initial stats
     health = 100
@@ -44,7 +44,9 @@ def generate_bot ():
     print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
     print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
 
-    return rarity, level, health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy
+    return {'name': bot_name, 'rarity': rarity, 'level': level, 'health':health, 'size':size, 'crit':crit, 'haste':haste ,'resilience':resilience,
+            'resource_yield_increase':resource_yield_increase, 'mission_success_boost':mission_success_boost, 'mission_crit_chance':mission_crit_chance, 'starting_energy':starting_energy, 'current_energy':starting_energy}
+    #return rarity, level, health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy
 
 
 def roll_mission_destruction (resilience):
@@ -182,8 +184,13 @@ def plastic_mission(hours, resilience,mission_success_boost):
     return mission_status, plastic_reward, xp_earned, bits_earned, energy_cost, junk_earned
 
 
-def run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance):
+def run_mission(bot, mission_time):
     
+    resilience = bot['resilience']
+    resource_yield_increase = bot['resource_yield_increase']
+    mission_success_boost = bot['mission_success_boost']
+    mission_crit_chance = bot['mission_crit_chance']
+    bot_name = bot['name']
     ##mission types
     missions = [data_vaults_mission, refinery_mission, plastic_mission]
 
@@ -212,7 +219,7 @@ def run_mission(mission_time, resilience, resource_yield_increase, mission_succe
     print(f"Recompensa de {resource_name}: {total_material}")
     print(f"XP ganada: {xp_earned}, Bits totales: {total_bits}, Costo de energía: {energy_cost}, Basura obtenida: {junk_earned}, Misión crítica: {crit_mission}")
 
-    return selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission
+    return bot_name, selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission
 
 
 def mission_final_rewards (bits_earned, material_reward,resource_yield_increase,mission_crit_chance):
@@ -235,6 +242,7 @@ def recharge_energy(current_energy, max_energy):
     
     
     new_energy = current_energy + (time_needed * 40) 
+
     if new_energy > max_energy:
         new_energy = max_energy
     
@@ -322,9 +330,18 @@ def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_met
 
 def main():
 
-    rarity, level, health, size, haste, crit, resilience, max_energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy = generate_bot()
+    bots = []
+    bot_name_start = 1
+
+    for _ in range (4):
+        bot_name = f'bot{bot_name_start}'
+        bot = generate_bot(bot_name)
+        bots.append(bot)
+        bot_name_start +=1
     
-    accumulated_results = []  # Lista para almacenar los resultados de cada misión
+    #rarity, level, health, size, haste, crit, resilience, max_energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy = generate_bot(bot_name)
+    
+    accumulated_results = []  # list to store mission progress
     individual_missions = []
     bot_stats = []
 
@@ -335,65 +352,73 @@ def main():
     total_plastic = 0
     total_metal = 0
     total_silicon = 0
-    energy_counter = max_energy
+
 
     i = 0
     # Establece la condición de parada del while aquí, por ejemplo, un número máximo de iteraciones o un nivel mínimo de energía
     while i < 100:
 
-        mission_time = random.choice([2, 4, 8])
-        
-        selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission = run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance)
+        for bot in list(bots):
 
-        if (energy_counter < energy_cost): ## special "recharge energy" mission
+            mission_time = random.choice([2, 4, 8])
+        
+            bot_name, selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission = run_mission(bot, mission_time)
             
-            new_energy, recharge_time = recharge_energy(energy_counter, max_energy)
-            total_play_time += recharge_time  # adding the needed time to recharge to the total time
-            energy_counter = new_energy
+            ##if I can't complete the mission I need to recharge my bot
+            if (bot['current_energy'] < energy_cost): ## special "recharge energy" mission
+            
+                new_energy, recharge_time = recharge_energy(bot['current_energy'], bot['starting_energy'])
 
-            selected_mission_name = 'Energy Recharge'
-            resource_name = 'Energy'
-            mission_time = recharge_time
-            mission_status = True
-            crit_mission = 1
-            total_material = 0
-            xp_earned = 0
-            final_bits = 0
-            energy_cost = 0
-            junk_earned = 0
-            individual_missions.append ([selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
-            accumulated_results.append([selected_mission_name, resource_name, mission_time, mission_status, energy_cost, crit_mission,
-                        total_plastic, total_metal, total_silicon, total_xp, total_bits, total_junk, energy_counter])
-            continue
+                total_play_time += recharge_time  # adding the needed time to recharge to the total time
+                bot['current_energy'] = new_energy
 
-        individual_missions.append ([selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
+                selected_mission_name = 'Energy Recharge'
+                resource_name = 'Energy'
+                mission_time = recharge_time
+                mission_status = True
+                crit_mission = 1
+                total_material = 0
+                xp_earned = 0
+                final_bits = 0
+                energy_cost = 0
+                junk_earned = 0
+            
+                individual_missions.append ([bot_name,selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
+                accumulated_results.append([bot_name,selected_mission_name, resource_name, mission_time, mission_status, energy_cost, crit_mission,
+                        total_plastic, total_metal, total_silicon, total_xp, total_bits, total_junk, bot['current_energy']])
+                
+                continue
+
+            ## else we compute the mission rewards
+            
+            individual_missions.append ([bot_name, selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
         
-        ## adding mission gains to general counters
-        total_play_time += mission_time
-        total_xp += xp_earned
-        total_junk += junk_earned
-        total_bits += final_bits
-        energy_counter -= energy_cost
+            ## adding mission gains to general counters
+            total_play_time += mission_time
+            total_xp += xp_earned
+            total_junk += junk_earned
+            total_bits += final_bits
+            bot['current_energy'] -= energy_cost
 
-        if resource_name == 'Plastic':
-            total_plastic += total_material
-        elif resource_name == 'Metal':
-            total_metal += total_material
-        else:
-            total_silicon += total_material
-        ## adding mission gains to general counters
+            if resource_name == 'Plastic':
+                total_plastic += total_material
+            elif resource_name == 'Metal':
+                total_metal += total_material
+            else:
+                total_silicon += total_material
+            ## adding mission gains to general counters
+            ##checking if the bot can level up
 
-        ##checking if the bot can level up
-        can_level_up, new_level, new_size, new_haste, new_crit = check_level_up(total_xp, total_bits, level, size, haste, crit)
-
+            can_level_up, new_level, new_size, new_haste, new_crit = check_level_up(total_xp, total_bits, bot['level'], bot['size'], bot['haste'], bot['crit'])
+            
         if can_level_up:
 
-            level = new_level
-            size = new_size
-            haste = new_haste
-            crit = new_crit
-            resource_yield_increase = 0.01*size
-            max_energy = starting_energy + size
+            bot['level'] = new_level
+            bot['size'] = new_size
+            bot['haste'] = new_haste
+            bot['crit'] = new_crit
+            bot['resource_yield_increase'] = 0.01*bot['size']
+            max_energy = bot['starting_energy'] + bot['size']
             mission_success_boost = 0.005*haste
             mission_crit_chance = 0.005*crit
 
@@ -408,10 +433,10 @@ def main():
         i+=1
 
     # df creation to track
-    columns_accumulated = ['Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Energy Cost', 'Crit Mission',
+    columns_accumulated = ['Bot Name','Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Energy Cost', 'Crit Mission',
                 'Total Plastic', 'Total Metal', 'Total Silicon', 'Total XP', 'Total Bits','Total Junk', 'Total Energy','Total Play Time']
     
-    columns_mission = ['Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Crit Mission',
+    columns_mission = ['Bot Name','Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Crit Mission',
                 'Material Earned', 'XP Earned', 'Bits Earned', 'Energy Cost', 'Junk Earned']
     
     columns_stats = ['Total Play Time', 'Total XP','Level', 'Rarity', 'Health','Size','Haste','Crit','Resilience','Max Energy','Res. Yield Incr.','Mission Success Boost','Mission Crit Chance']
