@@ -1,5 +1,6 @@
 import numpy as np
 import random
+import pandas as pd
 
 def roll_initial_bot_stats ():
 
@@ -27,6 +28,8 @@ def generate_bot ():
 
     ##rolling initial stats
     health = 100
+    level = 1
+    rarity = 'common'
     size, haste, crit = roll_initial_bot_stats ()
 
     starting_energy, resilience = roll_initial_bot_energy_res()
@@ -41,7 +44,7 @@ def generate_bot ():
     print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
     print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
 
-    return health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance
+    return rarity, level, health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy
 
 
 def roll_mission_destruction (resilience):
@@ -103,7 +106,7 @@ def refinery_mission(hours, resilience,mission_success_boost):
 
     # Check Bot Destruction
     if roll_mission_destruction(resilience):
-        print ('hi')
+        print ('ded')
         return False
 
     mission_rewards = {
@@ -224,10 +227,106 @@ def mission_final_rewards (bits_earned, material_reward,resource_yield_increase,
 
     return total_bits, total_material, crit_mission
 
+def recharge_energy(current_energy, max_energy):
+
+    energy_needed = max_energy - current_energy
+
+    time_needed = (energy_needed / 20) * 0.5  
+    
+    
+    new_energy = current_energy + (time_needed * 40) 
+    if new_energy > max_energy:
+        new_energy = max_energy
+    
+    return new_energy, time_needed
+
+
+def assign_skill_points(size, haste, crit):
+    # random assignment of 2 skill points to size, haste, or crit
+
+    for _ in range(2): 
+        increase = random.choice(["size", "haste", "crit"])
+        if increase == "size":
+            size += 1
+        elif increase == "haste":
+            haste += 1
+        else:
+            crit += 1
+    return size, haste, crit
+
+def check_level_up(total_xp, total_bits, level, size, haste, crit):
+
+    level_requirements = [
+        {"level": 1, "xp_cost": 0, "bit_cost": 0},  # Initial Level
+        {"level": 2, "xp_cost": 700, "bit_cost": 450},
+        {"level": 3, "xp_cost": 800, "bit_cost": 500},
+        {"level": 4, "xp_cost": 900, "bit_cost": 550},
+        {"level": 5, "xp_cost": 1000, "bit_cost": 600},
+    ]
+    
+    if level < len(level_requirements):
+        next_level_req = level_requirements[level]  # Check requirements for next level
+
+        if total_xp >= next_level_req["xp_cost"] and total_bits >= next_level_req["bit_cost"]:
+            
+            ## we assign the 2 skill points randomly
+            size, haste, crit = assign_skill_points(size, haste, crit)
+            
+            return True, level + 1, size, haste, crit ##the true/false is needed as we'll need to upgrade the size/haste/crit variables
+            
+        else:
+
+            return False, level, size, haste, crit
+    else:
+
+        return False, level, size, haste, crit  
+
+def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_metal, total_plastic):
+    rarity_levels = [5, 10, 15]  
+    rarity_upgrade_requirements = {
+        'common': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
+        # add uncommon, rare costs
+    }
+    next_rarity = {
+        'common': 'uncommon',
+        'uncommon': 'rare',
+        'rare': 'epic',
+        'epic': 'legendary'
+    }
+
+    if level in rarity_levels and rarity in rarity_upgrade_requirements: ##check that we have the correct level + we are not legendary
+        
+        requirements = rarity_upgrade_requirements[rarity] ##requirements for the current rarity upgrade
+
+        # Comprobar si el bot tiene suficientes recursos
+        if (total_junk >= requirements['junk_cost'] and total_silicon >= requirements['silicon_cost'] and 
+           total_metal >= requirements['metal_cost'] and total_plastic >= requirements['plastic_cost']):
+            
+            # update on the total resources remaining & rarity
+            new_rarity = next_rarity[rarity]
+            total_junk -= requirements['junk_cost']
+            total_silicon -= requirements['silicon_cost']
+            total_metal -= requirements['metal_cost']
+            total_plastic -= requirements['plastic_cost']
+
+            ##print(f"Rarity upgraded to {new_rarity}. Resources deducted. New resources: Junk {junk}, Silicon {silicon}, Metal {metal}, Plastic {plastic}")
+            return new_rarity, total_junk, total_silicon, total_metal, total_plastic
+        else:
+            ##print("Not enough resources to upgrade rarity.")
+            return rarity, total_junk, total_silicon, total_metal, total_plastic
+    else:
+        # we dont have enough level to upgrade or we are at max level
+        return rarity, total_junk, total_silicon, total_metal, total_plastic
+
+
 
 def main():
 
-    health, size, haste, crit, resilience, energy, resource_yield_increase, mission_success_boost, mission_crit_chance = generate_bot()
+    rarity, level, health, size, haste, crit, resilience, max_energy, resource_yield_increase, mission_success_boost, mission_crit_chance, starting_energy = generate_bot()
+    
+    accumulated_results = []  # Lista para almacenar los resultados de cada misión
+    individual_missions = []
+    bot_stats = []
 
     total_play_time = 0
     total_xp = 0
@@ -236,29 +335,94 @@ def main():
     total_plastic = 0
     total_metal = 0
     total_silicon = 0
+    energy_counter = max_energy
 
-    # random hour generation for the mission
-    mission_time = random.choice([2, 4, 8])
+    i = 0
+    # Establece la condición de parada del while aquí, por ejemplo, un número máximo de iteraciones o un nivel mínimo de energía
+    while i < 100:
 
-    selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission = run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance)
+        mission_time = random.choice([2, 4, 8])
+        
+        selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission = run_mission(mission_time, resilience, resource_yield_increase, mission_success_boost, mission_crit_chance)
 
-    total_play_time += mission_time
-    total_xp += xp_earned
-    total_junk += junk_earned
-    total_bits += final_bits
-    energy -= energy_cost
+        if (energy_counter < energy_cost): ## special "recharge energy" mission
+            
+            new_energy, recharge_time = recharge_energy(energy_counter, max_energy)
+            total_play_time += recharge_time  # adding the needed time to recharge to the total time
+            energy_counter = new_energy
+
+            selected_mission_name = 'Energy Recharge'
+            resource_name = 'Energy'
+            mission_time = recharge_time
+            mission_status = True
+            crit_mission = 1
+            total_material = 0
+            xp_earned = 0
+            final_bits = 0
+            energy_cost = 0
+            junk_earned = 0
+            individual_missions.append ([selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
+            accumulated_results.append([selected_mission_name, resource_name, mission_time, mission_status, energy_cost, crit_mission,
+                        total_plastic, total_metal, total_silicon, total_xp, total_bits, total_junk, energy_counter])
+            continue
+
+        individual_missions.append ([selected_mission_name, resource_name, mission_time, mission_status, crit_mission, total_material, xp_earned, final_bits, energy_cost, junk_earned])
+        
+        ## adding mission gains to general counters
+        total_play_time += mission_time
+        total_xp += xp_earned
+        total_junk += junk_earned
+        total_bits += final_bits
+        energy_counter -= energy_cost
+
+        if resource_name == 'Plastic':
+            total_plastic += total_material
+        elif resource_name == 'Metal':
+            total_metal += total_material
+        else:
+            total_silicon += total_material
+        ## adding mission gains to general counters
+
+        ##checking if the bot can level up
+        can_level_up, new_level, new_size, new_haste, new_crit = check_level_up(total_xp, total_bits, level, size, haste, crit)
+
+        if can_level_up:
+
+            level = new_level
+            size = new_size
+            haste = new_haste
+            crit = new_crit
+            resource_yield_increase = 0.01*size
+            max_energy = starting_energy + size
+            mission_success_boost = 0.005*haste
+            mission_crit_chance = 0.005*crit
+
+        ##we check if we can upgrade rarity just after level up bc you can get to lvl 5 and be able to upgrade w/o doing any mission
+        rarity, total_junk, total_silicon, total_metal, total_plastic = check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_metal, total_plastic)
+
+        # Store the final values
+        accumulated_results.append([selected_mission_name, resource_name, mission_time, mission_status, energy_cost, crit_mission,
+                        total_plastic, total_metal, total_silicon, total_xp, total_bits, total_junk, energy_counter,total_play_time])
+        bot_stats.append ([total_play_time, total_xp, level, rarity, health, size, haste, crit, resilience, max_energy, resource_yield_increase, mission_success_boost, mission_crit_chance])
+        #print(selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission)
+        i+=1
+
+    # df creation to track
+    columns_accumulated = ['Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Energy Cost', 'Crit Mission',
+                'Total Plastic', 'Total Metal', 'Total Silicon', 'Total XP', 'Total Bits','Total Junk', 'Total Energy','Total Play Time']
     
-    if (resource_name == 'Plastic'):
-        total_plastic += total_material
+    columns_mission = ['Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Crit Mission',
+                'Material Earned', 'XP Earned', 'Bits Earned', 'Energy Cost', 'Junk Earned']
     
-    elif (resource_name == 'Metal'):
-        total_metal += total_material
-    
-    else: 
-        total_silicon += total_material
+    columns_stats = ['Total Play Time', 'Total XP','Level', 'Rarity', 'Health','Size','Haste','Crit','Resilience','Max Energy','Res. Yield Incr.','Mission Success Boost','Mission Crit Chance']
+    df_results = pd.DataFrame(accumulated_results, columns=columns_accumulated)
+    df_results.to_csv('accumulated_results.xlsx', index=False)
 
-    print (selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission)
+    df_missions =  pd.DataFrame(individual_missions, columns=columns_mission)
+    df_missions.to_csv('missions_results.xlsx', index=False)
 
+    df_bot_stats = pd.DataFrame(bot_stats, columns=columns_stats)
+    df_bot_stats.to_csv('bot_stats.csv',index=False)
 
 if __name__ == '__main__':
 

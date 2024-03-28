@@ -1,0 +1,113 @@
+Mission Name,Resource Name,Mission Time,Mission Status,Crit Mission,Material Earned,XP Earned,Bits Earned,Energy Cost,Junk Earned
+data_vaults_mission,Silicon,4.0,False,1,0,48,65.4,16,0
+refinery_mission,Metal,4.0,False,1,0,48,52.3,12,0
+refinery_mission,Metal,2.0,False,1,0,24,26.2,6,0
+data_vaults_mission,Silicon,2.0,False,1,0,24,32.7,8,0
+data_vaults_mission,Silicon,8.0,False,1,0,96,130.8,32,0
+plastic_mission,Plastic,4.0,True,1,5,160,130.8,8,12
+data_vaults_mission,Silicon,8.0,False,1,0,96,130.8,32,0
+Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+refinery_mission,Metal,8.0,True,1,7,320,348.8,24,24
+data_vaults_mission,Silicon,4.0,True,1,3,160,218.0,16,12
+data_vaults_mission,Silicon,8.0,True,1,6,320,440.0,32,16
+refinery_mission,Metal,8.0,False,1,0,96,106.6,24,0
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+Energy Recharge,Energy,2.775,True,1,0,0,0.0,0,0
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
+Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
+data_vaults_mission,Silicon,2.0,False,2,0,24,33.6,8,0
+refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+refinery_mission,Metal,8.0,True,1,5,320,358.4,24,16
+data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
+plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,4
+plastic_mission,Plastic,8.0,True,1,10,320,268.8,16,32
+plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
+plastic_mission,Plastic,4.0,True,1,6,160,134.4,8,16
+refinery_mission,Metal,8.0,True,1,6,320,358.4,24,32
+Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+plastic_mission,Plastic,8.0,True,1,7,320,268.8,16,32
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+refinery_mission,Metal,2.0,True,1,3,80,89.6,6,4
+data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
+Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,4
+plastic_mission,Plastic,8.0,True,1,8,320,268.8,16,16
+refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
+refinery_mission,Metal,8.0,True,1,7,320,358.4,24,32
+refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+refinery_mission,Metal,8.0,True,1,5,320,358.4,24,16
+refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
+Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,6
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
+plastic_mission,Plastic,4.0,True,1,8,160,134.4,8,16
+plastic_mission,Plastic,4.0,True,1,7,160,134.4,8,16
+refinery_mission,Metal,8.0,True,1,5,320,358.4,24,16
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
+refinery_mission,Metal,4.0,True,1,4,160,179.2,12,12
+Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+refinery_mission,Metal,2.0,True,2,6,80,89.6,6,4
+plastic_mission,Plastic,8.0,False,1,0,96,80.6,16,0
+plastic_mission,Plastic,8.0,True,2,30,320,268.8,16,24
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+plastic_mission,Plastic,8.0,True,1,12,320,268.8,16,32
+Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
+data_vaults_mission,Silicon,2.0,True,1,1,80,112.0,8,6
+refinery_mission,Metal,2.0,True,1,3,80,89.6,6,8
+refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+data_vaults_mission,Silicon,2.0,True,1,1,80,112.0,8,6
+data_vaults_mission,Silicon,2.0,False,2,0,24,33.6,8,0
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+refinery_mission,Metal,8.0,True,1,8,320,358.4,24,16
+Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
+data_vaults_mission,Silicon,8.0,True,1,4,320,448.0,32,16
+refinery_mission,Metal,2.0,True,1,3,80,89.6,6,4
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,8
+data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,4
+plastic_mission,Plastic,4.0,False,1,0,48,40.3,8,0
+plastic_mission,Plastic,4.0,False,1,0,48,40.3,8,0
+plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,4
+data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,4
+Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
+data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
+refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+plastic_mission,Plastic,8.0,False,1,0,96,80.6,16,0
+data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
+refinery_mission,Metal,2.0,True,1,3,80,89.6,6,4
+data_vaults_mission,Silicon,4.0,True,1,2,160,224.0,16,16
+plastic_mission,Plastic,2.0,True,2,8,80,67.2,4,4
+data_vaults_mission,Silicon,2.0,True,1,1,80,112.0,8,6
+data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
+refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
+data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
+Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+plastic_mission,Plastic,4.0,True,1,6,160,134.4,8,12
+data_vaults_mission,Silicon,4.0,True,1,2,160,224.0,16,16
+data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
+plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
