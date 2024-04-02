@@ -57,11 +57,11 @@ def generate_bot (bot_name):
     energy = starting_energy + size
     mission_success_boost = 0.005*haste
     mission_crit_chance = 0.005*crit
-    print ("Initial Bot Stats")
-    print(f"{'Size':<10}{'Haste':<10}{'Crit':<10}{'Energy':<10}{'Resilience':<12}")
-    print(f"{size:<10}{haste:<10}{crit:<10}{energy :<10}{resilience:<12}")
-    print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
-    print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
+    #print ("Initial Bot Stats")
+    #print(f"{'Size':<10}{'Haste':<10}{'Crit':<10}{'Energy':<10}{'Resilience':<12}")
+    #print(f"{size:<10}{haste:<10}{crit:<10}{energy :<10}{resilience:<12}")
+    #print(f"{'Yield Inc.':<10}{'Success Boost':<14}{'Crit Chance':<12}")
+    #print(f"{resource_yield_increase:<10.2f}{mission_success_boost:<14.3f}{mission_crit_chance:<12.3f}")
 
     return {'name': bot_name, 'rarity': rarity, 'level': level, 'total_xp': total_xp, 'total_playtime': total_playtime,'health':health, 'size':size, 'crit':crit, 'haste':haste ,'resilience':resilience,
             'resource_yield_increase':resource_yield_increase, 'mission_success_boost':mission_success_boost, 'mission_crit_chance':mission_crit_chance, 'starting_energy':starting_energy, 'current_energy':starting_energy}
@@ -70,7 +70,7 @@ def generate_bot (bot_name):
 
 def roll_mission_destruction (resilience):
 
-    destruction_number = random.randint(1,100000)
+    destruction_number = random.randint(1,100000000000)
 
     return True if destruction_number<resilience else False
 
@@ -93,13 +93,13 @@ def data_vaults_mission(hours, resilience,mission_success_boost):
         bot_status = True
 
     mission_rewards = {
-        2: {'silicon_range': (1, 2), 'xp_hour': 40, 'bits_hour': 50, 'junk_hour': (2, 4)},
-        4: {'silicon_range': (2, 3), 'xp_hour': 40, 'bits_hour': 50, 'junk_hour': (2, 4)},
-        8: {'silicon_range': (4, 6), 'xp_hour': 40, 'bits_hour': 50, 'junk_hour': (2, 4)},
+        2: {'silicon_range': (1, 2), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
+        4: {'silicon_range': (2, 3), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
+        8: {'silicon_range': (4, 6), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
     }
 
     failure_rewards = {
-        'xp_hour': 12,
+        'xp_hour': 15,
         'bits_hour': 15,
         'junk_hour': (0,0),
         'silicon_reward': 0,
@@ -179,13 +179,13 @@ def plastic_mission(hours, resilience,mission_success_boost):
 
     sucess_rate = 0.6+mission_success_boost
     mission_rewards = {
-        2: {'plastic_range': (4, 5), 'xp_hour': 40, 'bits_hour': 30, 'junk_hour': (2, 4)},
-        4: {'plastic_range': (5, 8), 'xp_hour': 40, 'bits_hour': 30, 'junk_hour': (2, 4)},
-        8: {'plastic_range': (6, 16), 'xp_hour': 40, 'bits_hour': 30, 'junk_hour': (2, 4)},
+        2: {'plastic_range': (4, 5), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
+        4: {'plastic_range': (5, 8), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
+        8: {'plastic_range': (6, 16), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
     }
 
     failure_rewards = {
-        'xp_hour': 12,
+        'xp_hour': 9,
         'bits_hour': 9,
         'junk_hour': (0,0),
         'plastic_range': 0,
@@ -240,12 +240,12 @@ def run_mission(bot, mission_time):
     total_bits, total_material, crit_mission = mission_final_rewards(bits_earned, resource_reward, resource_yield_increase, mission_crit_chance)
     
     
-    # print rewards
-    print (f"Bot sent on mission: {bot_name}")
-    print(f"Selected Mission: {resource_name}")
-    print(f"Mission status: {'Éxito' if mission_status else 'Fallo'}")
-    print(f"Reward {resource_name}: {total_material}")
-    print(f"XP earned: {xp_earned}, Total Bits: {total_bits}, Energy Cost: {energy_cost}, Junk earned: {junk_earned}, Critical Mission: {crit_mission}")
+    #print rewards
+    #print (f"Bot sent on mission: {bot_name}")
+    #print(f"Selected Mission: {resource_name}")
+    #print(f"Mission status: {'Éxito' if mission_status else 'Fallo'}")
+    #print(f"Reward {resource_name}: {total_material}")
+    #print(f"XP earned: {xp_earned}, Total Bits: {total_bits}, Energy Cost: {energy_cost}, Junk earned: {junk_earned}, Critical Mission: {crit_mission}")
 
     return bot_status, bot_name, selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, total_bits, energy_cost, junk_earned, crit_mission
 
@@ -382,7 +382,7 @@ def main():
 
     i = 1
     # Establece la condición de parada del while aquí, por ejemplo, un número máximo de iteraciones o un nivel mínimo de energía
-    while i <= 100:
+    while i <= 500:
 
         for bot in list(bots):
 
@@ -464,12 +464,12 @@ def main():
             ##we check if we can upgrade rarity just after level up bc you can get to lvl 5 and be able to upgrade w/o doing any mission
             bot['rarity'], total_junk, total_silicon, total_metal, total_plastic = check_and_upgrade_rarity(bot['level'], bot['rarity'], total_junk, total_silicon, total_metal, total_plastic)
 
-            print (bot_name)
+            #print (bot_name)
             # Store the final values
             accumulated_results.append([bot_name,selected_mission_name, resource_name, mission_time, mission_status, energy_cost, crit_mission,
                         total_plastic, total_metal, total_silicon, bot['total_xp'], total_bits, total_junk, bot['current_energy'],accumulated_playtime, i])
             bot_stats.append ([bot['total_playtime'], bot['total_xp'], bot_name, bot['level'], bot['rarity'], bot['health'], 
-                               bot['size'], bot['haste'], bot['crit'], bot['resilience'], bot['starting_energy'], bot['resource_yield_increase'], bot['mission_success_boost'], bot['mission_crit_chance']])
+                               bot['size'], bot['haste'], bot['crit'], bot['resilience'], bot['starting_energy'], bot['resource_yield_increase'], bot['mission_success_boost'], bot['mission_crit_chance'], i])
         #print(selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission)
         i+=1
 
@@ -480,7 +480,7 @@ def main():
     columns_mission = ['Bot Name','Mission Name', 'Resource Name', 'Mission Time', 'Mission Status', 'Crit Mission',
                 'Material Earned', 'XP Earned', 'Bits Earned', 'Energy Cost', 'Junk Earned']
     
-    columns_stats = ['Total Play Time', 'Total XP','Bot Name', 'Level', 'Rarity', 'Health','Size','Haste','Crit','Resilience','Max Energy','Res. Yield Incr.','Mission Success Boost','Mission Crit Chance']
+    columns_stats = ['Total Play Time', 'Total XP','Bot Name', 'Level', 'Rarity', 'Health','Size','Haste','Crit','Resilience','Max Energy','Res. Yield Incr.','Mission Success Boost','Mission Crit Chance','Mission Number']
     df_results = pd.DataFrame(accumulated_results, columns=columns_accumulated)
     df_results.to_csv('accumulated_results.xlsx', index=False)
 
@@ -490,9 +490,26 @@ def main():
     df_bot_stats = pd.DataFrame(bot_stats, columns=columns_stats)
     df_bot_stats.to_csv('bot_stats.csv',index=False)
 
-    plot_xp_over_time_all_bots(df_bot_stats)
+    df_bot_avg_xp = df_bot_stats[['Total Play Time','Total XP','Bot Name']]
+    #df_bot_avg_xp.to_csv('xp_control.csv',index=False)
+    #plot_xp_over_time_all_bots(df_bot_stats)
 
-if __name__ == '__main__':
+    return df_bot_avg_xp
 
-    main()
+
+if __name__ == '__main__': 
+
+    #main ()
+    all_runs_data = []
+    for i in range (1000):
+        print (i)
+        df_bot_avg_xp = main()
+        last_four_rows = df_bot_avg_xp.iloc[-4:].copy()
+        last_four_rows['Simulation Run'] = i+1
+        all_runs_data.append(last_four_rows)
+    
+    final_df = pd.concat(all_runs_data, ignore_index=True)
+    # Guardar el DataFrame consolidado en un archivo CSV
+    final_df.to_csv('xp_final_results_1000_runs.csv', index=False)
+    #main()
     

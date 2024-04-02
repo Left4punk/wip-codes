@@ -1,401 +1,2001 @@
 Bot Name,Mission Name,Resource Name,Mission Time,Mission Status,Crit Mission,Material Earned,XP Earned,Bits Earned,Energy Cost,Junk Earned
-bot1,data_vaults_mission,Silicon,4.0,True,1,3,160,218.0,16,8
-bot2,plastic_mission,Plastic,8.0,False,2,0,96,78.5,16,0
-bot3,data_vaults_mission,Silicon,4.0,True,1,2,160,212.0,16,8
-bot4,refinery_mission,Metal,8.0,False,1,0,96,101.8,24,0
-bot1,plastic_mission,Plastic,4.0,True,1,6,160,130.8,8,8
-bot2,plastic_mission,Plastic,8.0,True,2,32,320,261.6,16,16
-bot3,data_vaults_mission,Silicon,2.0,True,1,1,80,106.0,8,6
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,31.8,8,0
-bot1,data_vaults_mission,Silicon,2.0,False,1,0,24,32.7,8,0
-bot2,data_vaults_mission,Silicon,2.0,False,1,0,24,32.7,8,0
-bot3,plastic_mission,Plastic,2.0,True,1,4,80,63.6,4,8
-bot4,refinery_mission,Metal,2.0,False,2,0,24,25.4,6,0
-bot1,plastic_mission,Plastic,8.0,False,1,0,96,78.5,16,0
-bot2,data_vaults_mission,Silicon,4.0,True,1,3,160,218.0,16,16
-bot3,refinery_mission,Metal,2.0,False,1,0,24,25.4,6,0
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.1,4,0
-bot1,plastic_mission,Plastic,8.0,True,2,22,320,261.6,16,16
-bot2,data_vaults_mission,Silicon,2.0,False,1,0,24,32.7,8,0
-bot3,refinery_mission,Metal,8.0,False,1,0,96,101.8,24,0
-bot4,data_vaults_mission,Silicon,8.0,False,1,0,96,127.2,32,0
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,130.8,32,0
-bot2,refinery_mission,Metal,8.0,False,1,0,96,104.6,24,0
-bot3,refinery_mission,Metal,4.0,True,1,4,160,169.6,12,16
-bot4,refinery_mission,Metal,4.0,False,1,0,48,50.9,12,0
-bot1,refinery_mission,Metal,4.0,True,1,4,160,177.6,12,16
-bot2,refinery_mission,Metal,8.0,True,2,10,320,348.8,24,24
-bot3,refinery_mission,Metal,2.0,True,1,2,80,84.8,6,4
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,31.8,8,0
-bot1,plastic_mission,Plastic,8.0,True,1,9,320,266.4,16,24
-bot2,plastic_mission,Plastic,8.0,True,1,10,320,264.0,16,32
-bot3,refinery_mission,Metal,2.0,True,1,2,80,84.8,6,8
-bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
-bot1,plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,4
-bot2,plastic_mission,Plastic,8.0,True,1,9,320,268.8,16,24
-bot3,refinery_mission,Metal,4.0,False,1,0,48,50.9,12,0
-bot4,refinery_mission,Metal,8.0,False,1,0,96,101.8,24,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot2,plastic_mission,Plastic,8.0,True,1,9,320,271.2,16,24
-bot3,refinery_mission,Metal,4.0,False,1,0,48,50.9,12,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,63.6,16,0
-bot1,plastic_mission,Plastic,2.0,False,2,0,24,20.2,4,0
-bot2,data_vaults_mission,Silicon,8.0,False,1,0,96,135.6,32,0
-bot3,data_vaults_mission,Silicon,2.0,False,1,0,24,31.8,8,0
-bot4,refinery_mission,Metal,8.0,True,1,7,320,339.2,24,24
-bot1,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
-bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,32
-bot3,plastic_mission,Plastic,2.0,False,1,0,24,19.1,4,0
-bot4,refinery_mission,Metal,2.0,True,1,3,80,84.8,6,8
-bot1,data_vaults_mission,Silicon,8.0,True,1,5,320,448.0,32,16
-bot2,plastic_mission,Plastic,2.0,False,1,0,24,20.3,4,0
-bot3,refinery_mission,Metal,8.0,True,1,8,320,339.2,24,24
-bot4,data_vaults_mission,Silicon,2.0,True,1,1,80,107.0,8,4
-bot1,plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
-bot2,data_vaults_mission,Silicon,8.0,False,1,0,96,135.6,32,0
-bot3,refinery_mission,Metal,8.0,True,1,6,320,342.4,24,32
-bot4,data_vaults_mission,Silicon,4.0,True,1,2,160,216.0,16,16
-bot1,data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,6
-bot2,Energy Recharge,Energy,2.375,True,1,0,0,0.0,0,0
-bot3,data_vaults_mission,Silicon,2.0,True,1,1,80,107.0,8,6
-bot4,refinery_mission,Metal,2.0,False,1,0,24,25.9,6,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
-bot3,refinery_mission,Metal,2.0,False,1,0,24,25.7,6,0
-bot4,data_vaults_mission,Silicon,2.0,True,1,1,80,108.0,8,8
-bot1,data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,8
-bot2,data_vaults_mission,Silicon,4.0,True,1,3,160,226.0,16,12
-bot3,refinery_mission,Metal,8.0,True,1,8,320,342.4,24,16
-bot4,data_vaults_mission,Silicon,4.0,True,1,3,160,216.0,16,8
-bot1,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
-bot2,plastic_mission,Plastic,4.0,False,1,0,48,40.7,8,0
-bot3,refinery_mission,Metal,4.0,False,1,0,48,51.4,12,0
-bot4,data_vaults_mission,Silicon,8.0,False,1,0,96,129.6,32,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,4
-bot3,plastic_mission,Plastic,2.0,True,1,4,80,64.2,4,4
-bot4,refinery_mission,Metal,8.0,False,1,0,96,103.7,24,0
-bot1,plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
-bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
-bot3,data_vaults_mission,Silicon,4.0,True,1,2,160,214.0,16,8
-bot4,Energy Recharge,Energy,1.95,True,1,0,0,0.0,0,0
-bot1,plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,8
-bot2,data_vaults_mission,Silicon,4.0,False,1,0,48,67.8,16,0
-bot3,data_vaults_mission,Silicon,8.0,True,1,6,320,428.0,32,24
-bot4,plastic_mission,Plastic,8.0,False,2,0,96,77.8,16,0
-bot1,data_vaults_mission,Silicon,4.0,True,1,2,160,224.0,16,12
-bot2,data_vaults_mission,Silicon,4.0,False,1,0,48,67.8,16,0
-bot3,Energy Recharge,Energy,2.975,True,1,0,0,0.0,0,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot1,plastic_mission,Plastic,8.0,True,1,11,320,268.8,16,16
-bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot3,refinery_mission,Metal,4.0,False,1,0,48,51.4,12,0
-bot4,plastic_mission,Plastic,4.0,False,1,0,48,38.9,8,0
-bot1,plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
-bot2,data_vaults_mission,Silicon,8.0,False,1,0,96,135.6,32,0
-bot3,refinery_mission,Metal,8.0,True,1,8,320,342.4,24,32
-bot4,refinery_mission,Metal,2.0,True,1,2,80,86.4,6,8
-bot1,plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,6
-bot2,data_vaults_mission,Silicon,4.0,False,1,0,48,67.8,16,0
-bot3,data_vaults_mission,Silicon,4.0,False,1,0,48,64.2,16,0
-bot4,plastic_mission,Plastic,8.0,False,1,0,96,77.8,16,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,12
-bot3,data_vaults_mission,Silicon,4.0,True,1,2,160,214.0,16,8
-bot4,refinery_mission,Metal,8.0,False,1,0,96,103.7,24,0
-bot1,plastic_mission,Plastic,4.0,True,1,8,160,134.4,8,8
-bot2,data_vaults_mission,Silicon,8.0,False,1,0,96,135.6,32,0
-bot3,refinery_mission,Metal,2.0,True,1,2,80,85.6,6,8
-bot4,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
-bot1,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
-bot2,data_vaults_mission,Silicon,2.0,True,1,2,80,113.0,8,8
-bot3,plastic_mission,Plastic,4.0,False,1,0,48,38.5,8,0
-bot4,data_vaults_mission,Silicon,8.0,False,1,0,96,129.6,32,0
-bot1,data_vaults_mission,Silicon,2.0,True,1,1,80,112.0,8,4
-bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot3,data_vaults_mission,Silicon,8.0,False,1,0,96,128.4,32,0
-bot4,plastic_mission,Plastic,4.0,True,1,5,160,129.6,8,8
-bot1,plastic_mission,Plastic,4.0,True,1,5,160,134.4,8,8
-bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,4
-bot3,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
-bot2,plastic_mission,Plastic,8.0,False,1,0,96,81.4,16,0
-bot3,data_vaults_mission,Silicon,2.0,False,1,0,24,32.1,8,0
-bot4,data_vaults_mission,Silicon,4.0,True,1,3,160,216.0,16,12
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
-bot2,plastic_mission,Plastic,2.0,True,1,4,80,67.8,4,8
-bot3,data_vaults_mission,Silicon,2.0,True,1,1,80,107.0,8,4
-bot4,refinery_mission,Metal,2.0,False,1,0,24,25.9,6,0
-bot1,plastic_mission,Plastic,2.0,True,1,4,80,67.2,4,8
-bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
-bot3,data_vaults_mission,Silicon,8.0,True,1,5,320,428.0,32,16
-bot4,plastic_mission,Plastic,8.0,False,1,0,96,77.8,16,0
-bot1,data_vaults_mission,Silicon,4.0,True,1,3,160,224.0,16,12
-bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,16
-bot3,data_vaults_mission,Silicon,8.0,True,1,5,320,428.0,32,24
-bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
-bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot2,plastic_mission,Plastic,8.0,True,1,6,320,271.2,16,16
-bot3,data_vaults_mission,Silicon,8.0,False,1,0,96,128.4,32,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot2,refinery_mission,Metal,2.0,False,1,0,0,0.0,0,0
-bot3,Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
-bot4,refinery_mission,Metal,2.0,True,1,3,80,86.4,6,6
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,refinery_mission,Metal,8.0,True,1,8,320,342.4,24,24
-bot4,refinery_mission,Metal,4.0,False,1,0,48,51.8,12,0
-bot5,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
-bot1,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
-bot3,plastic_mission,Plastic,4.0,True,1,7,160,128.4,8,16
-bot4,plastic_mission,Plastic,8.0,True,1,16,320,259.2,16,32
-bot5,data_vaults_mission,Silicon,4.0,False,1,0,48,67.8,16,0
-bot1,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
-bot3,refinery_mission,Metal,2.0,False,1,0,24,25.7,6,0
-bot4,data_vaults_mission,Silicon,8.0,False,1,0,96,129.6,32,0
-bot5,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,32
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,plastic_mission,Plastic,4.0,False,1,0,48,38.5,8,0
-bot4,plastic_mission,Plastic,4.0,False,1,0,48,38.9,8,0
-bot5,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
-bot1,plastic_mission,Plastic,4.0,True,1,6,160,134.4,8,8
-bot3,refinery_mission,Metal,8.0,True,2,14,320,342.4,24,32
-bot4,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
-bot5,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
-bot1,Energy Recharge,Energy,1.85,True,1,0,0,0.0,0,0
-bot3,plastic_mission,Plastic,4.0,True,1,6,160,128.4,8,12
-bot4,data_vaults_mission,Silicon,8.0,True,1,5,320,432.0,32,16
-bot5,data_vaults_mission,Silicon,4.0,True,1,2,160,226.0,16,12
-bot1,plastic_mission,Plastic,2.0,False,1,0,24,20.2,4,0
-bot3,data_vaults_mission,Silicon,4.0,False,1,0,48,64.2,16,0
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,plastic_mission,Plastic,4.0,True,1,6,160,135.6,8,8
-bot1,refinery_mission,Metal,8.0,True,1,5,320,358.4,24,32
-bot3,plastic_mission,Plastic,4.0,True,1,8,160,128.4,8,12
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,16
-bot1,data_vaults_mission,Silicon,2.0,True,1,2,80,112.0,8,8
-bot3,refinery_mission,Metal,4.0,False,1,0,48,51.4,12,0
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
-bot1,data_vaults_mission,Silicon,2.0,False,2,0,24,33.6,8,0
-bot3,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,32.4,8,0
-bot5,data_vaults_mission,Silicon,8.0,True,1,4,320,460.0,32,16
-bot1,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
-bot3,plastic_mission,Plastic,4.0,True,1,7,160,128.4,8,12
-bot4,refinery_mission,Metal,4.0,True,1,4,160,172.8,12,8
-bot5,refinery_mission,Metal,4.0,True,1,3,160,184.0,12,8
-bot1,refinery_mission,Metal,8.0,True,1,8,320,358.4,24,16
-bot3,plastic_mission,Plastic,2.0,True,1,5,80,64.2,4,4
-bot4,plastic_mission,Plastic,2.0,True,1,4,80,64.8,4,6
-bot5,refinery_mission,Metal,8.0,True,1,8,320,368.0,24,32
-bot1,Energy Recharge,Energy,1.85,True,1,0,0,0.0,0,0
-bot3,data_vaults_mission,Silicon,2.0,True,1,2,80,107.0,8,8
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot5,data_vaults_mission,Silicon,2.0,False,1,0,24,34.5,8,0
-bot1,plastic_mission,Plastic,4.0,True,1,8,160,134.4,8,12
-bot3,plastic_mission,Plastic,4.0,False,1,0,48,38.5,8,0
-bot4,data_vaults_mission,Silicon,2.0,True,1,2,80,108.0,8,4
-bot5,refinery_mission,Metal,8.0,False,1,0,96,110.4,24,0
-bot1,plastic_mission,Plastic,8.0,False,1,0,96,80.6,16,0
-bot3,plastic_mission,Plastic,2.0,True,1,5,80,64.2,4,8
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,Energy Recharge,Energy,2.125,True,1,0,0,0.0,0,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot3,refinery_mission,Metal,2.0,True,1,2,80,85.6,6,8
-bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
-bot5,plastic_mission,Plastic,4.0,True,1,5,160,138.0,8,16
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
-bot3,refinery_mission,Metal,8.0,True,1,6,320,342.4,24,32
-bot4,refinery_mission,Metal,8.0,False,1,0,96,103.7,24,0
-bot5,data_vaults_mission,Silicon,4.0,False,1,0,48,69.0,16,0
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,refinery_mission,Metal,8.0,False,1,0,96,102.7,24,0
-bot4,refinery_mission,Metal,8.0,True,2,14,320,345.6,24,24
-bot5,refinery_mission,Metal,8.0,False,1,0,96,110.4,24,0
-bot1,plastic_mission,Plastic,4.0,True,1,7,160,134.4,8,8
-bot3,refinery_mission,Metal,2.0,False,1,0,24,25.7,6,0
-bot4,refinery_mission,Metal,2.0,False,2,0,24,25.9,6,0
-bot5,data_vaults_mission,Silicon,8.0,True,1,5,320,460.0,32,24
-bot1,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
-bot3,data_vaults_mission,Silicon,2.0,False,1,0,24,32.1,8,0
-bot4,plastic_mission,Plastic,8.0,True,1,12,320,259.2,16,24
-bot5,plastic_mission,Plastic,8.0,True,1,6,320,276.0,16,32
-bot1,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
-bot3,data_vaults_mission,Silicon,4.0,True,1,2,160,214.0,16,8
-bot4,plastic_mission,Plastic,4.0,True,2,14,160,129.6,8,16
-bot5,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot3,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,data_vaults_mission,Silicon,2.0,False,1,0,24,34.5,8,0
-bot1,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
-bot3,data_vaults_mission,Silicon,2.0,True,1,2,80,107.0,8,6
-bot4,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
-bot5,plastic_mission,Plastic,2.0,False,2,0,24,20.7,4,0
-bot1,plastic_mission,Plastic,4.0,True,1,6,160,134.4,8,16
-bot3,data_vaults_mission,Silicon,8.0,False,1,0,96,128.4,32,0
-bot4,plastic_mission,Plastic,4.0,False,1,0,48,38.9,8,0
-bot5,data_vaults_mission,Silicon,2.0,True,1,2,80,115.0,8,6
-bot1,plastic_mission,Plastic,8.0,False,1,0,96,80.6,16,0
-bot3,plastic_mission,Plastic,8.0,True,1,7,320,256.8,16,32
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,32.4,8,0
-bot5,refinery_mission,Metal,8.0,False,1,0,96,110.4,24,0
-bot1,data_vaults_mission,Silicon,4.0,True,1,2,160,224.0,16,16
-bot3,refinery_mission,Metal,4.0,False,1,0,48,51.4,12,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot5,plastic_mission,Plastic,8.0,True,1,16,320,276.0,16,32
-bot1,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
-bot3,plastic_mission,Plastic,8.0,False,1,0,96,77.0,16,0
-bot4,refinery_mission,Metal,2.0,False,1,0,24,25.9,6,0
-bot5,plastic_mission,Plastic,4.0,True,1,7,160,138.0,8,8
-bot1,data_vaults_mission,Silicon,8.0,True,1,6,320,448.0,32,16
-bot3,data_vaults_mission,Silicon,8.0,True,1,5,320,428.0,32,32
-bot4,refinery_mission,Metal,2.0,True,1,3,80,86.4,6,4
-bot5,data_vaults_mission,Silicon,8.0,False,1,0,96,138.0,32,0
-bot1,data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
-bot3,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
-bot4,refinery_mission,Metal,8.0,True,2,16,320,345.6,24,32
-bot5,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
-bot3,plastic_mission,Plastic,4.0,False,1,0,48,38.5,8,0
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,data_vaults_mission,Silicon,8.0,True,2,12,320,460.0,32,16
-bot1,refinery_mission,Metal,8.0,True,1,5,320,358.4,24,32
-bot3,plastic_mission,Plastic,4.0,False,1,0,48,38.5,8,0
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,32.4,8,0
-bot5,data_vaults_mission,Silicon,2.0,False,1,0,24,34.5,8,0
-bot1,plastic_mission,Plastic,2.0,True,1,5,80,67.2,4,6
-bot3,plastic_mission,Plastic,8.0,True,1,16,320,256.8,16,16
-bot4,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
-bot5,refinery_mission,Metal,2.0,True,1,3,80,92.0,6,8
-bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot3,data_vaults_mission,Silicon,4.0,False,2,0,48,64.2,16,0
-bot4,refinery_mission,Metal,2.0,True,1,2,80,86.4,6,6
-bot5,plastic_mission,Plastic,4.0,True,1,8,160,138.0,8,16
-bot1,plastic_mission,Plastic,8.0,False,2,0,96,80.6,16,0
-bot3,data_vaults_mission,Silicon,8.0,False,1,0,96,128.4,32,0
-bot4,refinery_mission,Metal,8.0,True,1,7,320,345.6,24,24
-bot5,refinery_mission,Metal,4.0,True,1,4,160,184.0,12,8
-bot1,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
-bot3,plastic_mission,Plastic,2.0,True,2,10,80,64.2,4,8
-bot4,plastic_mission,Plastic,4.0,True,1,8,160,129.6,8,16
-bot5,refinery_mission,Metal,8.0,False,1,0,96,110.4,24,0
-bot1,plastic_mission,Plastic,8.0,True,1,13,320,268.8,16,16
-bot3,plastic_mission,Plastic,8.0,True,1,9,320,256.8,16,24
-bot4,data_vaults_mission,Silicon,2.0,True,1,2,80,108.0,8,6
-bot5,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
-bot1,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot1,plastic_mission,Plastic,8.0,True,1,8,240,244.8,16,32
+bot2,plastic_mission,Plastic,8.0,True,1,9,240,266.4,16,32
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,32.1,8,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,122.4,32,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,111.0,8,8
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,64.2,16,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,61.2,4,6
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,66.6,4,8
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,38.5,8,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,61.2,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,66.6,4,8
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,128.4,32,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot1,plastic_mission,Plastic,8.0,True,1,7,240,244.8,16,24
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.3,8,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,128.4,32,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,73.4,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,66.6,4,4
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,64.2,4,4
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,102.0,8,4
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,222.0,16,16
 bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot4,plastic_mission,Plastic,8.0,False,1,0,96,77.8,16,0
-bot5,plastic_mission,Plastic,4.0,True,1,6,160,138.0,8,8
-bot1,data_vaults_mission,Silicon,4.0,True,1,3,160,224.0,16,16
-bot3,refinery_mission,Metal,2.0,False,1,0,24,25.7,6,0
-bot4,refinery_mission,Metal,4.0,False,1,0,48,51.8,12,0
-bot5,plastic_mission,Plastic,8.0,False,1,0,96,82.8,16,0
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,refinery_mission,Metal,2.0,True,1,2,80,85.6,6,4
-bot4,refinery_mission,Metal,4.0,False,1,0,48,51.8,12,0
-bot5,plastic_mission,Plastic,2.0,True,1,4,80,69.0,4,6
-bot1,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
-bot3,refinery_mission,Metal,2.0,True,1,2,80,85.6,6,6
-bot4,plastic_mission,Plastic,4.0,True,1,8,160,129.6,8,16
-bot5,plastic_mission,Plastic,8.0,False,1,0,96,82.8,16,0
-bot1,plastic_mission,Plastic,4.0,True,1,8,160,134.4,8,8
-bot3,plastic_mission,Plastic,4.0,True,1,5,160,128.4,8,12
-bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
-bot5,refinery_mission,Metal,4.0,True,1,4,160,184.0,12,8
-bot1,data_vaults_mission,Silicon,8.0,False,1,0,96,134.4,32,0
-bot3,data_vaults_mission,Silicon,4.0,True,1,3,160,214.0,16,8
-bot4,data_vaults_mission,Silicon,4.0,True,1,3,160,216.0,16,12
-bot5,plastic_mission,Plastic,2.0,True,1,4,80,69.0,4,8
-bot1,refinery_mission,Metal,4.0,True,2,6,160,179.2,12,16
-bot3,plastic_mission,Plastic,8.0,False,1,0,96,77.0,16,0
-bot4,plastic_mission,Plastic,8.0,True,1,8,320,259.2,16,24
-bot5,plastic_mission,Plastic,8.0,True,1,15,320,276.0,16,32
-bot1,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.4,12,0
+bot2,refinery_mission,Metal,8.0,True,1,5,320,355.2,24,32
 bot3,refinery_mission,Metal,8.0,False,1,0,96,102.7,24,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot5,refinery_mission,Metal,2.0,True,2,4,80,92.0,6,6
-bot1,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
-bot3,plastic_mission,Plastic,8.0,False,1,0,96,77.0,16,0
-bot4,refinery_mission,Metal,2.0,True,2,4,80,86.4,6,6
-bot5,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
-bot1,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
-bot3,plastic_mission,Plastic,8.0,True,1,10,320,256.8,16,24
-bot4,refinery_mission,Metal,8.0,False,1,0,96,103.7,24,0
-bot5,refinery_mission,Metal,8.0,False,1,0,96,110.4,24,0
-bot1,data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
-bot3,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
-bot4,plastic_mission,Plastic,4.0,True,1,5,160,129.6,8,8
-bot5,refinery_mission,Metal,4.0,True,1,3,160,184.0,12,16
-bot1,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,16
-bot3,data_vaults_mission,Silicon,2.0,False,1,0,24,32.1,8,0
-bot4,refinery_mission,Metal,4.0,False,1,0,48,51.8,12,0
-bot5,data_vaults_mission,Silicon,2.0,True,1,1,80,115.0,8,4
-bot1,plastic_mission,Plastic,4.0,True,2,14,160,134.4,8,16
-bot3,data_vaults_mission,Silicon,2.0,False,2,0,24,32.1,8,0
-bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot5,plastic_mission,Plastic,2.0,True,1,4,80,69.0,4,6
-bot1,refinery_mission,Metal,8.0,True,1,5,320,358.4,24,16
-bot3,plastic_mission,Plastic,2.0,False,1,0,24,19.3,4,0
-bot4,data_vaults_mission,Silicon,2.0,True,1,1,80,108.0,8,6
-bot5,data_vaults_mission,Silicon,4.0,False,1,0,48,69.0,16,0
-bot1,data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
-bot3,data_vaults_mission,Silicon,2.0,True,1,2,80,107.0,8,8
-bot4,data_vaults_mission,Silicon,4.0,True,1,2,160,216.0,16,16
-bot5,refinery_mission,Metal,4.0,True,1,3,160,184.0,12,16
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,data_vaults_mission,Silicon,8.0,True,1,4,320,428.0,32,24
-bot4,plastic_mission,Plastic,8.0,True,1,13,320,259.2,16,16
-bot5,refinery_mission,Metal,2.0,True,1,2,80,92.0,6,4
-bot1,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
-bot3,data_vaults_mission,Silicon,4.0,False,1,0,48,64.2,16,0
-bot4,data_vaults_mission,Silicon,4.0,False,1,0,48,64.8,16,0
-bot5,plastic_mission,Plastic,8.0,True,1,7,320,276.0,16,16
-bot1,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
-bot3,refinery_mission,Metal,2.0,True,1,3,80,85.6,6,8
-bot4,refinery_mission,Metal,2.0,False,1,0,24,25.9,6,0
-bot5,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
-bot3,plastic_mission,Plastic,8.0,False,1,0,96,77.0,16,0
-bot4,plastic_mission,Plastic,4.0,True,1,5,160,129.6,8,8
-bot5,plastic_mission,Plastic,2.0,True,1,5,80,69.0,4,8
-bot1,plastic_mission,Plastic,4.0,True,1,6,160,134.4,8,8
-bot3,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot4,plastic_mission,Plastic,8.0,True,1,6,320,259.2,16,16
-bot5,plastic_mission,Plastic,4.0,False,1,0,48,41.4,8,0
-bot1,data_vaults_mission,Silicon,4.0,False,1,0,48,67.2,16,0
-bot3,refinery_mission,Metal,8.0,False,1,0,96,102.7,24,0
-bot4,plastic_mission,Plastic,4.0,True,1,7,160,129.6,8,12
-bot5,plastic_mission,Plastic,4.0,False,1,0,48,41.4,8,0
-bot1,data_vaults_mission,Silicon,2.0,False,1,0,24,33.6,8,0
-bot3,plastic_mission,Plastic,8.0,True,1,12,320,256.8,16,24
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,data_vaults_mission,Silicon,8.0,False,1,0,96,138.0,32,0
-bot1,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
-bot3,data_vaults_mission,Silicon,4.0,True,1,2,160,214.0,16,8
-bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot5,refinery_mission,Metal,4.0,True,1,3,160,184.0,12,16
-bot1,data_vaults_mission,Silicon,2.0,True,1,1,80,112.0,8,6
-bot3,plastic_mission,Plastic,2.0,True,1,4,80,64.2,4,8
-bot4,plastic_mission,Plastic,4.0,False,1,0,48,38.9,8,0
-bot5,data_vaults_mission,Silicon,8.0,False,1,0,96,138.0,32,0
-bot1,plastic_mission,Plastic,8.0,True,1,14,320,268.8,16,32
-bot3,plastic_mission,Plastic,8.0,True,1,14,320,256.8,16,16
-bot4,data_vaults_mission,Silicon,2.0,False,1,0,24,32.4,8,0
-bot5,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
-bot1,plastic_mission,Plastic,8.0,True,1,14,320,268.8,16,24
-bot3,refinery_mission,Metal,2.0,True,1,3,80,85.6,6,8
-bot4,data_vaults_mission,Silicon,8.0,True,1,4,320,432.0,32,32
-bot5,plastic_mission,Plastic,2.0,False,1,0,24,20.7,4,0
-bot1,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,32
-bot3,data_vaults_mission,Silicon,4.0,True,1,3,160,214.0,16,8
-bot4,plastic_mission,Plastic,2.0,False,1,0,24,19.4,4,0
-bot5,data_vaults_mission,Silicon,2.0,True,1,1,80,115.0,8,4
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,61.8,16,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,32.1,8,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,16
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot3,plastic_mission,Plastic,8.0,True,2,30,240,256.8,16,24
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot1,data_vaults_mission,Silicon,2.0,False,2,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,refinery_mission,Metal,2.0,False,2,0,24,25.9,6,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,130.8,8,12
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,12
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.3,8,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,6
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,refinery_mission,Metal,2.0,True,1,2,80,88.8,6,8
+bot4,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot1,data_vaults_mission,Silicon,4.0,True,2,4,200,208.0,16,8
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,8.0,False,2,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,32
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,Energy Recharge,Energy,1.875,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,True,1,10,240,268.8,16,32
+bot4,plastic_mission,Plastic,8.0,True,1,12,240,273.6,16,24
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,24
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,16
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,24
 bot1,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,4
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,data_vaults_mission,Silicon,2.0,True,2,2,100,112.0,8,8
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,4
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,32
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,16
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,12
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,24
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,16
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,6
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,5,400,448.0,32,24
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,8.0,True,1,5,320,364.8,24,16
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,8.0,True,1,13,240,271.2,16,24
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,4
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,16
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,16
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,8
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,8
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,8
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,4
+bot1,data_vaults_mission,Silicon,2.0,True,2,4,100,104.0,8,4
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,6
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,4
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,8.0,True,1,7,240,268.8,16,32
+bot4,plastic_mission,Plastic,8.0,False,2,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,16
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,12
+bot4,Energy Recharge,Energy,1.95,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,16
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,4
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,plastic_mission,Plastic,8.0,True,1,13,240,271.2,16,16
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,8.0,True,1,6,240,273.6,16,16
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,8.0,True,2,16,320,364.8,24,32
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,24
+bot3,plastic_mission,Plastic,8.0,True,1,6,240,268.8,16,32
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,8
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,16
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,data_vaults_mission,Silicon,2.0,False,2,0,30,31.2,8,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
+bot4,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,24
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,8
+bot4,plastic_mission,Plastic,8.0,True,1,14,240,273.6,16,32
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,16
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,Energy Recharge,Energy,1.8,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,4
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,8.0,True,1,15,240,249.6,16,16
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,8
+bot3,plastic_mission,Plastic,8.0,True,1,7,240,268.8,16,32
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,6
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,32
+bot3,plastic_mission,Plastic,8.0,True,1,6,240,268.8,16,16
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,12
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,8
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,plastic_mission,Plastic,8.0,True,1,16,240,249.6,16,16
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,plastic_mission,Plastic,2.0,False,2,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,12
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,16
+bot3,data_vaults_mission,Silicon,8.0,True,2,10,400,448.0,32,32
+bot4,plastic_mission,Plastic,8.0,True,1,6,240,273.6,16,32
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,plastic_mission,Plastic,8.0,True,1,12,240,273.6,16,24
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,plastic_mission,Plastic,8.0,True,1,15,240,268.8,16,24
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,8
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,6
+bot3,data_vaults_mission,Silicon,8.0,True,1,6,400,448.0,32,32
+bot4,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,4.0,True,2,8,160,166.4,12,16
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,16
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,8
+bot3,plastic_mission,Plastic,8.0,True,1,7,240,268.8,16,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,4
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,4
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,12
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,8.0,True,1,8,240,268.8,16,32
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,12
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,8
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,False,2,0,96,107.5,24,0
+bot4,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,8.0,True,1,7,240,273.6,16,16
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,8
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,8.0,True,2,10,320,332.8,24,16
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,5,400,448.0,32,16
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,4
+bot2,Energy Recharge,Energy,1.8,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,8
+bot1,refinery_mission,Metal,8.0,True,1,8,320,332.8,24,16
+bot2,plastic_mission,Plastic,8.0,True,1,7,240,271.2,16,32
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,8
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,16
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,Energy Recharge,Energy,2.1,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,data_vaults_mission,Silicon,8.0,True,1,4,400,448.0,32,24
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,12
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,4
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,4
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,8
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,2.0,True,2,2,100,112.0,8,6
+bot4,plastic_mission,Plastic,8.0,True,1,13,240,273.6,16,24
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,24
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,5,400,448.0,32,32
+bot4,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,plastic_mission,Plastic,8.0,True,1,16,240,271.2,16,32
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,8
+bot1,plastic_mission,Plastic,2.0,False,2,0,18,18.7,4,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,plastic_mission,Plastic,8.0,True,1,16,240,268.8,16,24
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,8
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,4
+bot4,plastic_mission,Plastic,8.0,True,1,8,240,273.6,16,24
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,16
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,16
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,6
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,8
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,24
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,8
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,12
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,12
+bot3,data_vaults_mission,Silicon,2.0,False,2,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,6
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,16
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,6
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,Energy Recharge,Energy,2.95,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,2,0,60,67.8,16,0
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,24
+bot4,data_vaults_mission,Silicon,2.0,True,1,1,100,114.0,8,6
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,8
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,16
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+bot4,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,8
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,32
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,12
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,Energy Recharge,Energy,1.75,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,16
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,12
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,8
+bot1,plastic_mission,Plastic,4.0,True,1,5,120,124.8,8,8
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,16
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,8
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,4
+bot4,plastic_mission,Plastic,8.0,True,2,20,240,273.6,16,16
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,6
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,8
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,24
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,6
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,4.0,True,2,8,160,166.4,12,12
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,4
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,4
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,2.0,True,2,2,100,113.0,8,6
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,1.85,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,True,1,7,240,271.2,16,24
+bot3,refinery_mission,Metal,4.0,True,2,6,160,179.2,12,16
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,4,400,452.0,32,32
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,True,1,6,240,268.8,16,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,8.0,True,1,15,240,249.6,16,24
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,16
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,4.0,True,2,6,200,208.0,16,12
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,8
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,32
+bot1,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,24
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,2.0,True,2,2,100,114.0,8,8
+bot1,refinery_mission,Metal,8.0,True,1,8,320,332.8,24,16
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
 bot3,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
-bot4,data_vaults_mission,Silicon,2.0,True,1,1,80,108.0,8,6
-bot5,data_vaults_mission,Silicon,4.0,True,1,3,160,230.0,16,8
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,8
+bot1,data_vaults_mission,Silicon,4.0,True,2,4,200,208.0,16,8
+bot2,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,True,1,8,320,358.4,24,24
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,refinery_mission,Metal,8.0,False,2,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,8.0,True,1,16,240,271.2,16,32
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,plastic_mission,Plastic,4.0,True,1,6,120,124.8,8,8
+bot2,data_vaults_mission,Silicon,8.0,True,1,5,400,452.0,32,24
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,plastic_mission,Plastic,8.0,True,1,6,240,249.6,16,32
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,24
+bot4,plastic_mission,Plastic,8.0,True,1,10,240,273.6,16,32
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,6
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,4,400,452.0,32,32
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,12
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,4
+bot4,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,8.0,True,2,26,240,249.6,16,16
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,24
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,16
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,8
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,8.0,True,1,8,240,273.6,16,16
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,12
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,6
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,32
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,4
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,32
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,16
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,12
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,8
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,24
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,8
+bot3,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,4.0,True,2,8,160,180.8,12,12
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,plastic_mission,Plastic,8.0,True,1,10,240,273.6,16,24
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,16
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,12
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,12
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,6
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,6
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,24
+bot1,refinery_mission,Metal,8.0,True,1,8,320,332.8,24,24
+bot2,plastic_mission,Plastic,8.0,True,1,12,240,271.2,16,32
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,24
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,refinery_mission,Metal,8.0,True,1,7,320,364.8,24,16
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,8.0,True,1,5,320,361.6,24,16
+bot3,refinery_mission,Metal,8.0,False,2,0,96,107.5,24,0
+bot4,refinery_mission,Metal,4.0,True,2,6,160,182.4,12,16
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,16
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,6
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,16
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,8
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,6,400,448.0,32,24
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,12
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,6
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,8
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,8
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,6
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,plastic_mission,Plastic,4.0,False,2,0,36,40.3,8,0
+bot4,data_vaults_mission,Silicon,2.0,True,1,1,100,114.0,8,8
+bot1,refinery_mission,Metal,4.0,False,2,0,48,49.9,12,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,2.0,True,2,6,80,89.6,6,8
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,Energy Recharge,Energy,1.8,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,6
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,4
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,8
+bot1,Energy Recharge,Energy,2.95,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,refinery_mission,Metal,8.0,False,2,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,32
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,24
+bot4,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,12
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,12
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,8
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,8
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,12
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,16
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,8
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,plastic_mission,Plastic,8.0,True,1,8,240,249.6,16,32
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,Energy Recharge,Energy,2.95,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,2.0,False,2,0,24,27.1,6,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,8.0,True,1,9,240,249.6,16,32
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,24
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,4
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,16
+bot2,data_vaults_mission,Silicon,8.0,True,2,8,400,452.0,32,24
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,4.0,True,1,6,120,124.8,8,12
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,4
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,True,2,6,200,208.0,16,12
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,plastic_mission,Plastic,8.0,True,1,9,240,273.6,16,24
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,6
+bot2,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,2.0,False,2,0,30,31.2,8,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,12
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,4
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,24
+bot4,Energy Recharge,Energy,1.85,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,8
+bot1,data_vaults_mission,Silicon,8.0,True,1,6,400,416.0,32,32
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,8
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,12
+bot3,data_vaults_mission,Silicon,4.0,False,2,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,8.0,True,2,22,240,249.6,16,16
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,8
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,8
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,16
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,8
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,6
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,16
+bot2,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,True,2,10,60,67.2,4,8
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,16
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,16
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,12
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.1,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,16
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,6
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,8
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,4
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,4
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,8.0,True,1,12,240,249.6,16,24
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,False,2,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,16
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,24
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,12
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,32
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,plastic_mission,Plastic,8.0,True,1,13,240,273.6,16,16
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,16
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,32
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,12
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,plastic_mission,Plastic,8.0,True,1,15,240,249.6,16,16
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,refinery_mission,Metal,4.0,True,2,8,160,179.2,12,16
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,24
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,12
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,16
+bot1,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,4
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,16
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,True,1,15,240,271.2,16,32
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,16
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,6
+bot2,plastic_mission,Plastic,8.0,True,1,13,240,271.2,16,16
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,data_vaults_mission,Silicon,2.0,False,2,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,8.0,True,1,7,320,364.8,24,16
+bot1,refinery_mission,Metal,2.0,True,2,6,80,83.2,6,8
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,16
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,4
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,16
+bot3,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,32
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,2.0,False,2,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,16
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,32
+bot1,Energy Recharge,Energy,2.95,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,2.0,False,2,0,24,26.9,6,0
+bot4,plastic_mission,Plastic,8.0,True,1,9,240,273.6,16,24
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,8
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,12
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,16
+bot3,plastic_mission,Plastic,8.0,True,1,14,240,268.8,16,32
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,4
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,8
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,24
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,32
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,8
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,6
+bot2,refinery_mission,Metal,8.0,True,2,10,320,361.6,24,32
+bot3,plastic_mission,Plastic,2.0,True,2,8,60,67.2,4,8
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,8
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,24
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,4
+bot2,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
+bot4,plastic_mission,Plastic,8.0,True,1,15,240,273.6,16,32
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,12
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,24
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,4.0,True,2,8,160,166.4,12,12
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,4.0,False,2,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,Energy Recharge,Energy,2.95,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,16
+bot2,plastic_mission,Plastic,2.0,True,2,10,60,67.8,4,6
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,8
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,24
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,32
+bot4,refinery_mission,Metal,8.0,True,2,10,320,364.8,24,16
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,12
+bot3,refinery_mission,Metal,8.0,False,2,0,96,107.5,24,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,8
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,24
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,32
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,8.0,True,1,15,240,273.6,16,16
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,4
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,12
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,16
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,4
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,32
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,4
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,12
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,16
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,8
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,6
+bot3,Energy Recharge,Energy,2.1,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,refinery_mission,Metal,4.0,False,2,0,48,49.9,12,0
+bot2,plastic_mission,Plastic,8.0,True,1,8,240,271.2,16,32
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,True,2,8,160,182.4,12,16
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,16
+bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,16
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,8.0,True,1,6,400,416.0,32,16
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,8
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,plastic_mission,Plastic,4.0,True,1,5,120,124.8,8,16
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,8.0,True,1,5,320,358.4,24,24
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,8
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
+bot3,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,8
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,data_vaults_mission,Silicon,4.0,False,2,0,60,67.2,16,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,16
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,2.0,True,2,8,60,62.4,4,6
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,4
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,16
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,12
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,4
+bot3,plastic_mission,Plastic,8.0,True,1,8,240,268.8,16,16
+bot4,plastic_mission,Plastic,8.0,True,1,15,240,273.6,16,24
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,8
+bot4,refinery_mission,Metal,8.0,True,1,8,320,364.8,24,24
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,12
+bot1,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,refinery_mission,Metal,4.0,False,2,0,48,53.8,12,0
+bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,12
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,6
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,4
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,8
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,12
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,8
+bot1,plastic_mission,Plastic,8.0,True,1,11,240,249.6,16,16
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,8
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,plastic_mission,Plastic,8.0,True,1,7,240,271.2,16,32
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,8.0,True,1,11,240,249.6,16,16
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,16
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,16
+bot4,plastic_mission,Plastic,8.0,True,1,14,240,273.6,16,24
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,24
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,plastic_mission,Plastic,4.0,True,2,16,120,134.4,8,16
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,6
+bot2,plastic_mission,Plastic,4.0,True,1,8,120,135.6,8,12
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,12
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,16
+bot1,refinery_mission,Metal,4.0,True,2,6,160,166.4,12,16
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,6
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,8.0,True,1,10,240,268.8,16,32
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,16
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,32
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,4
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,8
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,16
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,6
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,6
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,4
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,6
+bot1,refinery_mission,Metal,8.0,True,1,5,320,332.8,24,16
+bot2,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,16
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,refinery_mission,Metal,8.0,True,1,8,320,332.8,24,24
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,6
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,8
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,4
+bot2,plastic_mission,Plastic,4.0,False,2,0,36,40.7,8,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,8.0,True,1,7,240,273.6,16,16
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,4
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,6
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,16
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,6
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,24
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,16
+bot3,plastic_mission,Plastic,8.0,True,1,14,240,268.8,16,24
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,4.0,True,2,10,120,124.8,8,12
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,12
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,8
+bot3,data_vaults_mission,Silicon,8.0,True,1,4,400,448.0,32,16
+bot4,refinery_mission,Metal,8.0,False,2,0,96,109.4,24,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,refinery_mission,Metal,8.0,True,1,8,320,358.4,24,16
+bot4,Energy Recharge,Energy,2.1,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,8.0,True,1,5,320,361.6,24,16
+bot3,plastic_mission,Plastic,8.0,True,1,12,240,268.8,16,32
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,4
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,16
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,12
+bot4,plastic_mission,Plastic,8.0,True,1,11,240,273.6,16,24
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,8
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,16
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,4
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,5,400,416.0,32,32
+bot2,plastic_mission,Plastic,2.0,False,2,0,18,20.3,4,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,12
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,4.0,True,1,5,120,124.8,8,8
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,plastic_mission,Plastic,8.0,True,1,10,240,273.6,16,24
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,6
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,8.0,True,1,15,240,271.2,16,24
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,8
+bot4,plastic_mission,Plastic,8.0,False,2,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,12
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,4,400,448.0,32,16
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,6
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,8
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,16
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,8
+bot1,plastic_mission,Plastic,8.0,False,2,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,32
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,refinery_mission,Metal,8.0,True,1,5,320,358.4,24,16
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,12
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,8
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,6
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,16
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,plastic_mission,Plastic,8.0,True,1,8,240,249.6,16,24
+bot2,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,8
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,12
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,16
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,16
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,32
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,refinery_mission,Metal,4.0,False,2,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,False,2,0,60,62.4,16,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,24
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,12
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,8
+bot2,plastic_mission,Plastic,4.0,False,1,0,36,40.7,8,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,4
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,plastic_mission,Plastic,8.0,True,1,13,240,249.6,16,32
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,16
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,8
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,16
+bot2,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,6
+bot4,data_vaults_mission,Silicon,8.0,True,1,5,400,456.0,32,24
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,24
+bot3,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,12
+bot4,Energy Recharge,Energy,2.1,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,16
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,8.0,True,1,14,240,249.6,16,24
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,8
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,plastic_mission,Plastic,4.0,True,2,10,120,134.4,8,8
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,True,1,8,240,271.2,16,16
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,6
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,12
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,12
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,16
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,8
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,True,2,4,200,208.0,16,8
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,24
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,4
+bot4,refinery_mission,Metal,4.0,False,2,0,48,54.7,12,0
+bot1,plastic_mission,Plastic,8.0,True,1,13,240,249.6,16,24
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,6
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,4
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,4
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,8
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,32
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,data_vaults_mission,Silicon,2.0,False,2,0,30,33.9,8,0
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,plastic_mission,Plastic,4.0,True,1,6,120,136.8,8,12
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,6
+bot2,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,8
+bot1,data_vaults_mission,Silicon,8.0,True,1,6,400,416.0,32,24
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,12
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,6
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,4
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,12
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,16
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,4,400,452.0,32,16
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,16
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,8
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,6,400,416.0,32,24
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,plastic_mission,Plastic,8.0,True,1,12,240,268.8,16,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,16
+bot1,plastic_mission,Plastic,8.0,True,1,10,240,249.6,16,24
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,8
+bot3,plastic_mission,Plastic,2.0,True,2,8,60,67.2,4,6
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,16
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,16
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,Energy Recharge,Energy,1.95,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,8,320,332.8,24,16
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,16
+bot3,Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,12
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,8
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,12
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,8
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,24
+bot1,plastic_mission,Plastic,8.0,True,1,8,240,249.6,16,16
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,8
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,16
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,6
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,32
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,4
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,16
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,2.0,False,1,0,18,20.2,4,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,32
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,8
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,data_vaults_mission,Silicon,4.0,False,2,0,60,62.4,16,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,16
+bot1,plastic_mission,Plastic,4.0,True,1,7,120,124.8,8,8
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,8
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,8
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,12
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,8
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,Energy Recharge,Energy,2.55,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,12
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,16
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,16
+bot4,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,16
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,True,1,7,320,358.4,24,16
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,32
+bot2,refinery_mission,Metal,2.0,True,1,3,80,90.4,6,8
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,12
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,plastic_mission,Plastic,8.0,True,2,28,240,273.6,16,24
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,8
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,8
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,8.0,True,1,9,240,273.6,16,16
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,8
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,12
+bot4,Energy Recharge,Energy,2.25,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,6
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,12
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,4
+bot1,Energy Recharge,Energy,2.65,True,1,0,0,0.0,0,0
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,8
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,plastic_mission,Plastic,8.0,True,1,6,240,271.2,16,16
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,data_vaults_mission,Silicon,4.0,True,2,4,200,228.0,16,8
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,8.0,True,1,6,400,456.0,32,32
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,8
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,4
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,plastic_mission,Plastic,4.0,True,1,6,120,124.8,8,16
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,data_vaults_mission,Silicon,2.0,False,2,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,8
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,12
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,6
+bot1,plastic_mission,Plastic,4.0,True,1,5,120,124.8,8,8
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,16
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,plastic_mission,Plastic,8.0,True,1,11,240,268.8,16,24
+bot4,refinery_mission,Metal,8.0,True,1,5,320,364.8,24,24
+bot1,plastic_mission,Plastic,4.0,False,1,0,36,37.4,8,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,6,400,452.0,32,16
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,True,1,8,120,134.4,8,16
+bot4,data_vaults_mission,Silicon,8.0,True,1,4,400,456.0,32,16
+bot1,data_vaults_mission,Silicon,2.0,True,2,4,100,104.0,8,4
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,4
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,12
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,8
+bot3,plastic_mission,Plastic,8.0,True,1,9,240,268.8,16,32
+bot4,plastic_mission,Plastic,2.0,False,1,0,18,20.5,4,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,12
+bot2,refinery_mission,Metal,8.0,True,1,6,320,361.6,24,16
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,8
+bot4,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,32
+bot2,plastic_mission,Plastic,4.0,True,1,5,120,135.6,8,12
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,16
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,4.0,True,1,8,120,135.6,8,16
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,16
+bot1,Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,8
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,8
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,16
+bot2,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,4
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,8.0,True,1,15,240,271.2,16,24
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,8
+bot4,refinery_mission,Metal,8.0,True,1,5,320,364.8,24,16
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,8
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,32
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,4
+bot2,refinery_mission,Metal,8.0,True,1,7,320,361.6,24,32
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,5,120,136.8,8,8
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,4
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,refinery_mission,Metal,8.0,True,1,6,320,332.8,24,24
+bot2,data_vaults_mission,Silicon,4.0,True,2,4,200,226.0,16,12
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,6
+bot4,plastic_mission,Plastic,8.0,True,1,11,240,273.6,16,32
+bot1,plastic_mission,Plastic,8.0,False,2,0,72,74.9,16,0
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,4
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,12
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,32
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,4
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,2.0,True,1,4,60,67.2,4,8
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,16
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,32
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,4
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,16
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,32
+bot2,plastic_mission,Plastic,8.0,True,1,9,240,271.2,16,16
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,4
+bot2,plastic_mission,Plastic,4.0,False,2,0,36,40.7,8,0
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,4
+bot2,plastic_mission,Plastic,8.0,True,1,12,240,271.2,16,16
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,2.0,True,1,4,60,68.4,4,6
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,16
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,4
+bot4,plastic_mission,Plastic,8.0,True,1,9,240,273.6,16,16
+bot1,plastic_mission,Plastic,2.0,True,1,4,60,62.4,4,8
+bot2,refinery_mission,Metal,8.0,True,1,5,320,361.6,24,16
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,16
+bot1,Energy Recharge,Energy,2.8,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,8
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,4.0,True,1,8,120,124.8,8,16
+bot2,plastic_mission,Plastic,8.0,True,1,16,240,271.2,16,16
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,12
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,6
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,12
+bot2,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,2.0,False,2,0,18,20.2,4,0
+bot4,refinery_mission,Metal,8.0,True,1,5,320,364.8,24,24
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,5,400,452.0,32,32
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,refinery_mission,Metal,4.0,True,2,6,160,166.4,12,12
+bot2,plastic_mission,Plastic,2.0,True,2,8,60,67.8,4,6
+bot3,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,8.0,True,1,8,240,271.2,16,24
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,refinery_mission,Metal,2.0,True,1,2,80,83.2,6,4
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,4,400,448.0,32,32
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,8.0,True,1,12,240,271.2,16,16
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
+bot4,refinery_mission,Metal,4.0,True,2,8,160,182.4,12,12
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,2.0,True,1,3,80,89.6,6,6
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,plastic_mission,Plastic,4.0,True,1,6,120,124.8,8,8
+bot2,plastic_mission,Plastic,8.0,True,1,15,240,271.2,16,32
+bot3,data_vaults_mission,Silicon,8.0,True,1,4,400,448.0,32,16
+bot4,plastic_mission,Plastic,8.0,True,1,13,240,273.6,16,32
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,8
+bot2,plastic_mission,Plastic,4.0,True,1,6,120,135.6,8,8
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,6
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,refinery_mission,Metal,4.0,True,1,4,160,180.8,12,16
+bot3,Energy Recharge,Energy,2.6,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,4.0,True,1,6,120,134.4,8,16
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,data_vaults_mission,Silicon,2.0,True,1,1,100,113.0,8,6
+bot3,data_vaults_mission,Silicon,2.0,True,1,1,100,112.0,8,6
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,12
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,4
+bot3,plastic_mission,Plastic,2.0,True,1,5,60,67.2,4,8
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,Energy Recharge,Energy,2.9,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,2.0,True,1,2,100,112.0,8,6
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,Energy Recharge,Energy,1.9,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,plastic_mission,Plastic,8.0,False,1,0,72,82.1,16,0
+bot1,plastic_mission,Plastic,8.0,False,1,0,72,74.9,16,0
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,4
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,True,2,6,160,182.4,12,16
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,plastic_mission,Plastic,8.0,True,1,9,240,271.2,16,16
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,True,1,2,80,91.2,6,4
+bot1,refinery_mission,Metal,8.0,True,1,7,320,332.8,24,32
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,6
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,16
+bot4,plastic_mission,Plastic,4.0,True,1,7,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,8
+bot2,refinery_mission,Metal,4.0,False,2,0,48,54.2,12,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,12
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,12
+bot2,Energy Recharge,Energy,2.05,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,plastic_mission,Plastic,2.0,True,1,5,60,68.4,4,8
+bot1,refinery_mission,Metal,4.0,True,1,3,160,166.4,12,12
+bot2,plastic_mission,Plastic,4.0,True,1,7,120,135.6,8,8
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,refinery_mission,Metal,8.0,False,1,0,96,99.8,24,0
+bot2,data_vaults_mission,Silicon,4.0,True,1,2,200,226.0,16,8
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,8.0,False,1,0,96,109.4,24,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,plastic_mission,Plastic,8.0,True,1,6,240,271.2,16,24
+bot3,refinery_mission,Metal,4.0,False,1,0,48,53.8,12,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,4.0,True,2,4,200,208.0,16,8
+bot2,data_vaults_mission,Silicon,4.0,True,1,3,200,226.0,16,8
+bot3,refinery_mission,Metal,8.0,True,1,6,320,358.4,24,24
+bot4,plastic_mission,Plastic,4.0,False,1,0,36,41.0,8,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,4.0,True,1,8,120,135.6,8,12
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,False,1,0,48,54.7,12,0
+bot1,refinery_mission,Metal,2.0,False,1,0,24,25.0,6,0
+bot2,refinery_mission,Metal,4.0,True,1,3,160,180.8,12,8
+bot3,data_vaults_mission,Silicon,4.0,True,2,4,200,224.0,16,16
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,Energy Recharge,Energy,2.45,True,1,0,0,0.0,0,0
+bot2,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,8
+bot2,plastic_mission,Plastic,8.0,True,1,16,240,271.2,16,24
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,12
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,4.0,True,1,4,160,179.2,12,8
+bot4,data_vaults_mission,Silicon,4.0,True,1,2,200,228.0,16,16
+bot1,plastic_mission,Plastic,8.0,True,1,15,240,249.6,16,16
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,plastic_mission,Plastic,8.0,True,1,8,240,249.6,16,24
+bot2,refinery_mission,Metal,4.0,True,2,8,160,180.8,12,8
+bot3,data_vaults_mission,Silicon,4.0,False,1,0,60,67.2,16,0
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,4
+bot1,plastic_mission,Plastic,4.0,True,1,5,120,124.8,8,8
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,Energy Recharge,Energy,2.5,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
+bot1,plastic_mission,Plastic,2.0,False,1,0,18,18.7,4,0
+bot2,Energy Recharge,Energy,1.75,True,1,0,0,0.0,0,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,8.0,True,1,4,400,416.0,32,32
+bot2,plastic_mission,Plastic,2.0,True,1,4,60,67.8,4,8
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,16
+bot4,plastic_mission,Plastic,4.0,True,1,8,120,136.8,8,16
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,plastic_mission,Plastic,2.0,False,1,0,18,20.3,4,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,16
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,8.0,True,1,5,400,452.0,32,32
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,Energy Recharge,Energy,3.0,True,1,0,0,0.0,0,0
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,refinery_mission,Metal,2.0,True,1,2,80,89.6,6,4
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,12
+bot1,data_vaults_mission,Silicon,2.0,True,1,2,100,104.0,8,8
+bot2,data_vaults_mission,Silicon,8.0,False,1,0,120,135.6,32,0
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot1,data_vaults_mission,Silicon,2.0,True,1,1,100,104.0,8,6
+bot2,Energy Recharge,Energy,2.0,True,1,0,0,0.0,0,0
+bot3,Energy Recharge,Energy,2.35,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,4.0,True,1,3,160,182.4,12,12
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,12
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,data_vaults_mission,Silicon,2.0,False,1,0,30,33.6,8,0
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,8
+bot1,plastic_mission,Plastic,4.0,True,1,6,120,124.8,8,12
+bot2,refinery_mission,Metal,8.0,True,1,8,320,361.6,24,16
+bot3,data_vaults_mission,Silicon,8.0,True,1,5,400,448.0,32,32
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,data_vaults_mission,Silicon,2.0,False,1,0,30,31.2,8,0
+bot2,refinery_mission,Metal,2.0,True,1,2,80,90.4,6,6
+bot3,data_vaults_mission,Silicon,8.0,False,1,0,120,134.4,32,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,data_vaults_mission,Silicon,8.0,True,1,4,400,452.0,32,32
+bot3,refinery_mission,Metal,4.0,True,1,3,160,179.2,12,16
+bot4,data_vaults_mission,Silicon,8.0,False,1,0,120,136.8,32,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,3,200,208.0,16,16
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,data_vaults_mission,Silicon,4.0,True,1,2,200,224.0,16,8
+bot4,refinery_mission,Metal,4.0,True,1,4,160,182.4,12,12
+bot1,plastic_mission,Plastic,8.0,True,1,9,240,249.6,16,16
+bot2,Energy Recharge,Energy,2.15,True,1,0,0,0.0,0,0
+bot3,plastic_mission,Plastic,4.0,True,1,5,120,134.4,8,8
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,refinery_mission,Metal,4.0,False,1,0,48,49.9,12,0
+bot2,data_vaults_mission,Silicon,4.0,False,1,0,60,67.8,16,0
+bot3,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot4,data_vaults_mission,Silicon,2.0,False,1,0,30,34.2,8,0
+bot1,Energy Recharge,Energy,2.7,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,8.0,False,1,0,72,80.6,16,0
+bot4,Energy Recharge,Energy,2.4,True,1,0,0,0.0,0,0
+bot1,plastic_mission,Plastic,2.0,True,1,5,60,62.4,4,6
+bot2,data_vaults_mission,Silicon,2.0,True,1,2,100,113.0,8,8
+bot3,plastic_mission,Plastic,4.0,False,1,0,36,40.3,8,0
+bot4,data_vaults_mission,Silicon,4.0,True,1,3,200,228.0,16,8
+bot1,refinery_mission,Metal,4.0,True,1,4,160,166.4,12,8
+bot2,refinery_mission,Metal,4.0,False,1,0,48,54.2,12,0
+bot3,data_vaults_mission,Silicon,8.0,True,1,6,400,448.0,32,16
+bot4,plastic_mission,Plastic,8.0,True,1,6,240,273.6,16,32
+bot1,refinery_mission,Metal,2.0,True,1,3,80,83.2,6,4
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,plastic_mission,Plastic,4.0,True,1,7,120,134.4,8,16
+bot4,data_vaults_mission,Silicon,2.0,True,1,2,100,114.0,8,4
+bot1,plastic_mission,Plastic,2.0,False,2,0,18,18.7,4,0
+bot2,refinery_mission,Metal,2.0,False,1,0,24,27.1,6,0
+bot3,refinery_mission,Metal,2.0,False,1,0,24,26.9,6,0
+bot4,refinery_mission,Metal,2.0,True,1,3,80,91.2,6,4
+bot1,data_vaults_mission,Silicon,4.0,False,1,0,60,62.4,16,0
+bot2,refinery_mission,Metal,8.0,False,1,0,96,108.5,24,0
+bot3,plastic_mission,Plastic,8.0,True,1,12,240,268.8,16,24
+bot4,plastic_mission,Plastic,8.0,True,1,16,240,273.6,16,24
+bot1,refinery_mission,Metal,8.0,False,2,0,96,99.8,24,0
+bot2,Energy Recharge,Energy,2.2,True,1,0,0,0.0,0,0
+bot3,refinery_mission,Metal,8.0,False,1,0,96,107.5,24,0
+bot4,refinery_mission,Metal,2.0,False,1,0,24,27.4,6,0
+bot1,data_vaults_mission,Silicon,4.0,True,1,2,200,208.0,16,12
+bot2,data_vaults_mission,Silicon,2.0,False,1,0,30,33.9,8,0
+bot3,Energy Recharge,Energy,2.75,True,1,0,0,0.0,0,0
+bot4,refinery_mission,Metal,8.0,True,1,6,320,364.8,24,16
+bot1,data_vaults_mission,Silicon,8.0,False,1,0,120,124.8,32,0
+bot2,plastic_mission,Plastic,8.0,False,1,0,72,81.4,16,0
+bot3,plastic_mission,Plastic,8.0,True,1,16,240,268.8,16,24
+bot4,Energy Recharge,Energy,2.3,True,1,0,0,0.0,0,0
+bot1,Energy Recharge,Energy,2.85,True,1,0,0,0.0,0,0
+bot2,plastic_mission,Plastic,2.0,True,1,5,60,67.8,4,6
+bot3,data_vaults_mission,Silicon,4.0,True,1,3,200,224.0,16,8
+bot4,data_vaults_mission,Silicon,4.0,False,1,0,60,68.4,16,0
