@@ -30,9 +30,9 @@ def Get_Layers ():
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [4,4,12,4,4,4,12,12,4,4,4,4,4,4,12,12]
+    BackGrounds_Rarity = [4,12,4,4,4,12,12,4,4,4,4,4,4,12,12]
     Base_Rarity = [21,22,5,3,22,23,4]
-    Torso_Rarity=[5,4,4,6,6,6,6,4,3,3,6,4,4,4,4,6,6,6,6,6,3,3]
+    Torso_Rarity=[5,4,4,6,6,6,6,4,3,6,4,4,4,4,6,6,6,6,6,3,3]
     FacialHair_Rarity=[8,8,8,8,7,50,8,3]
     Mouth_Rarity=[10,10,70,10]
     Facewear_Rarity = [3,3,2,2,3,1,5,55,3,6,8,4]
@@ -437,10 +437,12 @@ if __name__ == '__main__':
     input_path = base_dir/'Traits'
     output_path = base_dir/'Generations'
     json_out_path = base_dir/'Metadata'
-    
+    output_path_resized = base_dir/'Generations_Resized'
+
+    output_path.mkdir(parents=True,exist_ok=True)
     output_path.mkdir(parents=True, exist_ok=True)
     json_out_path.mkdir(parents=True, exist_ok=True)
-
+    
     ## foldering
 
     ## control
@@ -450,7 +452,7 @@ if __name__ == '__main__':
     ## adding 1on1s
     NFTs = Get_One_on_Ones()
     random.shuffle(NFTs)
-    number_of_ones = 9
+    number_of_ones = 0
     collection_number = 2101 
     position_list = random.sample(range(1, collection_number), number_of_ones)
     position_list.sort()
@@ -548,8 +550,9 @@ if __name__ == '__main__':
 
             NFT_Facewear = 'None.png'
 
-        NFT_FacialHair = FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Head)
+        
         NFT_Head, NFT_WholeBody = Facewear_Conflicts (NFT_Head, Head, Head_Rarity, NFT_Facewear, NFT_WholeBody)
+        NFT_FacialHair = FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Head)
 
         if (NFT_WholeBody != 'None.png'):
 
@@ -575,6 +578,9 @@ if __name__ == '__main__':
 
             NFT_Expression = 'Rest.png'
         
+        if (NFT_FacialHair in['Duck tail black.png', 'Duck tail brown.png','Full beard black.png','Full beard brown.png'] and NFT_Expression in ['Smile.png', 'Wink.png']):
+
+            NFT_Expression = 'Rest.png'
         ##other controls
         ##import final images
 
@@ -652,5 +658,8 @@ if __name__ == '__main__':
 
         with open(rf'{json_out_path}/Rug_Lord #{i}.json', 'w') as json_print:  # Nota el uso de 'with', que es una buena práctica para manejar archivos
             json.dump(metadata, json_print, indent=4)
+        
+        final_resized = final.resize((480, 480), Image.NEAREST)
+        final_resized.save(f'{output_path_resized}/Rug_Lord #{i}.png')
         print (rf"Rug Lord #{i}")
         i+=1
