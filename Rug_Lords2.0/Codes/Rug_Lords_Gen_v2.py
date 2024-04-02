@@ -564,14 +564,17 @@ if __name__ == '__main__':
 
         if NFT_Mouth != 'None':
             
-            NFT_Hand = random.choices(['OR Rune.png','OR Staff.png', 'None.png','Staff.png'],weights=(10,10,30,10))[0]
+            NFT_Hand = random.choices(['OR Rune.png', 'None.png'],weights=(10,30))[0]
         
         if NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 
             NFT_Hand = random.choices(['OR Rune.png','None.png'],weights=(10,50))[0]
             NFT_Mouth = 'None.png'
 
+        if (NFT_Facewear in ['Pac-Man mask.png','Btc mask.png','Gox mask.png'] and NFT_Expression in ['Smile.png','Wink.png']):
 
+            NFT_Expression = 'Rest.png'
+        
         ##other controls
         ##import final images
 
