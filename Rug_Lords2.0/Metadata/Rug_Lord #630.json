@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Bazar"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "None"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb navy"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

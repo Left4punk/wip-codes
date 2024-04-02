@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Bazar"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

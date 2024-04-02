@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

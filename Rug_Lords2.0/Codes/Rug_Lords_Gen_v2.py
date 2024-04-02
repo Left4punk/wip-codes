@@ -31,8 +31,8 @@ def Get_Layers ():
 def Get_Rarities ():
     
     BackGrounds_Rarity = [4,4,12,4,4,4,12,12,4,4,4,4,4,4,12,12]
-    Base_Rarity = [25,5,5,30,30,5]
-    Torso_Rarity=[4,4,6,6,6,6,4,3,3,6,4,5,4,4,4,6,6,6,6,6,3,3]
+    Base_Rarity = [21,22,5,3,22,23,4]
+    Torso_Rarity=[5,4,4,6,6,6,6,4,3,3,6,4,4,4,4,6,6,6,6,6,3,3]
     FacialHair_Rarity=[8,8,8,8,7,50,8,3]
     Mouth_Rarity=[10,10,70,10]
     Facewear_Rarity = [5,3,3,2,2,3,1,5,55,3,6,8,4]
@@ -78,13 +78,13 @@ def Get_NFT_Hands_Expression(Base):
 
     Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    Hand_Rarity = [2,78,4,1,3,2,5,2]
+    Hand_Rarity = [2,77,4,4,1,3,2,5,2]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
 
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
     Expression = [f for f in listdir(Expression_Path) if isfile(join(Expression_Path, f))]
 
-    if (Base == 'Black' or Base == 'Tan' or Base == 'White'):
+    if (Base == 'Black' or Base == 'Tan' or Base == 'White' or Base == 'Brown'):
         Expression_Rarity = [10,10,10,10,10]
     elif (Base == 'Zombie' or Base == 'Ghost'):
         Expression_Rarity = [10,10,10]
@@ -317,6 +317,50 @@ def get_NFT_hand (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, 
     return final
 
 
+def get_NFT_mouth (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, Image_FacialHair, Image_Mouth, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand):
+    
+   
+    BackGround_Image = Image.open(Image_BackGrounds).convert("RGBA")
+    
+    Base_Image = Image.open(Image_Base).convert("RGBA")
+
+    int1 = Image.alpha_composite(BackGround_Image, Base_Image)
+    
+    Expression_Image = Image.open(Image_Expression).convert("RGBA")
+
+    int2 = Image.alpha_composite(int1, Expression_Image)
+    
+    Torso_Image = Image.open(Image_Torso).convert("RGBA")
+
+    int3 = Image.alpha_composite(int2, Torso_Image)
+    
+    FacialHair_Image = Image.open(Image_FacialHair).convert("RGBA")
+
+    int4 = Image.alpha_composite(int4, Mouth_Image)
+    
+    Facewear_Image = Image.open(Image_Facewear).convert("RGBA")
+
+    int5 = Image.alpha_composite(int4, FacialHair_Image)
+    
+    Mouth_Image = Image.open(Image_Mouth).convert("RGBA")
+
+    int6 = Image.alpha_composite(int5, Facewear_Image)
+    
+    Head_Image = Image.open(Image_Head).convert("RGBA")
+    
+    int7 = Image.alpha_composite(int6, Head_Image)
+    
+    WholeBody_Image = Image.open(Image_WholeBody).convert("RGBA")    
+    
+    int8 = Image.alpha_composite(int7, WholeBody_Image)
+    
+    Hand_Image = Image.open(Image_Hand).convert("RGBA")     
+
+    final = Image.alpha_composite(int8, Hand_Image)
+
+    return final
+
+
 
 def  get_One_on_One (NFTs, position_list):
         
@@ -407,7 +451,7 @@ if __name__ == '__main__':
     NFTs = Get_One_on_Ones()
     random.shuffle(NFTs)
     number_of_ones = 9
-    collection_number = 1001 
+    collection_number = 2101 
     position_list = random.sample(range(1, collection_number), number_of_ones)
     position_list.sort()
     
@@ -438,7 +482,7 @@ if __name__ == '__main__':
             i+=1
             continue
         
-        special_hand_number = random.randint(1,12)
+        special_hand_number = random.randint(1,10)
             
         ## getting layers & rarities per run ##
         BackGrounds, Base, Torso, FacialHair, Mouth, Facewear, Head, WholeBody = Get_Layers ()
@@ -451,7 +495,7 @@ if __name__ == '__main__':
         NFT_BackGrounds, NFT_Base, NFT_Torso,  NFT_FacialHair, NFT_Mouth, NFT_Facewear, NFT_Head, NFT_WholeBody = NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity, Torso, Torso_Rarity,
                                                                                                                                                               Mouth, Mouth_Rarity, FacialHair, FacialHair_Rarity, Facewear, Facewear_Rarity,
                                                                                                                                                                       Head, Head_Rarity, WholeBody, WholeBody_Rarity)
-
+        
         NFT_Hand, NFT_Expression = Get_NFT_Hands_Expression(NFT_Base)
 
         ##get first layers
@@ -464,6 +508,8 @@ if __name__ == '__main__':
     
         ADN_List, control = control_ADN(NFT_BackGrounds, NFT_Base, NFT_Expression, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand)
         if control: continue
+
+        
 
         ## control
         ##full restrictive controls
@@ -508,7 +554,7 @@ if __name__ == '__main__':
         if (NFT_WholeBody != 'None.png'):
 
             NFT_Head = 'None.png'
-            NFT_Torso = 'None.png'
+            NFT_Torso = 'Bald.png'
             NFT_Facewear = 'None.png'
 
         if (NFT_Base in ['Cyborg.png','Ghost.png','Zombie.png'] or NFT_Facewear in ['Pac-Man mask.png','Btc mask.png','Gox mask.png']):
@@ -547,6 +593,9 @@ if __name__ == '__main__':
 
         if (NFT_Mouth != 'None.png' and NFT_Hand != 'None.png'):
             final = get_NFT_hand(Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, Image_FacialHair, Image_Mouth, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand)
+        
+        elif (NFT_Mouth != 'None.png'):
+            final = get_NFT_mouth(Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, Image_FacialHair, Image_Mouth, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand)
         else:
             final = get_NFT_main (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso, Image_FacialHair, Image_Mouth, Image_Facewear, Image_Head, Image_WholeBody, Image_Hand)
 
