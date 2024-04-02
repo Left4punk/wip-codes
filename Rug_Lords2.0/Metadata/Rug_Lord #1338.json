@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Admiration"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Taqiyah blue"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

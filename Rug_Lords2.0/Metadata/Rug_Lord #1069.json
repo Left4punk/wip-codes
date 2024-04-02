@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1069",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Vest beige"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

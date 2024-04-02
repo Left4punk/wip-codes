@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1068",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Olive"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Rug life shirt"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Beanie orange"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

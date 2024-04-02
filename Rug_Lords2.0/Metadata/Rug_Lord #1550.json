@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1550",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Admiration"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Wizard robe 1"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Short hair brown"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

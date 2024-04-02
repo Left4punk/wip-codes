@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1054",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Binary purple"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Vest purple"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Stubble black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

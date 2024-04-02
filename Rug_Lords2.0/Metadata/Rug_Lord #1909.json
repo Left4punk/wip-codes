@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1909",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Beige"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Meme glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

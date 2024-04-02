@@ -35,7 +35,7 @@ def Get_Rarities ():
     Torso_Rarity=[5,4,4,6,6,6,6,4,3,3,6,4,4,4,4,6,6,6,6,6,3,3]
     FacialHair_Rarity=[8,8,8,8,7,50,8,3]
     Mouth_Rarity=[10,10,70,10]
-    Facewear_Rarity = [5,3,3,2,2,3,1,5,55,3,6,8,4]
+    Facewear_Rarity = [3,3,2,2,3,1,5,55,3,6,8,4]
     Head_Rarity = [4,4,4,4,4,4,3,3,3,2,4,4,4,4,4,3,4,2,4,5,2,3,3,3,3,4,4,4,4,2,2,1,1]
     WholeBody_Rarity = [1,1,85,1,2,2,2,2,2,2]
     
@@ -78,7 +78,7 @@ def Get_NFT_Hands_Expression(Base):
 
     Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    Hand_Rarity = [2,77,4,4,1,3,2,5,2]
+    Hand_Rarity = [2,77,4,7,1,3,2,5,2]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
 
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
@@ -142,7 +142,7 @@ def FacialHair_Conflicts (NFT_FacialHair, FacialHair, FacialHair_Rarity, NFT_Hea
 
         NFT_FacialHair = random.choices(FacialHair,weights=(FacialHair_Rarity))[0]
 
-    elif NFT_Head in ['Emamah.png', 'Flow hair black.png', 'Mullet black.png', 'Short hair black.png', 'Side part hair black.png']:
+    elif NFT_Head in ['Emamah.png', 'Flow hair black.png', 'Mullet black.png', 'Short hair black.png', 'Side part hair black.png','Long.png']:
 
         conflict_FacialHair = ['Duck tail brown.png', 'Full beard brown.png']
 
@@ -336,15 +336,15 @@ def get_NFT_mouth (Image_BackGrounds, Image_Base, Image_Expression, Image_Torso,
     
     FacialHair_Image = Image.open(Image_FacialHair).convert("RGBA")
 
-    int4 = Image.alpha_composite(int4, Mouth_Image)
+    int4 = Image.alpha_composite(int3, FacialHair_Image)
     
     Facewear_Image = Image.open(Image_Facewear).convert("RGBA")
 
-    int5 = Image.alpha_composite(int4, FacialHair_Image)
+    int5 = Image.alpha_composite(int4, Facewear_Image)
     
     Mouth_Image = Image.open(Image_Mouth).convert("RGBA")
 
-    int6 = Image.alpha_composite(int5, Facewear_Image)
+    int6 = Image.alpha_composite(int5, Mouth_Image)
     
     Head_Image = Image.open(Image_Head).convert("RGBA")
     
@@ -564,7 +564,7 @@ if __name__ == '__main__':
 
         if NFT_Mouth != 'None':
             
-            NFT_Hand = random.choices(['OR Rune.png','None.png','Staff.png'],weights=(10,50,10))[0]
+            NFT_Hand = random.choices(['OR Rune.png','OR Staff.png', 'None.png','Staff.png'],weights=(10,10,30,10))[0]
         
         if NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 

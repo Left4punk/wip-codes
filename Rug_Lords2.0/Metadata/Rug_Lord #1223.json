@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1223",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cemetery"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Duck tail black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Reading glasses "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cap black"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

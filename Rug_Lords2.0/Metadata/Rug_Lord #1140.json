@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cemetery"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rest"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Wizard robe 1"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Reading glasses "
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

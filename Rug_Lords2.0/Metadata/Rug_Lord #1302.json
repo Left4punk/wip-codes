@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cemetery"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rest"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Vest purple"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Goatee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "White turban"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

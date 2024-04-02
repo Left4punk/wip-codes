@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1046",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Wink"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Btc shirt green"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet black"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

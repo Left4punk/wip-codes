@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1090",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Binary code"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Full beard brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cap black"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

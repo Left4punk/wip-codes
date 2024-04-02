@@ -1,0 +1,45 @@
+{
+    "name": "Rug_Lord #1595",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Alarmed"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Stubble white"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Side part hair brown"
+        },
+        {
+            "trait_type": "Whole Body",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
