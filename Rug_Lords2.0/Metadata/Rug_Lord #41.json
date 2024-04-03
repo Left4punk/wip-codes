@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Laser eyes red"
+        },
+        {
             "trait_type": "Head",
-            "value": "Red turban"
+            "value": "Taqiyah red"
         },
         {
             "trait_type": "Whole Body",

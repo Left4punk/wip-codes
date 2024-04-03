@@ -81,7 +81,7 @@ def Get_NFT_Hands_Expression(Base):
 
     if (Base in ['White','Tan','Brown','Black']):
 
-        Hand_Rarity = [2,77,2,5,5,5,5,4,4,2,5,4,6,4]
+        Hand_Rarity = [4,50,2,6,6,6,6,6,6,6,6,6,6,6]
     else:
         Hand_Rarity = [2,77,2,5,1,1,1,5,4,6,4]
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
