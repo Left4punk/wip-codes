@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",

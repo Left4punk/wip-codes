@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Short hair black"
         },
         {
             "trait_type": "Whole Body",

@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Wizard robe 1"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

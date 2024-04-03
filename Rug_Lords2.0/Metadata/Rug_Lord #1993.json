@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Pac-Man mask"
+        },
+        {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

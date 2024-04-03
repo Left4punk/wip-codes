@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

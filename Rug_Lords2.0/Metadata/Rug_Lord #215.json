@@ -7,23 +7,23 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb navy"
         },
         {
             "trait_type": "1/1",

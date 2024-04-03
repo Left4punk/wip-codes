@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

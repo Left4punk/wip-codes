@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Golden aba"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short hair black"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb navy"
         },
         {
             "trait_type": "1/1",

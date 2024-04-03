@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

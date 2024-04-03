@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

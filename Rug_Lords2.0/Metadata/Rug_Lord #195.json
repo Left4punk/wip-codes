@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "Dordir"
         },
         {
             "trait_type": "Whole Body",

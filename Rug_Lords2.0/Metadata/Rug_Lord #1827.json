@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

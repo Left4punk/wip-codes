@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",

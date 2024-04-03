@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

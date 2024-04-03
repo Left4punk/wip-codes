@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

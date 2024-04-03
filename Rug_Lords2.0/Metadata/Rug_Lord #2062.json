@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy hat"
+            "value": "Cap purple"
         },
         {
             "trait_type": "Whole Body",

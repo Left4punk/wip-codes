@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Laser eyes red"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

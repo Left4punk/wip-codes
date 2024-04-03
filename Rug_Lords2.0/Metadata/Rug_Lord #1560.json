@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mullet blue"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

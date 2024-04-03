@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

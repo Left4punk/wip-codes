@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

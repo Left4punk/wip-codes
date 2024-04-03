@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",

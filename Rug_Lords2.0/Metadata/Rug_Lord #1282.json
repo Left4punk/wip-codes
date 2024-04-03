@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Wizard robe 2"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

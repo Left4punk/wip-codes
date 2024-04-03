@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Wizard hat 1"
         },
         {
             "trait_type": "Whole Body",

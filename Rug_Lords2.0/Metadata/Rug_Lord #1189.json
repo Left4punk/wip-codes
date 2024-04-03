@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",

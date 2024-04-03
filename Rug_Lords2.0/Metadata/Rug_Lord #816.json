@@ -7,31 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

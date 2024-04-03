@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

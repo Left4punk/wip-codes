@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",

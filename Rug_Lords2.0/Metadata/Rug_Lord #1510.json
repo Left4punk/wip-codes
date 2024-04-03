@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Reading glasses "
+        },
+        {
             "trait_type": "Head",
-            "value": "Red turban"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

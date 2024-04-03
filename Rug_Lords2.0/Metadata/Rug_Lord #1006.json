@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Short hair black"
         },
         {
             "trait_type": "Whole Body",

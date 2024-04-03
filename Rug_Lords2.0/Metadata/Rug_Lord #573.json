@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Black shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

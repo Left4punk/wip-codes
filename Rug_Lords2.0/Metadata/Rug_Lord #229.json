@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

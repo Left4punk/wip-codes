@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",

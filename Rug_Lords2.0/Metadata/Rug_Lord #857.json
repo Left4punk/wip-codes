@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb beige"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

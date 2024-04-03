@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah red"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

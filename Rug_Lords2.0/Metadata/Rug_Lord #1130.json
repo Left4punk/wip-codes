@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "White turban"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

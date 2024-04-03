@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

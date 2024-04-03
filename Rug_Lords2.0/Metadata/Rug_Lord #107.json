@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Vision Pro"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",

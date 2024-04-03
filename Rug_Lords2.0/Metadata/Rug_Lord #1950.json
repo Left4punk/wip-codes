@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

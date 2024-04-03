@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "Laser eyes cyan"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",

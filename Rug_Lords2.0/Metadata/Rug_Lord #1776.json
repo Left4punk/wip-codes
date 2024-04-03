@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Khaki cloak"
         },
         {
             "trait_type": "1/1",

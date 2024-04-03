@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Whole Body",

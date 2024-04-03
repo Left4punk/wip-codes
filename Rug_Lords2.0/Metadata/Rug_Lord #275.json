@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

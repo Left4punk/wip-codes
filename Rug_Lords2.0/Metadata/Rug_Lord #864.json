@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Btc shirt light grey"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

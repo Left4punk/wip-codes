@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "Taqiyah red"
         },
         {
             "trait_type": "Whole Body",

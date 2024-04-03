@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Side part hair brown"
         },
         {
             "trait_type": "Whole Body",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,11 +23,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Pac-Man mask"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",

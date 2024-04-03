@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "Laser eyes cyan"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Dordir"
         },
         {
             "trait_type": "Whole Body",

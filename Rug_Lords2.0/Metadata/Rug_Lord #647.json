@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",

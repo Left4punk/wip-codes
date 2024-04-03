@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Btc shirt light grey"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Dreads"
         },
         {
             "trait_type": "Whole Body",

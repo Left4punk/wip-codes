@@ -7,23 +7,23 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

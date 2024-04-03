@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Dordir"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

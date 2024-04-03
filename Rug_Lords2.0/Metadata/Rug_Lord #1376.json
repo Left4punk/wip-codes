@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb white"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

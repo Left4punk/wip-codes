@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

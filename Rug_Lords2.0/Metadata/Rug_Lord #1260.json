@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

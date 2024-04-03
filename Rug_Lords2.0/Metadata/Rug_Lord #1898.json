@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Short hair black"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

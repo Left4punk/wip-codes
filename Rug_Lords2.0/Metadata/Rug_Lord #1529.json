@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

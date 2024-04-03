@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

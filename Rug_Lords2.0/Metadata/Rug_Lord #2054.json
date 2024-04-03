@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "value": "Taqiyah red"
         },
         {
             "trait_type": "Whole Body",

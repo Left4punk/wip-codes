@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

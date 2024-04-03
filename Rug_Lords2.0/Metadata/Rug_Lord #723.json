@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah red"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

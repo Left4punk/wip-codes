@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",

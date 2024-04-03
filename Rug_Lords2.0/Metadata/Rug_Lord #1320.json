@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Meme glasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Cowboy hat"
+            "value": "Dordir"
         },
         {
             "trait_type": "Whole Body",

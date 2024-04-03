@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "Gox mask"
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

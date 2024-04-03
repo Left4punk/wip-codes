@@ -7,7 +7,7 @@
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Meme glasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Whole Body",

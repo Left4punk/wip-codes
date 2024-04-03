@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "Gox mask"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

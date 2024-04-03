@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

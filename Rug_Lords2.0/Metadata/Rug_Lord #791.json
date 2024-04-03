@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Btc mask"
+        },
+        {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

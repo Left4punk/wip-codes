@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Btc shirt light grey"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

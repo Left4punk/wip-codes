@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Whole Body",

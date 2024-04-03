@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

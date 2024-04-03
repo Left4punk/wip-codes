@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Laser eyes green"
+        },
+        {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

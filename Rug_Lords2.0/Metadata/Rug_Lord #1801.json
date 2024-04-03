@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",

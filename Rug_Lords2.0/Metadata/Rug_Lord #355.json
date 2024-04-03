@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Red turban"
         },
         {
             "trait_type": "Whole Body",

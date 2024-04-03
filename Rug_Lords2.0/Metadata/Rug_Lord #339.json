@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Laser eyes green"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair brown"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

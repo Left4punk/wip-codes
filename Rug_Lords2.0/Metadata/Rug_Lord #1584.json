@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
@@ -19,19 +19,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

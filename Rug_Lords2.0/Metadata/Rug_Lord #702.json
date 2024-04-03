@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb black"
         },
         {
             "trait_type": "1/1",

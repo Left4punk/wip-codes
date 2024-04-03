@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -19,11 +19,11 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair black"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

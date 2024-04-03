@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb green"
         },
         {
             "trait_type": "1/1",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Wizard hat 1"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

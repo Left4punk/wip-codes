@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

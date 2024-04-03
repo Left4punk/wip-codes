@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
@@ -19,19 +19,19 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Flow hair black"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

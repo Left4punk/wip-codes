@@ -7,19 +7,19 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Khaki cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

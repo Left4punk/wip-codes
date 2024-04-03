@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

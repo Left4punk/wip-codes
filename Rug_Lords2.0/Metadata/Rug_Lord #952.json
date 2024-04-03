@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dordir"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Laser eyes red"
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap green"
+            "value": "Cap black"
         },
         {
             "trait_type": "Whole Body",

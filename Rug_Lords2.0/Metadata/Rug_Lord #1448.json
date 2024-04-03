@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",

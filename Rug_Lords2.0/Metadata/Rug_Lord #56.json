@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Gox mask"
+        },
+        {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

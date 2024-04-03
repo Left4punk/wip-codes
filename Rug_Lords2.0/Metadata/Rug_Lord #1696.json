@@ -7,31 +7,31 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

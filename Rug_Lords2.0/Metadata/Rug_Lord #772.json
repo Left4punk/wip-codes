@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes green"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy hat"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

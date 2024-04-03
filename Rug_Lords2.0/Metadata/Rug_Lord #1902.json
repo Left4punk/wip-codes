@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Beanie green"
         },
         {
             "trait_type": "Whole Body",

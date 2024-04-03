@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

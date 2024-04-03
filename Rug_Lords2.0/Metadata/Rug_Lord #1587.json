@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

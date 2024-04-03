@@ -78,9 +78,14 @@ def Get_NFT_Hands_Expression(Base):
 
     Hand_Path = f"{input_path}/9 - Hand/{Base}/"
     Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
-    Hand_Rarity = [2,77,4,7,1,3,2,5,2]
-    NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
 
+    if (Base in ['White','Tan','Brown','Black']):
+
+        Hand_Rarity = [2,77,2,5,5,5,5,4,4,2,5,4,6,4]
+    else:
+        Hand_Rarity = [2,77,2,5,1,1,1,5,4,6,4]
+    NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
+    
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
     Expression = [f for f in listdir(Expression_Path) if isfile(join(Expression_Path, f))]
 
@@ -581,6 +586,16 @@ if __name__ == '__main__':
         if (NFT_FacialHair in['Duck tail black.png', 'Duck tail brown.png','Full beard black.png','Full beard brown.png'] and NFT_Expression in ['Smile.png', 'Wink.png']):
 
             NFT_Expression = 'Rest.png'
+        
+        if (NFT_Base in ['Ghost.png','Cyborg.png'] and NFT_FacialHair != 'None.png'):
+            
+            NFT_FacialHair = 'None.png'
+
+        if (NFT_Base == 'Ghost.png' and NFT_Mouth == 'Cigar.png'):
+
+            NFT_Mouth = 'None.png'
+
+        
         ##other controls
         ##import final images
 

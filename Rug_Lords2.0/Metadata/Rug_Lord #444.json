@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

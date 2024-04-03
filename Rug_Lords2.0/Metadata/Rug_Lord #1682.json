@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Cap purple"
         },
         {
             "trait_type": "Whole Body",

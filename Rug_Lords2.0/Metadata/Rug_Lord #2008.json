@@ -3,31 +3,31 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes green"
         },
         {
             "trait_type": "Head",

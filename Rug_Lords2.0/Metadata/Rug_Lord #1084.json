@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

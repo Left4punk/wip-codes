@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Cap black"
         },
         {
             "trait_type": "Whole Body",

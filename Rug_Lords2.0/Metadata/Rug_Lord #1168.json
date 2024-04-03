@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "OR poncho "
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Pac-Man mask"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

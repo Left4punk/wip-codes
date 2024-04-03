@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

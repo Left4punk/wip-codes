@@ -7,11 +7,11 @@
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "Blue cloak"
         },
         {
             "trait_type": "1/1",

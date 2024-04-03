@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Laser eyes cyan"
+        },
+        {
             "trait_type": "Head",
-            "value": "Short hair black"
+            "value": "Cap purple"
         },
         {
             "trait_type": "Whole Body",

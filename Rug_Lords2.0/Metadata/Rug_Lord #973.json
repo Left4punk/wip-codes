@@ -7,23 +7,23 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Emamah"
+            "value": "Cap black"
         },
         {
             "trait_type": "Whole Body",

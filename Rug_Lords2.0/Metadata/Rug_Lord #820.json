@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Blue shirt with chain "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet blue"
+            "value": "Fedora"
         },
         {
             "trait_type": "Whole Body",

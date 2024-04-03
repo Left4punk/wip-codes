@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Headband"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

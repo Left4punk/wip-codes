@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "Turban"
         },
         {
             "trait_type": "Whole Body",

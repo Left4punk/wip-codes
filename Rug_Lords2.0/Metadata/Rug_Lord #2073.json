@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet blue"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

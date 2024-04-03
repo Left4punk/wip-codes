@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

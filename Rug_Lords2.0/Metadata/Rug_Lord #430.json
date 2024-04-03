@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Long"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Purple cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

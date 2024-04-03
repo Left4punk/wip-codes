@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Cap purple"
         },
         {
             "trait_type": "Whole Body",

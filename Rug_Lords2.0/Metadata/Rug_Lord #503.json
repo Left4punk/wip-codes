@@ -3,31 +3,31 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Pac-Man mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb white"
         },
         {
             "trait_type": "1/1",

@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

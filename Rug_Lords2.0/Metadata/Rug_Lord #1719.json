@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Gold jacket"
+            "value": "Suit"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair black"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

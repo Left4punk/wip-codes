@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Short hair brown"
         },
         {
             "trait_type": "Whole Body",

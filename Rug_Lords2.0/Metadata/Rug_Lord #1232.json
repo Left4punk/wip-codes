@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

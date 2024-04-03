@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",

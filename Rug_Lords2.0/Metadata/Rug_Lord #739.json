@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
@@ -11,11 +11,11 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

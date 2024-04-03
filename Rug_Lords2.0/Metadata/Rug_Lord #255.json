@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Fedora"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

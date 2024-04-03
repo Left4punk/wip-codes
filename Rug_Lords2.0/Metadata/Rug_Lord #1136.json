@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bazar"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt black "
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

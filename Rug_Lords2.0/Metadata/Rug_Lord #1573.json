@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Cemetery"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Wizard robe 1"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
+            "value": "Dreads"
         },
         {
             "trait_type": "Whole Body",

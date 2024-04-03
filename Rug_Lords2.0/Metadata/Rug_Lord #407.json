@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Sunglasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",

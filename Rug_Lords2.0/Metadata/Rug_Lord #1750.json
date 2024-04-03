@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

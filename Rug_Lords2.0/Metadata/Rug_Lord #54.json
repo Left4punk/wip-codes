@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Btc shirt orange"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",

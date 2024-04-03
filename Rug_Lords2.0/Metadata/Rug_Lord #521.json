@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Long"
+            "value": "Cap green"
         },
         {
             "trait_type": "Whole Body",

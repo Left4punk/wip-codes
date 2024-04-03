@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Khaki cloak"
         },
         {
             "trait_type": "1/1",

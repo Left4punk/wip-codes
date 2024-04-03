@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Rug life shirt"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Emamah"
+            "value": "Wizard hat 2"
         },
         {
             "trait_type": "Whole Body",

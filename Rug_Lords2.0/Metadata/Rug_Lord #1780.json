@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Rug Rain"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,15 +27,15 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

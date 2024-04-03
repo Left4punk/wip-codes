@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Mullet blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb green"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

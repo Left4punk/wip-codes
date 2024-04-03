@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Cap purple"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

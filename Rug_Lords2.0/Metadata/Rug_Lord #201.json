@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest green"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Red turban"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

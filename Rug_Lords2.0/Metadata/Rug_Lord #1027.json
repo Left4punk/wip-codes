@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Desert"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Btc shirt light grey"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Laser eyes red"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah red"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

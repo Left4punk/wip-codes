@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Orange"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Full beard black"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
+            "value": "White turban"
         },
         {
             "trait_type": "Whole Body",

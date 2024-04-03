@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "Laser eyes cyan"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "Taqiyah beige"
         },
         {
             "trait_type": "Whole Body",

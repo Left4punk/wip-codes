@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",

@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
@@ -11,19 +11,19 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Short hair black"
+            "value": "Taqiyah red"
         },
         {
             "trait_type": "Whole Body",

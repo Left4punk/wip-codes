@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest purple"
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Cowboy hat"
+            "value": "Flow hair black"
         },
         {
             "trait_type": "Whole Body",

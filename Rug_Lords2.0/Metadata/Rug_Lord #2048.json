@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Green Aba"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Gox mask"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Dreads"
         },
         {
             "trait_type": "Whole Body",

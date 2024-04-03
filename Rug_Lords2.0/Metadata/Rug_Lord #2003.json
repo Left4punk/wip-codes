@@ -3,23 +3,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb white"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

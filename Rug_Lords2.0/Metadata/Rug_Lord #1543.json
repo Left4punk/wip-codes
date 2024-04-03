@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Luna"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Dordir"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Blue cloak"
         },
         {
             "trait_type": "1/1",

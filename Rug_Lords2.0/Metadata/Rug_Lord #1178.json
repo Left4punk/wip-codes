@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,23 +15,23 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair black"
+            "value": "Mullet black"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,11 +23,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigarette"
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
         },
         {
             "trait_type": "Head",

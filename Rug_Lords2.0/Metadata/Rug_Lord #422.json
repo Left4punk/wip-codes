@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary code"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Blue shirt with chain "
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Short hair brown"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

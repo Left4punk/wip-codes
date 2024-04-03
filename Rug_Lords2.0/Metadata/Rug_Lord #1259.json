@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Binary code"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Dreads"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

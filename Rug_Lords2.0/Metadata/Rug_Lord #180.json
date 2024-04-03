@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Binary purple"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb black"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

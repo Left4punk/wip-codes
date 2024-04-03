@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Laser eyes orange"
         },
         {
             "trait_type": "Head",
-            "value": "Mullet brown"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

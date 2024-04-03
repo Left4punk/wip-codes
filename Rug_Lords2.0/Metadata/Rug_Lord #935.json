@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Beanie blue"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb navy"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

@@ -7,15 +7,15 @@
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Reading glasses "
+        },
+        {
             "trait_type": "Head",
-            "value": "Taqiyah dark green"
+            "value": "Headband"
         },
         {
             "trait_type": "Whole Body",

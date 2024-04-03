@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt orange"
+            "value": "Rug life shirt"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Full beard brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Side part hair black"
         },
         {
             "trait_type": "Whole Body",

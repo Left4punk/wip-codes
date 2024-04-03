@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Full beard brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "Meme glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "Side part hair brown"
         },
         {
             "trait_type": "Whole Body",

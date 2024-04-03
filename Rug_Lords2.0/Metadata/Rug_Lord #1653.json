@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Thobe black"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail black"
         },
         {
             "trait_type": "Mouth",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Side part hair black"
+            "value": "Fez"
         },
         {
             "trait_type": "Whole Body",

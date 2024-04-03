@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Tan"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,15 +23,15 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Meme glasses"
+            "value": "Reading glasses "
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

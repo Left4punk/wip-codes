@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
-            "value": "Ghost"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Stubble black"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Side part hair brown"
         },
         {
             "trait_type": "Whole Body",

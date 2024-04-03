@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Cyborg"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Wizard hat 2"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Blue cloak"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

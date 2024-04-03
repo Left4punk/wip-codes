@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Wizard robe 1"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Goatee"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Emamah"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb beige"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

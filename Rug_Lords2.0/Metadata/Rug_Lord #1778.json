@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes cyan"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah blue"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

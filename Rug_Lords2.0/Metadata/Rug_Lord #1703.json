@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Vest beige"
+            "value": "Bald"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
+            "value": "Stubble white"
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
-            "value": "Reading glasses "
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie orange"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

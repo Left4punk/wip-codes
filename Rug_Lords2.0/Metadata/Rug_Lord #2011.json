@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "OR poncho "
+            "value": "Btc shirt green"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Duck tail brown"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes green"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie blue"
+            "value": "Cap black"
         },
         {
             "trait_type": "Whole Body",

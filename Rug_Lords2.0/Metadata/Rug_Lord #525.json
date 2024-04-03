@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Olive"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Black"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Smile"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Pipe"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Laser eyes red"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie green"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

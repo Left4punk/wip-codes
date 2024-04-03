@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beige"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Taqiyah beige"
+            "value": "Dreads"
         },
         {
             "trait_type": "Whole Body",

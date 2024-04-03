@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Mosque"
         },
         {
             "trait_type": "Base",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb beige"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

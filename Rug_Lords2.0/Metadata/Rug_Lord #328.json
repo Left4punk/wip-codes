@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Rug Rain"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe white"
+            "value": "Wizard robe 2"
         },
         {
             "trait_type": "Facial Hair",
@@ -23,11 +23,11 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",

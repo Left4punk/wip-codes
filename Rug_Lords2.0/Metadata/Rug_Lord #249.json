@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Luna"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb navy"
+            "value": "Thawb dark red"
         },
         {
             "trait_type": "1/1",

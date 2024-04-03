@@ -3,27 +3,27 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cemetery"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Green Aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "None"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Pipe"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",

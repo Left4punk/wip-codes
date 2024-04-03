@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Btc shirt beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Pipe"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Laser eyes orange"
+        },
+        {
             "trait_type": "Head",
-            "value": "Short hair black"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

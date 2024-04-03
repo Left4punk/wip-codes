@@ -3,11 +3,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Olive"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Btc mask"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",

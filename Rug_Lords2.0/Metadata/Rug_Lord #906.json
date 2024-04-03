@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Beach"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt light grey"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "None"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Cap black"
+            "value": "Beanie orange"
         },
         {
             "trait_type": "Whole Body",

@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Zombie"
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Suit"
+            "value": "Btc shirt black "
         },
         {
             "trait_type": "Facial Hair",
@@ -23,7 +23,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Pipe"
+            "value": "None"
         },
         {
             "trait_type": "Facewear",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Turban"
+            "value": "Taqiyah dark green"
         },
         {
             "trait_type": "Whole Body",

@@ -3,35 +3,35 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "White"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt green"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "None"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cigar"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Facewear",
+            "value": "Meme glasses"
+        },
+        {
             "trait_type": "Head",
-            "value": "Dordir"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

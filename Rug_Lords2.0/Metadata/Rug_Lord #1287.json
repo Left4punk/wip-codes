@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Alarmed"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Btc shirt beige"
+            "value": "Golden aba"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble white"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Cigarette"
-        },
-        {
-            "trait_type": "Facewear",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Facewear",
+            "value": "Reading glasses "
+        },
+        {
             "trait_type": "Head",
-            "value": "Long"
+            "value": "Dreads"
         },
         {
             "trait_type": "Whole Body",

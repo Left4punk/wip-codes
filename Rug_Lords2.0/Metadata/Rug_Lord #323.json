@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Beige"
         },
         {
             "trait_type": "Base",
-            "value": "Zombie"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Black shirt with chain "
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,7 +31,7 @@
         },
         {
             "trait_type": "Head",
-            "value": "Mullet black"
+            "value": "Taqiyah blue"
         },
         {
             "trait_type": "Whole Body",

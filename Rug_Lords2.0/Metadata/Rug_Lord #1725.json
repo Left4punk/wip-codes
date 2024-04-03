@@ -3,15 +3,15 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Night sky"
+            "value": "Oasis"
         },
         {
             "trait_type": "Base",
-            "value": "Brown"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Admiration"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Pac-Man mask"
+            "value": "None"
         },
         {
             "trait_type": "Head",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "None"
+            "value": "Thawb navy"
         },
         {
             "trait_type": "1/1",

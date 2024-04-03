@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -11,27 +11,27 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Wink"
+            "value": "Rest"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail brown"
-        },
-        {
-            "trait_type": "Mouth",
             "value": "None"
         },
         {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+        },
+        {
             "trait_type": "Facewear",
-            "value": "Sunglasses"
+            "value": "Pac-Man mask"
         },
         {
             "trait_type": "Head",
-            "value": "Wizard hat 1"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

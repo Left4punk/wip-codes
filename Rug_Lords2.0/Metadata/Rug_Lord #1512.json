@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oasis"
+            "value": "Night sky"
         },
         {
             "trait_type": "Base",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Thobe black"
+            "value": "Thobe white"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Duck tail black"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Fez"
+            "value": "Mullet brown"
         },
         {
             "trait_type": "Whole Body",

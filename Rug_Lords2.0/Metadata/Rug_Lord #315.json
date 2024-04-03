@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Binary purple"
+            "value": "Desert"
         },
         {
             "trait_type": "Base",
-            "value": "Cyborg"
+            "value": "Brown"
         },
         {
             "trait_type": "Expression",
-            "value": "Smile"
+            "value": "Alarmed"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Vest beige"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Laser eyes orange"
+            "value": "Btc mask"
         },
         {
             "trait_type": "Head",
-            "value": "Flow hair brown"
+            "value": "None"
         },
         {
             "trait_type": "Whole Body",

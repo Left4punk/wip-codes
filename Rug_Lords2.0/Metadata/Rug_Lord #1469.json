@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cyan"
+            "value": "Dark blue"
         },
         {
             "trait_type": "Base",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Admiration"
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Gold jacket"
         },
         {
             "trait_type": "Facial Hair",
@@ -31,11 +31,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Cowboy hat"
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb navy"
+            "value": "None"
         },
         {
             "trait_type": "1/1",

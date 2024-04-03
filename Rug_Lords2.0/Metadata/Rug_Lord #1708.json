@@ -3,19 +3,19 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Mosque"
+            "value": "Cyan"
         },
         {
             "trait_type": "Base",
-            "value": "Tan"
+            "value": "Ghost"
         },
         {
             "trait_type": "Expression",
-            "value": "Rest"
+            "value": "Wink"
         },
         {
             "trait_type": "Torso",
-            "value": "Lavish"
+            "value": "Vest green"
         },
         {
             "trait_type": "Facial Hair",
@@ -27,11 +27,11 @@
         },
         {
             "trait_type": "Facewear",
-            "value": "Pac-Man mask"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "None"
+            "value": "Flow hair brown"
         },
         {
             "trait_type": "Whole Body",

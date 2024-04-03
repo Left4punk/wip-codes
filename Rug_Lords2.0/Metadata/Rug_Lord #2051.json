@@ -3,7 +3,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Dark blue"
+            "value": "Beach"
         },
         {
             "trait_type": "Base",
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Torso",
-            "value": "Bald"
+            "value": "Vest purple"
         },
         {
             "trait_type": "Facial Hair",
-            "value": "Stubble black"
+            "value": "Goatee"
         },
         {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Cigar"
         },
         {
             "trait_type": "Facewear",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Whole Body",
-            "value": "Thawb white"
+            "value": "None"
         },
         {
             "trait_type": "1/1",
