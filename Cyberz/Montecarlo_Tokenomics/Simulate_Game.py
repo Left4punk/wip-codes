@@ -294,30 +294,30 @@ def check_level_up(total_xp, total_bits, level, size, haste, crit):
 
     level_requirements = [
         {"level": 1, "xp_cost": 0, "bit_cost": 0},  # Initial Level
-        {"level": 2, "xp_cost": 300, "bit_cost": 450},
-        {"level": 3, "xp_cost": 900, "bit_cost": 500},
-        {"level": 4, "xp_cost": 1800, "bit_cost": 550},
-        {"level": 5, "xp_cost": 3200, "bit_cost": 600},
-        {"level": 6, "xp_cost": 4225, "bit_cost": 0},  
-        {"level": 7, "xp_cost": 5320, "bit_cost": 450},
-        {"level": 8, "xp_cost": 6495, "bit_cost": 500},
-        {"level": 9, "xp_cost": 7775, "bit_cost": 550},
-        {"level": 10, "xp_cost": 9185, "bit_cost": 600},
-        {"level": 11, "xp_cost": 10765, "bit_cost": 600},
-        {"level": 12, "xp_cost": 12545, "bit_cost": 600},
-        {"level": 13, "xp_cost": 14575, "bit_cost": 600},
-        {"level": 14, "xp_cost": 16925, "bit_cost": 600},
-        {"level": 15, "xp_cost": 19665, "bit_cost": 600},
-        {"level": 16, "xp_cost": 22905, "bit_cost": 600},
-        {"level": 17, "xp_cost": 26780, "bit_cost": 600},
-        {"level": 18, "xp_cost": 31455, "bit_cost": 600},
-        {"level": 19, "xp_cost": 37165, "bit_cost": 600},
-        {"level": 20, "xp_cost": 44215, "bit_cost": 600},
-        {"level": 21, "xp_cost": 53005, "bit_cost": 600},
-        {"level": 22, "xp_cost": 64090, "bit_cost": 600},
-        {"level": 23, "xp_cost": 78205, "bit_cost": 600},
-        {"level": 24, "xp_cost": 96370, "bit_cost": 600},
-        {"level": 25, "xp_cost": 120000, "bit_cost": 600},
+        {"level": 2, "xp_cost": 300, "bit_cost": 300},
+        {"level": 3, "xp_cost": 900, "bit_cost": 650},
+        {"level": 4, "xp_cost": 1800, "bit_cost": 1100},
+        {"level": 5, "xp_cost": 3200, "bit_cost": 1800},
+        {"level": 6, "xp_cost": 4225, "bit_cost": 1975},  
+        {"level": 7, "xp_cost": 5320, "bit_cost": 2200},
+        {"level": 8, "xp_cost": 6495, "bit_cost": 2565},
+        {"level": 9, "xp_cost": 7775, "bit_cost": 3080},
+        {"level": 10, "xp_cost": 9185, "bit_cost": 3745},
+        {"level": 11, "xp_cost": 10765, "bit_cost": 4555},
+        {"level": 12, "xp_cost": 12545, "bit_cost": 5515},
+        {"level": 13, "xp_cost": 14575, "bit_cost": 6620},
+        {"level": 14, "xp_cost": 16925, "bit_cost": 7875},
+        {"level": 15, "xp_cost": 19665, "bit_cost": 9275},
+        {"level": 16, "xp_cost": 22905, "bit_cost": 10825},
+        {"level": 17, "xp_cost": 26780, "bit_cost": 12520},
+        {"level": 18, "xp_cost": 31455, "bit_cost": 14365},
+        {"level": 19, "xp_cost": 37165, "bit_cost": 16355},
+        {"level": 20, "xp_cost": 44215, "bit_cost": 18495},
+        {"level": 21, "xp_cost": 53005, "bit_cost": 20780},
+        {"level": 22, "xp_cost": 64090, "bit_cost": 23215},
+        {"level": 23, "xp_cost": 78205, "bit_cost": 25800},
+        {"level": 24, "xp_cost": 96370, "bit_cost": 28525},
+        {"level": 25, "xp_cost": 120000, "bit_cost": 31400},
     ]
 
     
@@ -329,23 +329,25 @@ def check_level_up(total_xp, total_bits, level, size, haste, crit):
             
             ## we assign the 2 skill points randomly
             size, haste, crit = assign_skill_points(size, haste, crit)
+
+            total_bits -= next_level_req["bit_cost"]
             
-            return True, level + 1, size, haste, crit ##the true/false is needed as we'll need to upgrade the size/haste/crit variables
+            return True, level + 1, size, haste, crit, total_bits ##the true/false is needed as we'll need to upgrade the size/haste/crit variables
             
         else:
 
-            return False, level, size, haste, crit
+            return False, level, size, haste, crit, total_bits
     else:
 
-        return False, level, size, haste, crit  
+        return False, level, size, haste, crit, total_bits  
 
 def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_metal, total_plastic):
     rarity_levels = [5, 10, 15,20]  
     rarity_upgrade_requirements = {
-        'common': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
-        'uncommon': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
-        'rare': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
-        'epic': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120}
+        'common': {'junk_cost': 0, 'silicon_cost': 0, 'metal_cost': 0, 'plastic_cost': 0},
+        'uncommon': {'junk_cost': 0, 'silicon_cost': 80, 'metal_cost': 0, 'plastic_cost': 0},
+        'rare': {'junk_cost': 0, 'silicon_cost': 0, 'metal_cost': 0, 'plastic_cost': 0},
+        'epic': {'junk_cost': 0, 'silicon_cost': 0, 'metal_cost': 0, 'plastic_cost': 0}
         # add uncommon, rare costs
     }
     next_rarity = {
@@ -380,6 +382,19 @@ def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_met
         return rarity, total_junk, total_silicon, total_metal, total_plastic
 
 
+def check_all_bots_level_5(bots):
+    
+    all_level_5 = all(bot['level'] >= 5 for bot in bots) ## we check if all bots that are running the missions have reached level 5, if so returns false
+
+    return all_level_5
+
+def select_bot_for_leveling(bots):
+    
+    ## having reached level 5 for all bots, we will select the one that has the largest XP and we'll start leveling it exclusively
+
+    bot_for_leveling = max(bots, key=lambda bot: bot['total_xp'])
+    return bot_for_leveling['name']
+
 
 def main():
 
@@ -405,9 +420,12 @@ def main():
     total_silicon = 0
     accumulated_playtime = 0
 
+    all_bots_level_5 = False
+    bot_to_max_level = None
+
     i = 1
     # Establece la condición de parada del while aquí, por ejemplo, un número máximo de iteraciones o un nivel mínimo de energía
-    while i <= 1000:
+    while i <= 1500:
 
         for bot in list(bots):
 
@@ -470,24 +488,51 @@ def main():
             else:
                 total_silicon += total_material
             ## adding mission gains to general counters
-            ##checking if the bot can level up
-
-            can_level_up, new_level, new_size, new_haste, new_crit = check_level_up(bot['total_xp'], total_bits, bot['level'], bot['size'], bot['haste'], bot['crit'])
             
-            if can_level_up:
+            ##checking if the bot can level up
+            
+            ## here we include a logic where we check if all the bots are already leveled up to level 5, we will start only focusing on the selected bot to max level
+            if all_bots_level_5: ## if all bots are level 5, then we focus on the bot to max_level
+                
+                if bot_name == bot_to_max_level:
 
-                bot['level'] = new_level
-                bot['size'] = new_size
-                bot['haste'] = new_haste
-                bot['crit'] = new_crit
-                bot['resource_yield_increase'] = 0.01*bot['size']
-                bot['current_energy'] = bot['starting_energy'] + bot['size']
-                bot['mission_success_boost'] = 0.005*bot['haste']
-                bot['mission_crit_chance'] = 0.005*bot['crit']
+                    can_level_up, new_level, new_size, new_haste, new_crit, updated_total_bits = check_level_up(bot['total_xp'], total_bits, bot['level'], bot['size'], bot['haste'], bot['crit'])
+
+                    if can_level_up: ## if the bot that we are maxing can level up we change its parameters
+
+                        bot['level'] = new_level
+                        bot['size'] = new_size
+                        bot['haste'] = new_haste
+                        bot['crit'] = new_crit
+                        bot['resource_yield_increase'] = 0.01*bot['size']
+                        bot['current_energy'] = bot['starting_energy'] + bot['size']
+                        bot['mission_success_boost'] = 0.005*bot['haste']
+                        bot['mission_crit_chance'] = 0.005*bot['crit']
+
+                        total_bits = updated_total_bits ## substracting the bits
+
+            else: ##if not all bots are up to level 5 we to keep leveling all
+                    
+                can_level_up, new_level, new_size, new_haste, new_crit, updated_total_bits = check_level_up(bot['total_xp'], total_bits, bot['level'], bot['size'], bot['haste'], bot['crit'])
+
+                if can_level_up: ## if the bot that we are maxing can level up we change its parameters
+
+                    bot['level'] = new_level
+                    bot['size'] = new_size
+                    bot['haste'] = new_haste
+                    bot['crit'] = new_crit
+                    bot['resource_yield_increase'] = 0.01*bot['size']
+                    bot['current_energy'] = bot['starting_energy'] + bot['size']
+                    bot['mission_success_boost'] = 0.005*bot['haste']
+                    bot['mission_crit_chance'] = 0.005*bot['crit']
+
+                    total_bits = updated_total_bits ## substracting the bits
 
         
             ##we check if we can upgrade rarity just after level up bc you can get to lvl 5 and be able to upgrade w/o doing any mission
             bot['rarity'], total_junk, total_silicon, total_metal, total_plastic = check_and_upgrade_rarity(bot['level'], bot['rarity'], total_junk, total_silicon, total_metal, total_plastic)
+
+            ##end leveling up the bot
 
             #print (bot_name)
             # Store the final values
@@ -495,7 +540,18 @@ def main():
                         total_plastic, total_metal, total_silicon, bot['total_xp'], total_bits, total_junk, bot['current_energy'],accumulated_playtime, i])
             bot_stats.append ([bot['total_playtime'], bot['total_xp'], bot_name, bot['level'], bot['rarity'], bot['health'], 
                                bot['size'], bot['haste'], bot['crit'], bot['resilience'], bot['starting_energy'], bot['resource_yield_increase'], bot['mission_success_boost'], bot['mission_crit_chance'], i])
+        
+        ## here we check if all our 4 bots have reached level 5, if so we select which bot is going to be max leveled
+        if not all_bots_level_5:
+
+            all_bots_level_5 = check_all_bots_level_5(bots)
+
+            if all_bots_level_5:
+
+                bot_to_max_level = select_bot_for_leveling(bots)
+            
         #print(selected_mission_name, resource_name, mission_time, mission_status, total_material, xp_earned, final_bits, energy_cost, junk_earned, crit_mission)
+        
         i+=1
 
     # df creation to track
@@ -506,6 +562,7 @@ def main():
                 'Material Earned', 'XP Earned', 'Bits Earned', 'Energy Cost', 'Junk Earned']
     
     columns_stats = ['Total Play Time', 'Total XP','Bot Name', 'Level', 'Rarity', 'Health','Size','Haste','Crit','Resilience','Max Energy','Res. Yield Incr.','Mission Success Boost','Mission Crit Chance','Mission Number']
+
     df_results = pd.DataFrame(accumulated_results, columns=columns_accumulated)
     df_results.to_csv('accumulated_results.xlsx', index=False)
 
@@ -516,26 +573,33 @@ def main():
     df_bot_stats.to_csv('bot_stats.csv',index=False)
 
     df_missions_emissions = df_results[['Total Bits','Total Play Time']]
-    ##df_bot_avg_xp = df_bot_stats[['Total Play Time','Total XP','Bot Name']]
+    df_bot_avg_xp = df_bot_stats[['Total Play Time','Total XP','Bot Name','Level']]
     #df_bot_avg_xp.to_csv('xp_control.csv',index=False)
     #plot_xp_over_time_all_bots(df_bot_stats)
 
-    return df_missions_emissions
+    return df_missions_emissions, df_bot_avg_xp
 
 
 if __name__ == '__main__': 
 
-    #main ()
     all_runs_data = []
-    for i in range (1000):
+    all_bots_data = []
+
+    for i in range (100):
         print (f'Simulation #{i}')
-        df_mission_emissions = main()
-        last_four_rows = df_mission_emissions.iloc[-1:].copy()
-        last_four_rows['Simulation Run'] = i+1
-        all_runs_data.append(last_four_rows)
+        df_mission_emissions, df_bot_progression = main()
+        #last_emission_rows = df_mission_emissions.iloc[-1:].copy()
+        #last_four_rows = df_bot_progression.iloc[-4:].copy()
+        df_mission_emissions['Simulation Run'] = i+1
+        df_bot_progression['Simulation Run'] = i+1
+
+        all_runs_data.append(df_mission_emissions)
+        all_bots_data.append(df_bot_progression)
     
-    final_df = pd.concat(all_runs_data, ignore_index=True)
+    final_emissions_df = pd.concat(all_runs_data, ignore_index=True)
+    final_bots_df = pd.concat(all_bots_data, ignore_index=True)
     # Guardar el DataFrame consolidado en un archivo CSV
-    final_df.to_csv('bit_emissions_results_1000_runs.csv', index=False)
+    final_emissions_df.to_csv('full_bit_emissions_results_1000_runs.csv', index=False)
+    final_bots_df.to_csv('full_bot_results_1000_runs.csv', index=False)
     #main()
     
