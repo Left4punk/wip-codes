@@ -36,7 +36,7 @@ def Get_Rarities ():
     FacialHair_Rarity=[8,8,8,8,7,50,8,3]
     Mouth_Rarity=[10,10,70,10]
     Facewear_Rarity = [3,3,2,2,3,1,5,55,3,6,8,4]
-    Head_Rarity = [4,4,4,4,4,4,3,3,3,2,4,4,4,4,4,3,4,2,4,5,2,3,3,3,3,4,4,4,4,2,2,1,1]
+    Head_Rarity = [4,4,4,4,4,4,3,3,3,2,4,4,4,4,3,4,2,4,5,2,3,3,3,3,4,4,4,4,2,2,1,1]
     WholeBody_Rarity = [1,1,85,1,2,2,2,2,2,2]
     
     
@@ -591,11 +591,11 @@ if __name__ == '__main__':
             
             NFT_FacialHair = 'None.png'
 
-        if (NFT_Base == 'Ghost.png' and NFT_Mouth == 'Cigar.png'):
+        if (NFT_Base == 'Ghost.png' and NFT_Mouth != 'None.png'):
 
             NFT_Mouth = 'None.png'
 
-        
+
         ##other controls
         ##import final images
 
