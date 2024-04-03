@@ -539,6 +539,7 @@ if __name__ == '__main__':
         if (NFT_Mouth != 'None.png'):
             NFT_WholeBody = 'None.png'
 
+            conflict_background = ['Binary code.png','Binary purple.png','Night sky.png','Mosque.png']
             conflict_head = ['Grey & Red turban.png']
 
             for elem in conflict_head:
@@ -550,6 +551,16 @@ if __name__ == '__main__':
                     Head_Rarity.pop(remove_elem)
             
             NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
+
+            for elem in conflict_background:
+
+                if elem in conflict_background:
+
+                    remove_elem_bg = BackGrounds.index(elem)
+                    BackGrounds.pop (remove_elem_bg)
+                    BackGrounds_Rarity.pop(remove_elem_bg)
+
+            NFT_BackGrounds = random.choices(BackGrounds,weights=(BackGrounds_Rarity))[0]
 
         if (NFT_Head not in ['Fedora.png', 'Taqiyah beige', 'Taqiyah blue', 'Taqiyah dark green', 'Taqiyah red'] and NFT_Facewear == 'Vision Pro.png'):
 
@@ -576,7 +587,7 @@ if __name__ == '__main__':
         
         if NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 
-            NFT_Hand = random.choices(['OR Rune.png','None.png'],weights=(10,50))[0]
+            NFT_Hand = random.choices(['OR Rune.png','None.png'],weights=(10,90))[0]
             NFT_Mouth = 'None.png'
 
         if (NFT_Facewear in ['Pac-Man mask.png','Btc mask.png','Gox mask.png'] and NFT_Expression in ['Smile.png','Wink.png']):
@@ -594,7 +605,6 @@ if __name__ == '__main__':
         if (NFT_Base == 'Ghost.png' and NFT_Mouth != 'None.png'):
 
             NFT_Mouth = 'None.png'
-
 
         ##other controls
         ##import final images
