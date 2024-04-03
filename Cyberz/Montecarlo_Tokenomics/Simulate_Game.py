@@ -70,7 +70,7 @@ def generate_bot (bot_name):
 
 def roll_mission_destruction (resilience):
 
-    destruction_number = random.randint(1,100000000000)
+    destruction_number = random.randint(1,10000000000000)
 
     return True if destruction_number<resilience else False
 
@@ -93,14 +93,14 @@ def data_vaults_mission(hours, resilience,mission_success_boost):
         bot_status = True
 
     mission_rewards = {
-        2: {'silicon_range': (1, 2), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
-        4: {'silicon_range': (2, 3), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
-        8: {'silicon_range': (4, 6), 'xp_hour': 50, 'bits_hour': 50, 'junk_hour': (2, 4)},
+        2: {'silicon_range': (1, 2), 'xp_hour': 50, 'bits_hour': 20, 'junk_hour': (2, 4)},
+        4: {'silicon_range': (2, 3), 'xp_hour': 50, 'bits_hour': 20, 'junk_hour': (2, 4)},
+        8: {'silicon_range': (4, 6), 'xp_hour': 50, 'bits_hour': 20, 'junk_hour': (2, 4)},
     }
 
     failure_rewards = {
         'xp_hour': 15,
-        'bits_hour': 15,
+        'bits_hour': 10,
         'junk_hour': (0,0),
         'silicon_reward': 0,
     }
@@ -136,14 +136,14 @@ def refinery_mission(hours, resilience,mission_success_boost):
         bot_status = True
 
     mission_rewards = {
-        2: {'metal_range': (2, 3), 'xp_hour': 40, 'bits_hour': 40, 'junk_hour': (2, 4)},
-        4: {'metal_range': (3, 4), 'xp_hour': 40, 'bits_hour': 40, 'junk_hour': (2, 4)},
-        8: {'metal_range': (5, 8), 'xp_hour': 40, 'bits_hour': 40, 'junk_hour': (2, 4)},
+        2: {'metal_range': (2, 3), 'xp_hour': 40, 'bits_hour': 15, 'junk_hour': (2, 4)},
+        4: {'metal_range': (3, 4), 'xp_hour': 40, 'bits_hour': 15, 'junk_hour': (2, 4)},
+        8: {'metal_range': (5, 8), 'xp_hour': 40, 'bits_hour': 15, 'junk_hour': (2, 4)},
     }
 
     failure_rewards = {
         'xp_hour': 12,
-        'bits_hour': 12,
+        'bits_hour': 8,
         'junk_hour': (0,0),
         'metal_range': 0,
     }
@@ -179,14 +179,14 @@ def plastic_mission(hours, resilience,mission_success_boost):
 
     sucess_rate = 0.6+mission_success_boost
     mission_rewards = {
-        2: {'plastic_range': (4, 5), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
-        4: {'plastic_range': (5, 8), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
-        8: {'plastic_range': (6, 16), 'xp_hour': 30, 'bits_hour': 30, 'junk_hour': (2, 4)},
+        2: {'plastic_range': (4, 5), 'xp_hour': 30, 'bits_hour': 10, 'junk_hour': (2, 4)},
+        4: {'plastic_range': (5, 8), 'xp_hour': 30, 'bits_hour': 10, 'junk_hour': (2, 4)},
+        8: {'plastic_range': (6, 16), 'xp_hour': 30, 'bits_hour': 10, 'junk_hour': (2, 4)},
     }
 
     failure_rewards = {
         'xp_hour': 9,
-        'bits_hour': 9,
+        'bits_hour': 5,
         'junk_hour': (0,0),
         'plastic_range': 0,
     }
@@ -294,13 +294,35 @@ def check_level_up(total_xp, total_bits, level, size, haste, crit):
 
     level_requirements = [
         {"level": 1, "xp_cost": 0, "bit_cost": 0},  # Initial Level
-        {"level": 2, "xp_cost": 700, "bit_cost": 450},
-        {"level": 3, "xp_cost": 800, "bit_cost": 500},
-        {"level": 4, "xp_cost": 900, "bit_cost": 550},
-        {"level": 5, "xp_cost": 1000, "bit_cost": 600},
+        {"level": 2, "xp_cost": 300, "bit_cost": 450},
+        {"level": 3, "xp_cost": 900, "bit_cost": 500},
+        {"level": 4, "xp_cost": 1800, "bit_cost": 550},
+        {"level": 5, "xp_cost": 3200, "bit_cost": 600},
+        {"level": 6, "xp_cost": 4225, "bit_cost": 0},  
+        {"level": 7, "xp_cost": 5320, "bit_cost": 450},
+        {"level": 8, "xp_cost": 6495, "bit_cost": 500},
+        {"level": 9, "xp_cost": 7775, "bit_cost": 550},
+        {"level": 10, "xp_cost": 9185, "bit_cost": 600},
+        {"level": 11, "xp_cost": 10765, "bit_cost": 600},
+        {"level": 12, "xp_cost": 12545, "bit_cost": 600},
+        {"level": 13, "xp_cost": 14575, "bit_cost": 600},
+        {"level": 14, "xp_cost": 16925, "bit_cost": 600},
+        {"level": 15, "xp_cost": 19665, "bit_cost": 600},
+        {"level": 16, "xp_cost": 22905, "bit_cost": 600},
+        {"level": 17, "xp_cost": 26780, "bit_cost": 600},
+        {"level": 18, "xp_cost": 31455, "bit_cost": 600},
+        {"level": 19, "xp_cost": 37165, "bit_cost": 600},
+        {"level": 20, "xp_cost": 44215, "bit_cost": 600},
+        {"level": 21, "xp_cost": 53005, "bit_cost": 600},
+        {"level": 22, "xp_cost": 64090, "bit_cost": 600},
+        {"level": 23, "xp_cost": 78205, "bit_cost": 600},
+        {"level": 24, "xp_cost": 96370, "bit_cost": 600},
+        {"level": 25, "xp_cost": 120000, "bit_cost": 600},
     ]
+
     
     if level < len(level_requirements):
+        
         next_level_req = level_requirements[level]  # Check requirements for next level
 
         if total_xp >= next_level_req["xp_cost"] and total_bits >= next_level_req["bit_cost"]:
@@ -318,9 +340,12 @@ def check_level_up(total_xp, total_bits, level, size, haste, crit):
         return False, level, size, haste, crit  
 
 def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_metal, total_plastic):
-    rarity_levels = [5, 10, 15]  
+    rarity_levels = [5, 10, 15,20]  
     rarity_upgrade_requirements = {
         'common': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
+        'uncommon': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
+        'rare': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120},
+        'epic': {'junk_cost': 150, 'silicon_cost': 80, 'metal_cost': 40, 'plastic_cost': 120}
         # add uncommon, rare costs
     }
     next_rarity = {
@@ -351,7 +376,7 @@ def check_and_upgrade_rarity(level, rarity, total_junk, total_silicon, total_met
             ##print("Not enough resources to upgrade rarity.")
             return rarity, total_junk, total_silicon, total_metal, total_plastic
     else:
-        # we dont have enough level to upgrade or we are at max level
+        # we dont have enough level to upgrade or we are at max rarity level
         return rarity, total_junk, total_silicon, total_metal, total_plastic
 
 
@@ -382,7 +407,7 @@ def main():
 
     i = 1
     # Establece la condición de parada del while aquí, por ejemplo, un número máximo de iteraciones o un nivel mínimo de energía
-    while i <= 500:
+    while i <= 1000:
 
         for bot in list(bots):
 
@@ -490,11 +515,12 @@ def main():
     df_bot_stats = pd.DataFrame(bot_stats, columns=columns_stats)
     df_bot_stats.to_csv('bot_stats.csv',index=False)
 
-    df_bot_avg_xp = df_bot_stats[['Total Play Time','Total XP','Bot Name']]
+    df_missions_emissions = df_results[['Total Bits','Total Play Time']]
+    ##df_bot_avg_xp = df_bot_stats[['Total Play Time','Total XP','Bot Name']]
     #df_bot_avg_xp.to_csv('xp_control.csv',index=False)
     #plot_xp_over_time_all_bots(df_bot_stats)
 
-    return df_bot_avg_xp
+    return df_missions_emissions
 
 
 if __name__ == '__main__': 
@@ -502,14 +528,14 @@ if __name__ == '__main__':
     #main ()
     all_runs_data = []
     for i in range (1000):
-        print (i)
-        df_bot_avg_xp = main()
-        last_four_rows = df_bot_avg_xp.iloc[-4:].copy()
+        print (f'Simulation #{i}')
+        df_mission_emissions = main()
+        last_four_rows = df_mission_emissions.iloc[-1:].copy()
         last_four_rows['Simulation Run'] = i+1
         all_runs_data.append(last_four_rows)
     
     final_df = pd.concat(all_runs_data, ignore_index=True)
     # Guardar el DataFrame consolidado en un archivo CSV
-    final_df.to_csv('xp_final_results_1000_runs.csv', index=False)
+    final_df.to_csv('bit_emissions_results_1000_runs.csv', index=False)
     #main()
     
