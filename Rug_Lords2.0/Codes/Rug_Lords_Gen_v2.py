@@ -7,6 +7,7 @@ import random
 from PIL import Image
 from random import randint
 from pathlib import Path
+import time
 
 def Get_One_on_Ones ():
 
@@ -34,7 +35,7 @@ def Get_Rarities ():
     Base_Rarity = [21,22,5,3,22,23,4]
     Torso_Rarity=[5,4,4,6,6,6,6,4,3,6,4,4,4,4,6,6,6,6,6,3,3]
     FacialHair_Rarity=[8,8,8,8,7,50,8,3]
-    Mouth_Rarity=[10,10,70,10]
+    Mouth_Rarity=[10,5,80,5]
     Facewear_Rarity = [3,3,2,2,3,1,5,55,3,6,8,4]
     Head_Rarity = [4,4,4,4,4,4,3,3,3,2,4,4,4,4,3,4,2,4,5,2,3,3,3,3,4,4,4,4,2,2,1,1]
     WholeBody_Rarity = [1,1,85,1,2,2,2,2,2,2]
@@ -81,9 +82,10 @@ def Get_NFT_Hands_Expression(Base):
 
     if (Base in ['White','Tan','Brown','Black']):
 
-        Hand_Rarity = [4,50,2,6,6,6,6,6,6,6,6,6,6,6]
+        Hand_Rarity = [4,70,2,4,4,3,4,5,4,4,5,4,3,3]
     else:
-        Hand_Rarity = [2,77,2,5,1,1,1,5,4,6,4]
+        Hand_Rarity = [4,70,2,4,5,4,4,5,4,3,3]
+
     NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
     
     Expression_Path = f"{input_path}/2 - Expression/{Base}/"
@@ -516,7 +518,7 @@ if __name__ == '__main__':
         ADN_List, control = control_ADN(NFT_BackGrounds, NFT_Base, NFT_Expression, NFT_Torso, NFT_Mouth, NFT_FacialHair, NFT_Facewear, NFT_Head, NFT_WholeBody, NFT_Hand)
         if control: continue
 
-        
+        print (NFT_Hand)
 
         ## control
         ##full restrictive controls
@@ -581,13 +583,13 @@ if __name__ == '__main__':
             NFT_FacialHair = 'None.png'
 
 
-        if NFT_Mouth != 'None':
+        if NFT_Mouth != 'None.png':
             
-            NFT_Hand = random.choices(['OR Rune.png', 'None.png'],weights=(10,30))[0]
+            NFT_Hand = random.choices(['OR rune.png',  'None.png'],weights=(10,30))[0]
         
         if NFT_Facewear in ['Laser eyes red.png', 'Laser eyes orange.png', 'Laser eyes green.png', 'Laser eyes cyan.png']:
 
-            NFT_Hand = random.choices(['OR Rune.png','None.png'],weights=(10,90))[0]
+            NFT_Hand = random.choices(['OR rune.png','None.png'],weights=(10,90))[0]
             NFT_Mouth = 'None.png'
 
         if (NFT_Facewear in ['Pac-Man mask.png','Btc mask.png','Gox mask.png'] and NFT_Expression in ['Smile.png','Wink.png']):
@@ -606,6 +608,7 @@ if __name__ == '__main__':
 
             NFT_Mouth = 'None.png'
 
+        print (NFT_Hand)
         ##other controls
         ##import final images
 
@@ -687,4 +690,5 @@ if __name__ == '__main__':
         final_resized = final.resize((480, 480), Image.NEAREST)
         final_resized.save(f'{output_path_resized}/Rug_Lord #{i}.png')
         print (rf"Rug Lord #{i}")
+        #time.sleep(2)
         i+=1
