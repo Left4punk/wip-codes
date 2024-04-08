@@ -598,8 +598,8 @@ if __name__ == '__main__':
     
     final_emissions_df = pd.concat(all_runs_data, ignore_index=True)
     final_bots_df = pd.concat(all_bots_data, ignore_index=True)
-    # Guardar el DataFrame consolidado en un archivo CSV
-    final_emissions_df.to_csv('full_bit_emissions_results_1000_runs.csv', index=False)
-    final_bots_df.to_csv('full_bot_results_1000_runs.csv', index=False)
+    # Store DF
+    final_emissions_df.to_csv('full_bit_emissions_results_100_runs.csv', index=False)
+    final_bots_df.to_csv('full_bot_results_100_runs.csv', index=False)
     #main()
     
