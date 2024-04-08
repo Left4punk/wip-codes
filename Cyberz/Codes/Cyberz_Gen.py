@@ -11,63 +11,49 @@ from pathlib import Path
 
 def Get_Layers ():
     
+    Background = [f for f in listdir(f"{input_path}/BACKGROUND") if isfile(join(f"{input_path}/BACKGROUND", f))]
+    Base = [f for f in listdir(f"{input_path}/BASES") if isfile(join(f"{input_path}/BASES", f))]
+    Eyes = [f for f in listdir(f"{input_path}/EYES") if isfile(join(f"{input_path}/EYES", f))]
+    Eyewear = [f for f in listdir(f"{input_path}/EYEWEAR") if isfile(join(f"{input_path}/EYEWEAR", f))]
+    Headwear = [f for f in listdir(f"{input_path}/HEADWEAR") if isfile(join(f"{input_path}/HEADWEAR", f))]
+    Mask = [f for f in listdir(f"{input_path}/MASKS") if isfile(join(f"{input_path}/MASKS", f))]
+    Mouth = [f for f in listdir(f"{input_path}/MOUTH") if isfile(join(f"{input_path}/MOUTH", f))]
+    Clothing = [f for f in listdir(f"{input_path}/CLOTHING") if isfile(join(f"{input_path}/CLOTHING", f))]
     
-    BackGrounds = [f for f in listdir(f"{input_path}/1.background") if isfile(join(f"{input_path}/1.background", f))]
-    Base = [f for f in listdir(f"{input_path}/2.body") if isfile(join(f"{input_path}/2.body", f))]
-    Clothes = [f for f in listdir(f"{input_path}/3.clothes") if isfile(join(f"{input_path}/3.clothes", f))]
-    Eyes = [f for f in listdir(f"{input_path}/4.eyes") if isfile(join(f"{input_path}/4.eyes", f))]
-    Mouth = [f for f in listdir(f"{input_path}/5.mouth") if isfile(join(f"{input_path}/5.mouth", f))]
-    Head = [f for f in listdir(f"{input_path}/6.head") if isfile(join(f"{input_path}/6.head", f))]
-    Mask = [f for f in listdir(f"{input_path}/7.mask") if isfile(join(f"{input_path}/7.mask", f))]
 
-    return  BackGrounds, Base, Clothes, Eyes, Mouth, Head, Mask
+    return  Background, Base, Eyes, Eyewear, Headwear, Mask, Mouth, Clothing
 
 
 def Get_Rarities ():
     
-    BackGrounds_Rarity = [10,10,10,10,10,10,10,10,10]
+    Background_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10]
     Base_Rarity = [10,10,10,10]
-    Clothes_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Eyes_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Mouth_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Head_Rarity=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    Mask_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
-    
-    return BackGrounds_Rarity, Base_Rarity, Clothes_Rarity, Eyes_Rarity, Mouth_Rarity, Head_Rarity, Mask_Rarity
+    Eyes_Rarity = [10,10,10,10,10,10]
+    Eyewear_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Headwear_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Mask_Rarity = [0,10,10,10,10,10,10,10,10,10,10,10,10,10]
+    Mouth_Rarity = [10,10,10,10,10,10,10,10,10]
+    Clothing_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
 
-def NFT_First_Iteration(BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Clothes,Clothes_Rarity,Eyes,Eyes_Rarity,Mouth,Mouth_Rarity,Head,Head_Rarity,Mask,Mask_Rarity):
+    return Background_Rarity, Base_Rarity, Eyes_Rarity, Eyewear_Rarity, Headwear_Rarity, Mask_Rarity, Mouth_Rarity, Clothing_Rarity
+
+def NFT_First_Iteration(Background, Background_Rarity, Base, Base_Rarity, Eyes, Eyes_Rarity, Eyewear, Eyewear_Rarity, Headwear, Headwear_Rarity, Mask, Mask_Rarity, Mouth, Mouth_Rarity, Clothing, Clothing_Rarity):
   
-
-    NFT_BackGrounds = random.choices(BackGrounds,weights=(BackGrounds_Rarity))[0]
+    NFT_Backgrounds = random.choices(Background,weights=(Background_Rarity))[0]
     NFT_Base = random.choices(Base,weights=(Base_Rarity))[0]
-    NFT_Clothes = random.choices(Clothes,weights=(Clothes_Rarity))[0]
     NFT_Eyes = random.choices(Eyes,weights=(Eyes_Rarity))[0]
-    NFT_Mouth = random.choices(Mouth,weights=(Mouth_Rarity))[0]
-    NFT_Head = random.choices(Head,weights=(Head_Rarity))[0]
+    NFT_Eyewear = random.choices(Eyewear,weights=(Eyewear_Rarity))[0]
+    NFT_Headwear = random.choices(Headwear,weights=(Headwear_Rarity))[0]
     NFT_Mask = random.choices(Mask,weights=(Mask_Rarity))[0]
+    NFT_Mouth = random.choices(Mouth,weights=(Mouth_Rarity))[0]
+    NFT_Clothing = random.choices(Clothing,weights=(Clothing_Rarity))[0]
     
-    return NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask 
+    return NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing
 
-def Get_NFT_Hands(Base):
 
-    Base = Base.split('.')[0]
-
-    Hand_Path = f"{input_path}/10 - Hand/{Base}/"
-    Hands = [f for f in listdir(Hand_Path) if isfile(join(Hand_Path, f))]
+def control_ADN(ADN_list, NFT_Backgrounds, NFT_Base, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing, NFT_Hair, NFT_Eyebrow):
     
-    if (Base == 'Tanned'):
-        Hand_Rarity = [10,10,10,10,10,10,10,10,10,10,10,10]
-    
-    else:
-        Hand_Rarity = [100]
-
-    NFT_Hand = random.choices(Hands,weights=(Hand_Rarity))[0] 
-    
-    return NFT_Hand
-    
-def control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask):
-    
-    ADN_NFT = NFT_BackGrounds + "&" + NFT_Base + "&" + NFT_Clothes + "&" + NFT_Eyes + "&" + NFT_Mouth + "&" + NFT_Head + "&" + NFT_Mask
+    ADN_NFT = NFT_Backgrounds + "&" + NFT_Base + "&" + NFT_Eyewear + "&" + NFT_Headwear + "&" + NFT_Mask + "&" + NFT_Mouth + "&" + NFT_Clothing + "&" + NFT_Hair + "&" + NFT_Eyebrow
     
     if (ADN_NFT in ADN_list):
         control = True
@@ -79,42 +65,62 @@ def control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_M
     return ADN_list, control
 
 
-def get_Images (NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask):
+def get_Images(NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing):
 
-    Image_BackGrounds = f'{input_path}/1.background/'+NFT_BackGrounds
-    Image_Base = f'{input_path}/2.body/'+NFT_Base
-    Image_Clothes = f'{input_path}/3.clothes/'+NFT_Clothes
-    Image_Eyes = f'{input_path}/4.eyes/'+NFT_Eyes
-    Image_Mouth = f'{input_path}/5.mouth/'+NFT_Mouth
-    Image_Head = f'{input_path}/6.head/'+NFT_Head
-    Image_Mask = f'{input_path}/7.mask/'+NFT_Mask
+    Image_Background = f'{input_path}/BACKGROUND/'+NFT_Backgrounds
+    Image_Base = f'{input_path}/BASES/'+NFT_Base
+    Image_Eyes = f'{input_path}/EYES/'+NFT_Eyes
+    Image_Eyewear = f'{input_path}/EYEWEAR/'+NFT_Eyewear
+    Image_Headwear = f'{input_path}/HEADWEAR/'+NFT_Headwear
+    Image_Mask = f'{input_path}/MASKS/'+NFT_Mask
+    Image_Mouth = f'{input_path}/MOUTH/'+NFT_Mouth
+    Image_Clothing = f'{input_path}/CLOTHING/'+NFT_Clothing
  
-    return Image_BackGrounds, Image_Base, Image_Clothes, Image_Eyes, Image_Mouth, Image_Head, Image_Mask
+    return Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing
 
-def get_NFT_main (Image_BackGrounds, Image_Base, Image_Clothes, Image_Eyes, Image_Mouth, Image_Head, Image_Mask):
+def get_Images_Hair(NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing, NFT_Hair, Color_Hair, NFT_Eyebrow):
+
+    Image_Background = f'{input_path}/BACKGROUND/'+NFT_Backgrounds
+    Image_Base = f'{input_path}/BASES/'+NFT_Base
+    Image_Eyes = f'{input_path}/EYES/'+NFT_Eyes
+    Image_Eyewear = f'{input_path}/EYEWEAR/'+NFT_Eyewear
+    Image_Headwear = f'{input_path}/HEADWEAR/'+NFT_Headwear
+    Image_Mask = f'{input_path}/MASKS/'+NFT_Mask
+    Image_Mouth = f'{input_path}/MOUTH/'+NFT_Mouth
+    Image_Clothing = f'{input_path}/CLOTHING/'+NFT_Clothing
+    Image_Hair = f'{input_path}/HAIR/{Color_Hair}/'+NFT_Hair
+    Image_Eyebrows = f'{input_path}/EYEBROWS/'+NFT_Eyebrow
+
+
+    return Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing, Image_Hair, Image_Eyebrows
+
+def get_NFT_main (Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing):
     
-   
-    BackGround_Image = Image.open(Image_BackGrounds).convert("RGBA")
-    
+    Background_Image = Image.open(Image_Background).convert("RGBA")
+
     Base_Image = Image.open(Image_Base).convert("RGBA")
-
-    int1 = Image.alpha_composite(BackGround_Image, Base_Image)
     
-    Clothes_Image = Image.open(Image_Clothes).convert("RGBA")
+    int0 = Image.alpha_composite(Background_Image, Base_Image)
+    
+    Eyes_Image = Image.open(Image_Eyes).convert("RGBA")
+
+    int1 = Image.alpha_composite(int0, Eyes_Image)
+    
+    Clothes_Image = Image.open(Image_Clothing).convert("RGBA")
 
     int2 = Image.alpha_composite(int1, Clothes_Image)
 
-    Eyes_Image = Image.open(Image_Eyes).convert("RGBA")
+    Headwear_Image = Image.open(Image_Headwear).convert("RGBA")
 
-    int3 = Image.alpha_composite(int2,Eyes_Image)
+    int3 = Image.alpha_composite(int2,Headwear_Image)
+
+    Eyewear_Image = Image.open(Image_Eyewear).convert("RGBA")
+
+    int4 = Image.alpha_composite(int3, Eyewear_Image)
 
     Mouth_Image = Image.open(Image_Mouth).convert("RGBA")
     
-    int4 = Image.alpha_composite(int3, Mouth_Image)
-
-    Head_Image = Image.open(Image_Head).convert("RGBA")
-    
-    int5 = Image.alpha_composite(int4, Head_Image)
+    int5 = Image.alpha_composite(int4, Mouth_Image)
 
     Mask_Image = Image.open(Image_Mask).convert("RGBA")
 
@@ -122,6 +128,47 @@ def get_NFT_main (Image_BackGrounds, Image_Base, Image_Clothes, Image_Eyes, Imag
 
     return final
 
+def get_NFT_main_Hair (Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing, Image_Hair, Image_Eyebrows):
+
+    Background_Image = Image.open(Image_Background).convert("RGBA")
+
+    Base_Image = Image.open(Image_Base).convert("RGBA")
+    
+    int0 = Image.alpha_composite(Background_Image, Base_Image)
+
+    Eyes_Image = Image.open(Image_Eyes).convert("RGBA")
+
+    int1 = Image.alpha_composite(int0, Eyes_Image)
+
+    Hair_Image = Image.open(Image_Hair).convert("RGBA")
+
+    int2 = Image.alpha_composite(int1, Hair_Image)
+
+    Eyebrows_Image = Image.open(Image_Eyebrows).convert("RGBA")
+
+    int3 = Image.alpha_composite(int2, Eyebrows_Image)
+
+    Clothes_Image = Image.open(Image_Clothing).convert("RGBA")
+
+    int4 = Image.alpha_composite(int3, Clothes_Image)
+
+    Eyewear_Image = Image.open(Image_Eyewear).convert("RGBA")
+
+    int5 = Image.alpha_composite(int4,Eyewear_Image)
+
+    Mouth_Image = Image.open(Image_Mouth).convert("RGBA")
+    
+    int6 = Image.alpha_composite(int5, Mouth_Image)
+
+    Headwear_Image = Image.open(Image_Headwear).convert("RGBA")
+    
+    int7 = Image.alpha_composite(int6, Headwear_Image)
+
+    Mask_Image = Image.open(Image_Mask).convert("RGBA")
+
+    final = Image.alpha_composite(int7, Mask_Image)
+
+    return final
 
 if __name__ == '__main__':
 
@@ -149,47 +196,76 @@ if __name__ == '__main__':
     collection_number = 501  
 
     ## adding 1on1s
-    
+    hair_colors = ['Blue','Brown','Green','Grey','Orange','Purple']
     i = 1
     while (i<collection_number):
         
             
         ## getting layers & rarities per run ##
-        BackGrounds, Base, Clothes, Eyes, Mouth, Head, Mask = Get_Layers ()
-        BackGrounds_Rarity, Base_Rarity, Clothes_Rarity, Eyes_Rarity, Mouth_Rarity, Head_Rarity, Mask_Rarity = Get_Rarities()
+        Background, Base, Eyes, Eyewear, Headwear, Mask, Mouth, Clothing = Get_Layers ()
+        Background_Rarity, Base_Rarity, Eyes_Rarity, Eyewear_Rarity, Headwear_Rarity, Mask_Rarity, Mouth_Rarity, Clothing_Rarity = Get_Rarities()
         ## getting layers & rarities per run ##
 
         
         ##get first layers
-        NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask = NFT_First_Iteration (BackGrounds, BackGrounds_Rarity,Base,Base_Rarity,Clothes,Clothes_Rarity,
-                                                                                                               Eyes,Eyes_Rarity,Mouth,Mouth_Rarity,Head,Head_Rarity,Mask,Mask_Rarity)
+        NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing = NFT_First_Iteration(Background, Background_Rarity, Base, Base_Rarity, Eyes, Eyes_Rarity, Eyewear, Eyewear_Rarity, 
+                                                                                                               Headwear, Headwear_Rarity, Mask, Mask_Rarity, Mouth, Mouth_Rarity, Clothing, Clothing_Rarity)
+        ##get hair & eyebrows layers
+        print (NFT_Headwear)
 
-        ##get first layers
+        Need_Hair = True
+
+        if ('-' in NFT_Headwear):
+            Need_Hair = False
+            Color_Hair = NFT_Headwear.split('-')[1].split('.')[0]
+            NFT_Hair = Color_Hair + '.png'
+            NFT_Eyebrow = Color_Hair + '.png'
+            
         
-        NFT_Head_Excluded = []
+        if (Need_Hair):
+
+            Color_Hair = random.choice(hair_colors)
+
+            Hair = [f for f in listdir(f"{input_path}/HAIR/{Color_Hair}") if isfile(join(f"{input_path}/HAIR/{Color_Hair}", f))]
+            Hair_Rarity = [10,10,10,10,10,10,10,10]
+
+            NFT_Hair = random.choices(Hair,weights=(Hair_Rarity))[0]
+            NFT_Eyebrow = Color_Hair + '.png'
+        
+        print (NFT_Hair, NFT_Eyebrow)
 
         #conflicts
 
         ## control
     
-        ADN_List, control = control_ADN(ADN_list,NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask)
+        ADN_List, control = control_ADN(ADN_list, NFT_Backgrounds, NFT_Base, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing, NFT_Hair, NFT_Eyebrow)
         if control: continue
     
         ## control
     
         ##import final images
-        Image_BackGrounds, Image_Base, Image_Clothes, Image_Eyes, Image_Mouth, Image_Head, Image_Mask = get_Images (NFT_BackGrounds, NFT_Base, NFT_Clothes, NFT_Eyes, NFT_Mouth, NFT_Head, NFT_Mask)
+        if (Need_Hair):
+            Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing, Image_Hair, Image_Eyebrows = get_Images_Hair(NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, 
+                                                                                                                                                                           NFT_Mask, NFT_Mouth, NFT_Clothing, NFT_Hair, Color_Hair, NFT_Eyebrow)
+            print (Image_Hair)
+        else:
+            Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing = get_Images(NFT_Backgrounds, NFT_Base, NFT_Eyes, NFT_Eyewear, NFT_Headwear, NFT_Mask, NFT_Mouth, NFT_Clothing)
             
         ##import final images
-    
+
+        
         ##image generation
         
+        if (Need_Hair):
 
-        final = get_NFT_main (Image_BackGrounds, Image_Base, Image_Clothes, Image_Eyes, Image_Mouth, Image_Head, Image_Mask)
+            final = get_NFT_main_Hair (Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing, Image_Hair, Image_Eyebrows)
         
+        else:
+
+            final = get_NFT_main (Image_Background, Image_Base, Image_Eyes, Image_Eyewear, Image_Headwear, Image_Mask, Image_Mouth, Image_Clothing)
 
         final.save (f'{output_path}/Cyberz #{i}.png'),
-
+        sys.exit()
         metadata = {
             'name': f'Cyberz #{i}',
             'attributes': [
